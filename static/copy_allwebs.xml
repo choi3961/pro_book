@@ -1,0 +1,447 @@
+<allwebs>
+  <body>
+    <regular_web>
+      <web>
+        <title>work_process</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/process</link>
+          <parent>process</parent>
+        </contents>
+      </web>            
+      <web>
+        <title>BookEditor</title>
+        <contents>
+          <state added="true"/>
+          <link>/bookedit/1</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>book2</title>
+        <contents>
+          <state added="true"/>
+          <link>/book2/1</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Tagger</title>
+        <contents>
+          <state added="true"/>
+          <link>/book2/tagger</link>
+          <parent>book2</parent>
+        </contents>
+      </web>      
+      <web>
+        <title>Poem Editor</title>
+        <contents>
+          <state added="true"/>
+          <link>/poem/1</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Diary</title>
+        <contents>
+          <state added="true"/>
+          <link>/diary/1</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>HTML Editor</title>
+        <contents>
+          <state added="true"/>
+          <link>/html_editor/1</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Source System</title>
+        <contents>
+          <state added="true"/>
+          <link>/sourcesystem</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Book Making</title>
+        <contents>
+          <state added="true"/>
+          <link>/book_making</link>
+          <parent>test</parent>
+        </contents>
+        <ref>
+          <source/>
+        </ref>
+      </web>
+      <web>
+        <title>BooksClassic</title>
+        <contents>
+          <state added="true"/>
+          <link>http://www.booksclassic.com</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>sinto.barosale.com</title>
+        <contents>
+          <state added="true"/>
+          <link>http://sinto.barosale.com</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>p1.harvardweb.biz</title>
+        <contents>
+          <state added="true"/>
+          <link>http://p1.harvardweb.biz</link>
+          <parent>dynamic web</parent>
+        </contents>
+      </web>
+      <web>
+        <title>p2.harvardweb.biz</title>
+        <contents>
+          <state added="true"/>
+          <link>http://p2.harvardweb.biz</link>
+          <parent>dynamic web</parent>
+        </contents>
+      </web>
+      <web>
+        <title>p3.harvardweb.biz</title>
+        <contents>
+          <state added="true"/>
+          <link>http://p3.harvardweb.biz</link>
+          <parent>dynamic web</parent>
+        </contents>
+      </web>
+      <web>
+        <title>p4.harvardweb.biz</title>
+        <contents>
+          <state added="true"/>
+          <link>http://p4.harvardweb.biz</link>
+          <parent>dynamic web</parent>
+        </contents>
+      </web>
+      <web>
+        <title>p5.harvardweb.biz</title>
+        <contents>
+          <state added="true"/>
+          <link>http://p5.harvardweb.biz</link>
+          <parent>dynamic web</parent>
+        </contents>
+      </web>
+      <web>
+        <title>cocoon.xml</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Assign1</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon/assignment1/index.html</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Assign2</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon/assignment2/index.html</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Assign3</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon/assignment3/index.html</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Assign4</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon/assignment4/index.html</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Assign5</title>
+        <contents>
+          <state added="true"/>
+          <link>http://localhost:8080/cocoon/final_project/index.html</link>
+          <parent>test</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Joomla</title>
+        <contents>
+          <state added="true"/>
+          <link>http://jaekyuc.siteground.net/joomla/index.php</link>
+          <parent>CMS</parent>
+        </contents>
+      </web>
+      <web>
+        <title>WordPress</title>
+        <contents>
+          <state added="true"/>
+          <link>http://wordpress.harvardweb.biz/</link>
+          <parent>CMS</parent>
+        </contents>
+      </web>
+      <web>
+        <title>Drupal</title>
+        <contents>
+          <state added="true"/>
+          <link>http://drupal.harvardweb.biz/</link>
+          <parent>CMS</parent>
+        </contents>
+      </web>
+    </regular_web>
+    <xml_web>
+      <web>
+        <title>XML</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/xml/1</link>
+          <parent>CMS</parent>
+        </contents>
+      </web>     
+    </xml_web>
+    <file_web>
+      <web>
+        <title>My Profile</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment0/aboutme-html5.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>
+        </contents>
+      </web> 
+      <web>
+        <title>Fundamental-1</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment1/answers.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web> 
+      <web>
+        <title>Fun2-answers</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment1/answers.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web> 
+      <web>
+        <title>Fun-3</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment1/harvard_guide_dce.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web> 
+      <web>
+        <title>Fundamental-4</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment1/lunch_special.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web> 
+      <web>
+        <title>Fundamental-5</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port/cscie12_assignment1/us_census.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>   
+      <web>
+        <title>js-index</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit1/index.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>        
+      <web>
+        <title>js-project1</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit1/project1.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>        
+      <web>
+        <title>js-project2a</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit2/ProjectUnit2A.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>       
+      <web>
+        <title>js-project2b</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit2/project2b.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>        
+      <web>
+        <title>js-project3a</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit3A/CSCIE3HomeworkUnit3a.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web> 
+      <web>
+        <title>js-project3b</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/cscie3ProjectUnit3B/CSCIE3HomeworkUnit3b.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>         
+      <web>
+        <title>js-project4</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/project4/CSCIE3HomeworkUnit4.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>              
+      <web>
+        <title>js-final project</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/file/port2/FinalProject/Dynamic Videos.html</link>
+          <parent>CMS</parent>
+          <dir></dir>
+          <file></file>          
+        </contents>
+      </web>         
+    </file_web>
+    
+    <lab_web>
+      <web>
+        <title>Lab_Web</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/lab/1</link>
+          <parent>CMS</parent>
+        </contents>
+      </web>        
+    </lab_web>
+  </body>
+  <temp>
+    <code>
+      <title>Dynamic Web</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>Fundamental Web</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>xml</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>CMS</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>javascript</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>hello</title>
+      <link>hello link</link>
+    </code>
+    <code>
+      <title>hello</title>
+      <link>hello link</link>
+    </code>
+  </temp>
+  <memo>how are you?&#xD;
+&#xD;
+BI dashboard&#xD;
+&#xD;
+You cannot ariplane me.&#xD;
+&#xD;
+&#xD;
+wrap up&#xD;
+piazza&#xD;
+&#xD;
+Traverse : all&#xD;
+**.system.signal&#xD;
+&#xD;
+1.javascript&#xD;
+2.php&#xD;
+3.CMS&#xD;
+4.xml&#xD;
+5.java&#xD;
+6.html&#xD;
+7.github&#xD;
+8.bookmark&#xD;
+9.jsfiddle&#xD;
+10.mdn&#xD;
+11.operating system.&#xD;
+12.ant&#xD;
+13.codepen.io&#xD;
+14.harvard website.&#xD;
+15.baxeX, exist&#xD;
+16.xquery(php)&#xD;
+17.svg&#xD;
+18.cocoon&#xD;
+19.fop&#xD;
+&#xD;
+The world is pop  corn&#xD;
+&#xD;
+벼락공부 까먹는 이유 :&#xD;
+because of being short of meta, short of context</memo>
+  <queue>1.public office.&#xD;
+&#xD;
+all webs category&#xD;
+1.normal web.&#xD;
+2.xml web&#xD;
+3.file system web&#xD;
+4.web laboratory&#xD;
+</queue>
+</allwebs>

@@ -1,0 +1,35 @@
+1.source file --> 
+2. sentence file --> 
+3.sentences.xml file --> 
+4. tagging-->
+5. using the sentences in making a book.
+
+
+syntax tag:
+sementax tag
+genre : culture,
+degree : low, middle, top
+
+<tag>ing</tag>
+<tag>ed</tag>
+<tag>to</tag>
+<tag>that</tag>
+<tag>which</tag>
+<tag>who</tag>
+<tag>whose</tag>
+<tag>whom</tag>
+<tag>should</tag>
+<tag>when</tag>
+<tag>where</tag>
+<tag>how</tag>
+<tag>why</tag>
+<tag>whoever</tag>
+<tag>whatever</tag>
+<tag>whenever</tag>
+<tag>wherever</tag>
+<tag>however</tag>
+<tag>because</tag>
+<tag>as soon as</tag>
+<tag>take</tag>
+
+sentences.txt file is added, so if you execute php program, you have to delete the sentence.txt file.

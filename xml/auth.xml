@@ -1,0 +1,22 @@
+<uuids>
+    <uuid>
+        <data>hello</data>
+        <data>how are you?</data>   
+        <customer></customer>                
+    </uuid>
+    <uuid>
+        <data>Glad to meet you</data>
+        <data>Me too</data>
+        <customer></customer>            
+    </uuid>
+    <uuid>
+        <data>Where have you been?</data>
+        <data>long time no see</data>
+        <customer></customer>            
+    </uuid>
+    <uuid>
+        <data></data>
+        <data></data>
+        <customer></customer>            
+    </uuid>
+</uuids>

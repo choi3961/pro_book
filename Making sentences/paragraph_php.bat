@@ -1,0 +1,1 @@
+start php "C:\Program Files (x86)\BaseX\webapp\Making sentences\paragraph.php"

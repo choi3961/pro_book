@@ -1,0 +1,4657 @@
+﻿sigschapterChapter I Preposition
+
+무엇을 어떻게 할 것인가?
+
+
+영어 때문에 고민이다. 많은 학생들이 영어를 어떻게 공부해야 할지를 몰라 고민에 빠져있다. 그러나 곰곰히 생각해 본다면, 어떻게 공부하기를 고민하기 이전에 더욱 중요한 것은 무엇을 공부하는가이다. 무엇을 공부해야 하는 것을 알면 문제 해결 방법은 어렵지 않게 찾을 수 있을 것이다. 
+
+e_chap2 영어는 문장을 공부해야 한다. 나아가서 긴 문장을 공부해야 한다. 단순히 공부하는 정도가 아니라 긴 문장을 완전히 Master 해야 한다. 긴 문장을 완전히 이해하면 나머지 문제들은 저절로 해결된다. 이번 장에서는 전치사와 준동사를 중심으로 영어가 길어지는 이치를 철저히 분석, 설명하고 있다.
+
+
+
+Consider structure. Sometimes, the best way to write a story is “Linear Structure”: Beginning, Climax, and Resolution. However, there are many, many other ways to write a story. Consider “In Media Res”—when the story begins in the thick of things. Or, a story interspersed by multiple flashbacks. Choose your structure depending on your story’s progression.
+
+
+sigssection전치사 (Preposition)
+
+
+전치사를 완전히 이해하기 위해서는 3가지 관점에서 접근해야 한다.
+
+첫째는 전치사의 기본적인 뜻을 정확히 이해해야 한다. 그러나 대부분의 학생들이 전치사의 기본적인 뜻을 제대로 모르고 있는 것이 실상이다.
+
+둘째는 전치사가 문장에서 어떠한 의미를 지니고 있는지를 파악해야 한다.
+
+
+셋째는 전치사의 확장되는 의미를 파악해야 한다. 영어의 전치사는 한 가지 뜻으로만 쓰이는 것이 아니라 기본적인 뜻에서 그 의미가 확산되어 여러 가지, 상황에 따라서는 수십 가지의 뜻까지 나온다는 사실을 알아야 한다.
+
+
+
+이 책에서는 책의 구성 흐름상, 전치사의 확장되는 의미까지는 설명하지 못하고 있다. 유니버스 출판의 'The Secret of English 영어의 비밀' 이라는 책에서 상세히 다루고 있다. 그 숨은 의미들을 자세히 다루고 있으므로 많은 도움이 될 것이다.
+ 
+문장에서 : 형용사구나 부사구를 이루어 명사나 동사를 수식한다.
+
+
+
+다음 문장에서 형용사구나 부사구 부분을 파악한 후 해석해보시오.
+
+
+The boy goes to the box. ( ) 
+The boy to the box is my uncle. ( )
+
+
+
+The ball went into the room. ( )
+The ball into the room is his. ( )
+
+
+
+She came out of the office. ( )
+The girl out of the office is my sister. ( )
+
+
+
+The air passes through the box. ( )
+The air through the box is cold. ( )
+
+
+
+The boys play with a ball. ( )
+The boy with a ball is their son. ( )
+
+
+
+The girl walks with the her mother. ( )
+The girl with her mother is my friend. ( )
+
+ 15 영어가 길어지는 이유
+
+He pressed a button on the desk by the wall.
+
+
+위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사는 on the desk 와 by the wall 이다. on the desk 는 button 을 수식하고 있고 by the wall 은 desk 를 수식하고 있다. 그리하여 해석하자면, '그는 벽 옆에 있는 책상 위에 있는 버튼을 눌렀다' 라고 할 수 있다. 위의 문장에서 보듯이 전치사는 명사와 서로 결합하여 형용사구나 부사구를 이루어 계속적으로 문장이 길어질 수 있다는 것을 염두에 두어야 한다. 
+
+
+When I am dead you must put me beside her with my dog at my feet.
+
+
+
+위의 문장에서 부사는 무엇인가? 위의 문장에서 부사는 3가지, 즉 beside her, with my dog, at my feet 이다. 문장의 뜻은 '내가 죽었을 때 당신은 나의 발 옆에 나의 강아지와 함께 그녀 옆에 나를 묻어 주기 바란다' 이다. 이렇듯 전치사와 명사는 결합하여 문장이 길어지는 기본적인 요소가 되는 것이다. 아직은 처음이지만 좀 더 복잡한 개념을 생각해 보자.
+
+
+
+You are hurting me very much by pretending to think that it is a pleasure to me to find fault with you.
+
+She thought hard about how she had learned to fly long ago last year.
+
+
+
+위의 첫 번째 문장에서 부사는 무엇인가? 물론 very much 도 부사이지만 by pretending to think that it is a pleasure to me to find fault with you 전체가 하나의 부사라는 것을 알아야 한다. 이는 전치사와 동명사가 결합된 형태로서 동명사도 하나의 명사인 것이다. 또한, 그 동명사는 that 절과 연결되어 있고 that 절 또한 to 부정사의 가주어 진주어 구문으로 되어있다. 지금은 매우 복잡해서 일일이 설명하기 어렵지만, 궁극적으로는 이 모든 문장을 완벽이 이해해야 한다.
+
+
+
+위의 두 번째 문장에서 부사는 무엇인가? 두 번째 문장에서는 about how she had learned to fly long ago last year 가 이 문장에서 하나의 부사로 쓰이고 있다. 이는 about 과 how she had learned to fly long ago last year 가 하나의 명사절로써 서로 결합하여 부사구로 쓰이고 있는 것이다. 두 번째 문장도 지금은 배우지 않아서 설명하기 어렵지만, how she had learned to fly long ago last year 가 간접의문문절로써 하나의 명사로 쓰이고 있는 것이다. 이 또한 이 책을 완전히 소화한 후에는 최종적으로 이해할 수 있는 문장이다.
+				
+ 
+
+Conclusion (결론)
+
+p1t 전치사는 명사나 대명사와 결합하여 형용사구나 부사구를 이룬다.
+
+p2t in, on, under, from, to 등이 그 예이다.
+
+p3t 형용사구는 명사를 수식하며, 부사구는 주로 동사를 수식한다.
+
+p4t 문장이 길어지는 이유 중의 하나이다.
+
+
+15 Level 2
+
+level21 다음 문장에서 전치사와 결합된 형용사구나 부사구 부분을 파악한 후 해석해보시오.
+
+p1t You got us all into trouble by being too smart.
+
+p2t Genius is an infinite capacity for taking pains.
+
+p3t I won't deprive you any longer of the pleasure of reading your letter.
+
+p4t You are hurting me very much by saying that they had heard his baby cry.
+
+p5t But from where I sat I could see their right and left hands clasped under the table!
+
+p6t I proudly took out of my wallet the six one-dollar bills which I had earned by working Saturdays.
+
+
+15 Slavery
+
+Slavery is the social status of specific persons, known as slaves, who have been stripped of individual rights, and are the property of another person or household. Slaves are people who are held against their will since either their capture, their purchase, or their birth, and are deprived of their individual freedom for the purpose of exploitation of their labour and in some cases their sexual abuse. Historically, slavery has generally occurred as a means of securing the labour of the slave, without the right of the slave to refuse, leave or receive anything in return for his labour. As such slavery is one form of unfree labour. Chattel slavery is the absolute legal ownership of a person or persons, including the legal right to buy and sell them. While slavery has been a prominent feature of many civilizations throughout human history, it has over the past few centuries gained a repugnant aura.
+
+
+reserve 참고로 영어에 있어서 형용사와 명사의 어순에 관해서 살펴보자.
+단순한 하나의 형용사는 명사 앞에서 명사를 수식한다. 그러나 2개이상의 형용사는 명사 뒤에서 명사를 수식한다. 영어에 있어서 중요한 법칙이니 기억하기 바란다.
+다음 예문을 보자. 
+
+She is a beautiful girl.
+
+위의 문장에서 형용사는 beautiful 로써 명사 girl 을 수식하고 있다. 즉, 앞에서 뒤에오는 명사를 수식하고 있는 것이다. 그러나
+
+The book in the box is written by the woman.
+
+위의 문장에서 형용사는 in the box 이고 앞에 있는 명사 the book 을 수식하고 있다.
+
+She had ideas about how men should serve a woman.
+
+Live for today for tomorrow never comes.
+
+"But you noticed the scar on his face, didn't you?"
+
+This ambition is causing Man to behave in ways which are not only not beneficial for himself, but for the rest of the planet as a whole.
+
+Support the local business leader in making sound, fact-based decisions and in anticipating their need for information to make decisions.
+
+No other books in the last few thousand years have sparked such a stir and carried on causing such misery and pain for everyone in the world.
+
+ 
+I have hit my child for crying.
+
+
+I bought my brother nice things for Christ mas.
+
+
+You are just arguing for the sake of arguing. You don't even know what the issue is. 
+
+He is annoying, because he is always arguing for the sake of argument.
+
+ 
+
+As the soldiers turned—leaving the enemy captain for dead—the captain fired at them.be one in the eye for
+be one in the eye for somebody   (British & Australian informal)
+if something that someone does is one in the eye for someone else, 
+
+it will annoy that person because they did not want it to happen or did not think it could happen 
+
+When I got my degree, I thought, 'That's one in the eye for my old head teacher, who said I would never get anywhere.'
+
+
+
+what do you take me for?
+
+what do you take me for?
+
+What sort of person do you think I am? 
+
+For example, What do you take me for, an idiot? 
+
+This expression dates from the mid-1800s.close enough for government work 
+Also found in: Acronyms.
+close enough for government work and good enough for government work
+sufficiently close; done just well enough. (Alludes to the notion that work for the government is not done with care or pride.)
+
+ I didn't do the best job of mending your shirt, but it's close enough for government work.Aim for the stars!
+Aim for the stars! and Reach for the stars!
+Aspire to something!; Set one's goals high! Aim for the stars, son!
+
+ Don't settle for second best. Set your sights high. Reach for the stars!Eat, drink, and be merry, for tomorrow we die
+Eat, drink, and be merry, for tomorrow we die.
+Prov. Enjoy yourself whenever you can, because you may die soon. ("Eat, drink, and be merry" by itself is simply a way of encouraging people to enjoy themselves.) 
+
+
+Fred: No cake for me, thank you. I'm on a diet. Jane: But, Fred, this is a birthday party. Eat, drink, and be merry.
+
+ Natasha encouraged all her guests to eat, drink, and be merry, for tomorrow we die.go on for an age
+go on for an age and go on for ages
+Fig. to continue for a very long time.
+
+ The symphony seemed to go on for an age. 
+
+It seemed to go on for ages.
+
+
+
+for 의 기본적인 뜻은 ~ 위하여, ~ 대하여,~ 향하여,~ 때문에,~ 동안에, 등의 뜻이 있고 문장 상황에 따라서는 왜냐하면으로 해석될 때도 있다.
+to는 구체적이지만 for는 보다 추상적이다.
+
+I began a search of Paris for the books Troward had recommended to me, and after two or three days' search we
+
+Stop for a moment and mull this over in your own mind. 
+
+God, or Universal Mind, made man for the special purpose of differentiating Himself through him.
+
+
+These people just don't know what's good for them,
+
+The words expressed exactly what I had been seeking for
+
+My one desire was for peace of mind. I found it
+
+friends will make you happier, and your desire for possession of these things arises from a conviction
+
+let’s take the kids out for an early dinner this evening, then maybe a movie.
+
+An international organization provides a support group for persons trying to overcome alcoholism.
+
+
+Everything we create is pointless. Everything we create for meaning, has no meaning. Do you understand?
+
+Turn off your tv and music player, and make sure no one will disturb you for about two or three minutes.
+
+I’m sorry for what I did.
+
+Mary could use her dresses to make clothes for all the children in the village.
+
+
+
+You fear poverty and loneliness because you believe them possible for you.
+
+After finding this treasure book I went to the country for a few days,
+
+If you work for a commercial bank you and your employer share responsibility for:
+ 
+
+Eat, drink and be merry, for tomorrow we die.
+
+sigschapterverbid 
+
+15 기본 개념
+
+동명사를 정확히 이해하기 위해서는 그에 대한 잘못된 생각 모호한 생각을 과감히 버려야 한다. 결론적으로 말하자면 동명사는 명사이다. 동사에서 출발하였지만 이미 동사가 아니라 하나의 명사이다. 그러니 동사이면서 명사라는 애매한 생각을 없애야 한다. 이러한 간단하면서 명확한 개념을 정확히 이해하기 바란다.
+
+
+sigssection동명사 (Gerund)
+
+ 동명사란 무엇인가? 라는 질문을 던지면 대부분의 학생들은 동사이면서 명사 역할을 하는 것이라 대답한다. 어느 정도 맞는 대답처럼 보이지만 사실은 전혀 틀린 대답을 하고 있다. 
+
+이 장에서는 동명사의 정확한 의미를 파악하도록 하자. 나아가서 문장에서는 어떤 식으로 적용되는지를 이해하도록 하자. 더 나아가서, 동명사가 실제 문장에서 왜 그토록 복잡해지는지를 이해하도록 하자. 
+
+15 기본 개념
+
+동명사를 정확히 이해하기 위해서는 그에 대한 잘못된 생각 모호한 생각을 과감히 버려야 한다. 결론적으로 말하자면 동명사는 명사이다. 동사에서 출발하였지만 이미 동사가 아니라 하나의 명사이다. 그러니 동사이면서 명사라는 애매한 생각을 없애야 한다. 이러한 간단하면서 명확한 개념을 정확히 이해하기 바란다.
+
+
+
+동명사의 형태는 '동사의 원형 ing' 이다. 그러므로 drinking, reading, speaking, walking, swimming 등을 동명사라 할 수 있다. 또한, 해석하는 방법은 '~ 하는 것' 이다. 예를 들어 drinking 은 '마시는 것' 이라 해석하고 reading 은 '읽는 것' 이라 해석한다. 
+
+
+
+중요한 것은 동명사가 단순히 명사라는 것을 인지하는 것뿐 아니라 그 동명사가 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 명사가 그러하듯이 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰인다. 
+
+15 영어가 길어지는 이유
+
+Drinking water in the morning is good for the health.
+
+
+위의 문장에서 동명사는 무엇인가? 위의 문장에서의 동명사는 단순히 Drinking 이 아니라, Drinking water in the morning 이다. 
+
+
+
+그렇다면, 위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어 역시 Drinking water in the morning 이다. 정리하자면 Drinking water in the morning 이 동명사이면서 주어로 쓰이고 있고 이 문장은 주어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 Drinking water in the morning 이라는 동명사는 어떤 식으로 길어진 것일까? 영어 단어들이 그저 무질서하게 나열된 것일까? 그렇지는 않을 것이다. 지금부터 동명사가 어떻게 길어지는지를 살펴보자.
+
+
+
+He drinks water in the morning. → Drinking water in the morning
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 주어를 삭제한 후 동사를 동명사로 고치면 하나의 동명사 구문이 되는 것이다. 위에서 의미하는 바는 동명사는 하나의 문장과 그 어순이 같다는 것이다. 다음 문장을 통해서 동명사가 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+They like playing football on Sunday.
+
+
+
+위의 문장에서 동명사는 무엇인가? 위의 문장에서의 동명사 또한 단순히 playing 이 아니라, playing football on Sunday 이다. 
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어 역시 playing football on Sunday 이다. 위의 문장은, playing football on Sunday 가 동명사이면서 목적어로 쓰이고 있고 이 문장은 목적어 부분이 길어진 문장이 되는 것이다. 충분한 이해를 돕기 위하여 길어지는 원리를 다시 한 번 살펴보자.
+
+
+
+He plays football on Sunday. → playing football on Sunday
+
+
+
+위의 문장에서도 마찬가지로, 하나의 문장에서 주어를 삭제한 후 동사를 동명사로 고치면 하나의 동명사 구문이 되는 것이다. 그 동명사 구문이 목적어로 쓰이고 있는 것이다. 
+
+15 Conclusion (결론)
+
+p2t 동명사의 형태는 '동사원형 ing' 이다.
+
+p3t drinking, reading, speaking 등이 그 예이다.
+
+p4t 해석은 '~ 하는 것', 또는 '~ 하기'이다. 
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+
+sigssectionThis is section 05
+ 15 Level 1
+
+level11 다음 문장에서 동명사 부분을 파악한 후 해석해보시오.
+
+p1t They enjoy travelling all over the world.
+
+p2t You should start moving as soon as possible.
+
+p3t Playing sports regularly makes the brain more flexible.
+
+p4t The citizens are afraid of being attacked in their homes.
+
+p5t But they could not succeed even in constructing the building.
+
+p6t So they never again have the thought of hurting other people?
+
+p7t Reading goes a long way towards increasing your intelligence level.
+
+p8t Reading is very important for enhancing your knowledge on a subject.
+
+p9t Considerable difficulty was experienced in framing the list of counsellors.
+
+
+ 15 Level 2
+
+level21 다음 문장에서 동명사 부분을 파악한 후 해석해보시오.
+
+p1t Learning a new language that is not your mother tongue may be an difficult task.
+
+p2t Being taken for an American gave me a better opportunity of seeing things as they really are.
+
+p3t The purpose of the alarming theory is suggesting that temporary stars are the result of atomic explosion.
+
+p4t Happiness is accepting that you are part of the universe, and it is part of you; and that you are not alone, although it sometimes feels like that.
+
+p5t Participating regularly in sports activities which is good for the health doesn't only exercise the muscles but also does the same for the brain. 
+
+p6t The process of learning a new language involves tasks such as analyzing grammatical structures and learning new words, which enhances your intelligence and brain health.
+
+
+
+ 15 Sound and Noise
+
+A distinction is generally made in physics between sound and noise. Noise affects our tympanic membrane as an irregular succession of shocks and we are conscious of a jarring of the auditory apparatus; whereas a musical sound is smooth and pleasant because the tympanic membrane is thrown into successive periodic vibrations to which the auditory receptor (sense organ of hearing) has been attuned. To produce musical sounds, a body must vibrate with the regularity of a pendulum, but it must be capable of imparting sharper or quicker shocks to the air than to the pendulum. All musical sounds, however they are produced and by whatever means they are propagated, may be distinguished by three different qualities: (1) Loudness, (2) Pitch, (3) Quality, timbre or klang, as the Germans call it.
+
+
+
+ 
+reserve We should stop thinking to meditate.
+
+If the law says it is not illegal to kill another human being, you will never be convicted of killing a human being (until they change the law that is).
+
+And if you don't think you are addicted, try turning your tv off for one week.
+
+They like swimming in the river.
+
+To do so, the easiest way of finding a locally qualified professional is to use Google maps to run a search.
+
+Watch yourself in action, see if the thrill of making the purchase is much greater than the purchase itself.
+
+Love is a process of opening up, reaching out and seeking union. It is the opposite of repression or control. We long for wholeness within ourselves and we pursue that wholeness by embracing in the outside world that which corresponds to our suppressed self. Most of us men need to reconnect with the feminine part of ourselves that we have had to repress. So we seek loving union with women. But if we are too extremely neurotic to be able to open up to love, but rather fear the threat it poses to our ego’s fixed state, we may repress our loving instincts further by turning the act of love into an act of violence and attacking the individual who might otherwise be seen as a love object by raping them.
+
+We have spoken about the importance of knowing what you want. And in the chapters that follow, we will examine the obstacles that present themselves to involuntary singles. But I want to pause now to look more closely at the two aspects of perseverance: patience and persistence, for they are both critical.
+
+verbid 
+ 현재 분사 (Present Participle)
+
+ 현재 분사가 무엇이냐고 물어보면 대부분의 학생들은 정확한 대답을 못한다. 그저 어렴풋이 ing 가 붙은 것이 아닌가... 생각하고 대충 넘어가는 것이다. 이는 영어의 늪에 빠지고야 말겠다는 무언의 의사 표현이나 마찬가지이다. 
+
+영어를 공부하고자 하면 아니 영어를 정복하고자 하면 용어에 대한 정확한 개념을 파악해야 한다. 그렇지 않고는 절대 영어를 이해할 수 없다. 오히려 영어를 공부할수록 더더욱 영어의 암흑에 갇히고야 마는 것이다.
+
+이 장에서는 현재 분사의 정확한 의미를 파악하고, 나아가서 어떠한 문장에서도, 어떠한 상황에서도 현재 분사를 이해할 수 있는 능력을 갖추도록 하자.
+ 15 기본 개념
+
+잘못된 생각 모호한 생각을 버리고 현재 분사에 대한 명확한 개념을 파악해 보자. 결론적으로 현재 분사는 형용사이다. 동사에서 출발하였지만 이미 동사가 아니라 하나의 형용사이다. 현재 분사가 동사가 아니라 형용사라는 사실을 정확히 이해하기 바란다.
+
+
+
+현재 분사의 형태는 '동사의 원형 ing' 이다. 그러므로 running, watching, building, singing, listening 등을 현재 분사라 할 수 있다. 동명사와 형태는 일치한다. 또한, 해석하는 방법은 '~ 하는' 이다. 예를 들어 running 은 '달리는' 이라 해석하고 singing 은 '노래하는' 이라 해석한다. 동명사와 해석하는 방법은 다르다. 이는 둘의 형태는 같지만, 동명사는 명사이고 현재 분사는 형용사이기 때문이다.
+
+
+
+중요한 것은 현재 분사가 단순히 형용사라는 것을 이해하는 것이 아니라 그 현재 분사가 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 형용사가 그러하듯이 한정적 용법, 서술적 용법 두 가지로 쓰인다.
+
+
+
+I know that running boy. (한정적 용법)
+They kept speaking. (서술적 용법)
+I heard him singing. (서술적 용법)
+ 영어가 길어지는 이유
+
+The man reading a book in the room is my uncle.
+
+
+
+위의 문장에서 현재 분사는 무엇인가? 위의 문장에서의 현재 분사는 단순히 reading 이 아니라, reading a book in the room 이다. 
+
+
+
+그렇다면, 위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사 역시 reading a book in the room 이다. 정리하자면 reading a book in the room 이 현재 분사이면서 형용사로 쓰이고 있고 the man 을 수식하고 있다. 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 reading a book in the room 이라는 현재 분사는 어떤 식으로 길어진 것일까? 영어 단어들이 아무렇게나 놓여진 것일까? 지금부터 현재 분사가 어떻게 길어지는지를 살펴보자.
+
+
+
+He reads a book in the room. → reading a book in the room
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 주어를 삭제한 후 동사를 현재 분사로 고치면 하나의 현재분사 구문이 되는 것이다. 이와 같이 현재 분사는 하나의 문장과 그 어순이 같다. 이는 동명사의 경우와 그 원리가 똑같다. 다음 문장을 통해서 현재 분사가 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+Tom and Bill walk talking about the movie.
+
+
+
+위의 문장에서 현재 분사는 무엇인가? 위의 문장에서의 현재 분사 또한 단순히 talking 이 아니라, talking about the movie 이다. 
+
+위의 문장에서 보어는 무엇인가? 위의 문장에서의 보어 역시 talking about the movie 이다. 위의 문장은, talking about the movie 가 현재 분사이면서 보어로 쓰이고 있고 이 문장은 보어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+더욱더 완벽한 이해를 위하여 talking about the movie 라는 현재 분사가 어떤 식으로 길어진 것인지 한 번 더 살펴보자. 
+
+
+
+They talk about the movie. → talking about the movie
+
+
+
+위의 문장에서도 마찬가지로, 하나의 문장에서 주어를 삭제한 후 동사를 현재 분사로 고치면 하나의 현재 분사 구문이 되는 것이다. 그 현재 분사 구문이 보어로 쓰이고 있는 것이다. 
+
+
+
+다음 문장을 통하여 길어지고 있는 현재 분사의 다양한 형태를 확인할 수 있다.
+
+
+
+She was looking for the best car in the market.
+
+The house standing on the mountain is very old.
+
+They were just learning our language here in America.
+
+I had felt that I was waking up something within myself.
+
+The children watching T.V. in the livingroom are my nephews.
+
+Be passionate about your quest for truth and illusion will drop away from you like a silk cover falling off a statue.
+
+
+
+tips 1. 현재 분사에 대한 막연하고 흐릿한 생각을 과감히 버려라. 현재 분사는 근본적으로 하나의 형용사이다. 이러한 간단 명료한 생각으로부터 모든 문제가 풀리기 시작한다.
+
+2. 현재 분사가 서술적 용법으로 쓰일 때는 반드시 '~ 하는' 이라 해석이 되지 않고 일정하지가 않다. 이해하는 방법은 '어떠한 상태'라는 것을 염두에 두는 것이다.
+ 15 Conclusion (결론)
+
+p1t 현재 분사는 형용사이다.
+
+p2t 현재 분사의 형태는 '동사원형 ing' 이다.
+ 
+p3t running, watching, building 등이 그 예이다.
+
+p4t 해석하는 방법은 '~ 하는' 이다. 
+
+p5t 문장에서는 한정적 용법과 서술적 용법 두 가지로 쓰일 수 있다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 현재 분사 부분을 파악한 후 해석해보시오.
+
+p1t What is happening in your mind?
+
+p2t Trade is becoming more important.
+
+p3t I was starting to feel much happier.
+
+p4t They were soldiers defending a castle.
+
+p5t We are now experiencing our first paper.
+
+p6t They had to keep the show running on the stage.
+
+p7t The snow melting on the deck was several inches deep.
+ 
+p8t He sent forth an expedition against the tract lying to the north of the area.
+ 
+p9t On the other hand, a single flower growing near the wall failed to produce fruit.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 현재 분사 부분을 파악한 후 해석해보시오.
+
+p1t You may be talking and behaving as though you are from foreign country.
+
+p2t Open your eyes to what is going on around to have the opportunity to succeed.
+
+p3t Somebody would walk past you smoking a cigarette which is harmful to the health.
+
+p4t Use a secure browser when shopping online to guard the security of your transactions.
+
+p5t She knew I was interviewing people who wanted the opportunity to tell me their stories.
+
+p6t Clearly, the best way to keep personal information off the internet is find the data sources which are providing personal information to people search sites.
+
+p7t Poverty is a symptom of a malfunctioning social system in which the basic physical needs of some are not met because the resources which could meet those needs are being directed towards satisfying the psychological needs of others.
+
+
+ 15 The Doppler Principle
+
+Listen to the whistle of a locomotive rapidly approaching, and observe how the pitch changes and the note becomes more grave as the locomotive passes by and commences to recede. During the approach of the whistle each successive sound wave has a shorter distance to travel in coming to the ear of the listener than had its predecessor, and in consequence the waves appear to come in quicker succession, producing a higher note with a correspondingly shorter wave length than would be heard if the same whistle were blown with the locomotive at rest. On the other hand, the wave length is increased and the pitch of the note lowered by the receding motion of the whistle.
+
+
+
+ 
+reserve Each state's section is arranged according to a standard outline, making it easy to compare laws in various states.
+
+
+
+Your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed.
+
+To have good luck look for the opportunities in life and take them.
+
+
+Religious individuals may assert that Jesus was describing something supernatural which would include his personal return to earthly existence, but I believe that individuals who, for whatever reason, have access to their original nature often speak as that nature using the word “I” to refer to what is perhaps more properly thought of as “us”. During psychotic breakdowns individuals very often claim to be Jesus or God. Though they may be confused and what they say may be unreliable, they are merely acknowledging that what we term “God” can speak through any of us when armouring is either non-existent or broken. So the return is the return of the voice not the vessel through which it spoke.
+
+
+They sing looking at the sky.
+
+The man sings writing a letter.
+
+Tom and Bill walk talking about the movie.
+
+verbid 
+ 과거 분사 (Past Participle)
+
+ 과거 분사는 학생들이 가장 어려워하는 개념 중의 하나이다. 왜 어려울까? 그 이유는 3가지 정도로 압축할 수 있다.
+
+첫째, 우선 용어에 대한 정확한 개념이 부족해서이다.
+둘째, 과거 분사는 미국인들의 사고방식이 그대로 녹아있는 표현 방식이다. 반대로 한국인의 사고방식에는 익숙치 않은 개념이라는 것이다.
+셋째, 영어의 문장이 과거 분사와 관련하여 어떤 식으로 길어지는지를 이해하지 못하기 때문이다.
+
+본 장을 통하여 과거 분사에 대해서 확실한 이해를 갖도록 하자.
+  15 기본 개념
+
+과거 분사를 정확히 이해하기 위해서는 잘못된 생각 모호한 생각을 버리고 그에 대한 간단 명료한 개념을 인식해야 한다.
+
+
+
+결론적으로 과거 분사는 형용사이다. 과거 분사 역시 동사에서 출발하였지만 이미 동사가 아니라 하나의 형용사이다. 다만, 수동적 의미의 형용사이다. 과거 분사가 동사가 아니라 형용사라는 사실을 정확히 이해하기 바란다. 형용사가 하나의 상태를 표현하기 위하여 쓰이는 것처럼, 과거 분사 또한 하나의 상태를 표현하는 수단이다.
+
+
+
+과거 분사의 형태는 규칙동사의 경우와 불규칙 동사의 경우 두 가지로 나뉘어 진다. 규칙동사의 경우는 '동사의 원형 ed' 이다. expressed, passed, watched 등이 그 예이고, 불규칙 동사의 경우는 말 그대로 그 형태가 불규칙적이므로 암기하고 있어야 한다. written, broken, seen 등이 '불규칙적인 과거 분사' 라 할 수 있다.
+
+
+
+또한 해석하는 방법은 '~ 하여진' 이다. 예를 들어 written 은 '쓰여진', broken 은 '깨어진', watched 는 '관찰되어진', furnished 는 '장식되어진' 이라 해석한다. 이는 과거 분사가 수동적인 의미로 쓰인다는 것을 뜻한다.
+
+
+
+중요한 것은 과거 분사가 단순히 형용사라는 것을 이해하는 것이 아니라 그 과거 분사가 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 형용사가 그러하듯이 한정적 용법, 서술적 용법 두 가지로 쓰인다.
+
+
+
+The broken window is expensive.       (한정적 용법)
+The house is built by the man.        (서술적 용법)
+
+
+
+ 
+
+** 과거 분사의 길어진 형태 **
+written by him : 그에 의해서 쓰여진
+read wide : 널리 읽혀지는
+known to us all : 우리 모두에게 알려진
+written in English : 영어로 쓰여진
+surprised at his reappearance in that building : 그 빌딩에서 그의 재출현에 놀란
+satisfied with the result of the exam : 시험의 결과에 만족한
+taken to see the pictures in the different rooms : 여러 방으로 그림을 보도록 안내되어진
+built on the cellar of the house : 그 집의 지하실 위에 세워진
+burned a few years before : 몇 년 전에 불탄
+
+** 해석 방법 **
+a written letter : 쓰여진 편지  a letter written in English : 영어로 쓰여진 편지
+a broken window : 깨어진 유리창 a window broken by the man : 그 남자에 의해서 깨어진 유리창
+__text 15 영어가 길어지는 이유
+
+The books written by him are read wide.
+
+
+
+위의 문장에서 과거 분사는 무엇인가? 위의 문장에서의 과거 분사는 단순히 written 이 아니라, written by him 이다. (물론 read wide 도 과거 분사이다.)
+
+
+
+그렇다면, 위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사 역시 written by him 이다. 정리하자면 written by him 이 과거 분사이면서 형용사로 쓰이고 있고 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+The man is known to us all.
+
+
+
+위의 문장에서 과거 분사는 무엇인가? 위의 문장에서의 과거 분사 또한 단순히 known 이 아니라, known to us all 이다. 위의 문장에서 보어는 무엇인가? 위의 문장에서의 보어 역시 known to us all 이다. 위의 문장은, known to us all 이 과거 분사이면서 보어로 쓰이고 있고 이 문장은 보어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+실제 예문을 통하여 길어지고 있는 과거 분사의 다양한 형태를 좀 더 파악하여 보자.
+
+
+
+She looked surprised at his reappearance in that building.
+
+
+
+위의 문장에서 과거 분사는 단순히 surprised 가 아니라 surprised at his reappearance in that building 이다. 그리하여, 과거 분사 부분만을 해석하자면, '그 건물에서 그의 재출현에 놀란' 이라고 할 수 있다.
+
+
+
+The students satisfied with the result of the exam made for home.
+
+
+
+위의 문장에서 과거 분사 역시 단순히 satisfied 가 아니라 satisfied with the result of the exam 이다. 과거 분사 부분만을 정확히 파악할 수 있다면 어렵지 않게 해석할 수 있을 것이다.
+
+
+
+After lunch we were taken to see the pictures in the different rooms.
+
+
+
+위의 문장에서의 과거 분사는 taken to see the pictures in the different rooms 라는 것을 파악할 수 있어야 한다. 이 또한 과거 분사가 'to 부정사' 와 결합되어 매우 길어진 문장이다. 이 문장에서 taken 의 의미는 앞서 TAKE 항목에서 충분히 다루었다. 그리하여 위의 과거 분사 부분만을 해석하자면, '여러 방으로 그림을 보도록 안내되어진' 이라고 할 수 있다.
+
+
+
+The green house was built on the cellar of the house burned a few years before.
+
+
+
+위의 문장에서 과거 분사는 하나가 아니라 둘이다. 즉 built on the cellar of the house 와  burned a few years before 이다. 추가 설명을 한다면, 첫 번째 과거분사는 문장에서 보어로 쓰이고 있으며, 두 번째 과거 분사는 the house 를 수식하는 역할을 한다.
+
+
+
+
+다음 문장을 통하여 길어지고 있는 과거 분사의 다양한 형태를 확인할 수 있다.
+
+
+
+I don't like the book if it is written at such a cost.
+
+The site was chosen for the sake of a handy supply of water. 
+
+The blackness of the night was broken by the window squares of starry sky.
+
+The true story of how the book was not given to the world by his first publishers has never been told.
+
+
+
+tips ** 과거 분사에 대한 막연하고 흐릿한 생각을 과감히 버려라. 과거 분사는 근본적으로 하나의 형용사이다. 이러한 명확한 생각으로부터 모든 문제가 풀리기 시작한다.
+
+** 과거 분사는 기본적으로 수동적 의미이다. 다만, happ p.p. 의 형태에서는 수동적 의미가 아니다.
+ 15 Conclusion (결론)
+
+p1t 과거 분사는 형용사이다.
+
+p2t 형태는 규칙 동사의 경우는 '동사원형 ed' 이다. 불규칙 동사의 경우는 형태가 일정하지 않다.
+
+p3t wanted, looked, broken, written 등이 그 예이다.
+
+p4t 해석하는 방법은 '~ 하여진' 이다.
+
+p5t 문장에서는 한정적 용법과 서술적 용법 두 가지로 쓰일 수 있다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+ 15 Level 1
+
+level11 다음 문장에서 과거 분사 부분을 파악한 후 해석해보시오.
+
+p1t They were a little scared at the moment.
+
+p2t The doors repaired by the man were shining.
+
+p3t But he is also entirely satisfied with himself.
+
+p4t Some of you will not be interested in the game.
+
+p5t The drink bottled in plastic was distributed to the people.
+
+p6t Both places were crowded by fugitives from all parts of Ireland.
+
+p7t The very streets of Calcutta were blocked up by the dying and the dead.
+
+p8t They are highly qualified specialists in food production and processing.
+
+p9t Two other letters of the language translated by the doctor are now at Constantinople.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 과거 분사 부분을 파악한 후 해석해보시오.
+
+p1t And then the talk might be interrupted in order to consult the morning paper.
+
+p2t If we didn't have a police force I would be attacked and my house would be robbed by “bad” people.
+
+p3t Such a particle should be measured in the same system which measures units we had applied to the graviton.
+
+p4t The state of public feeling was, however, such in all the provinces, that this irregularity was not merely pardoned but applauded.
+
+p5t Freedom to act, speak or think, without externally imposed restraints, is only possible if you speak, act or think within the boundaries set by the controlling power.
+
+p6t Wilhelm Reich, who developed the concepts of body armour and character armour, found that these forms of armouring may be temporarily broken down by the bodily experience of orgasm.
+ 15 Measuring Magnitudes 
+
+The question of measuring a magnitude in itself presents to the mind no other idea than that of the simple direct comparison of this magnitude with another similar magnitude, supposed to be known, which it takes for the unit of comparison among all others of the same kind. According to this definition, then, the science of mathematics, vast and profound as it is with reason reputed to be, instead of being an immense concatenation of prolonged mental labours, which offer inexhaustible occupation to our intellectual activity, would seem to consist of a simple series of mechanical processes for obtaining directly the ratios of the quantities to be measured to those by which we wish to measure them, by the aid of operations of similar character to the superposition of lines, as practiced by the carpenter with his rule.
+
+
+
+ 
+reserve Here is a letter written in English.
+
+위의 문장에서 과거 분사는 written이 아니라 written in English.이다.
+
+
+To his honour it must be confessed that few minds have come out of such a trial so little damaged in the most important parts.
+
+Burke, so early as 1790, declared in the House of Commons that twenty thousand pounds had been employed in corrupting the press.
+
+Half the sum was raised, not without difficulty, by the inhabitants; and Dundee is said to have passed his word for the remainder.
+
+If in the Revolution itself, there was little that can properly be called glorious, there was still less in the events which followed.
+
+In the Scriptures was to be found the history of a King of Israel, driven from his palace by an unnatural son, and compelled to fly beyond Jordan.
+
+On regular occasions now, the baby even has to be delivered by caesarean section (the delivery of a foetus by surgical incision through the abdominal wall and uterus).
+
+She also explained the role of the chinese, the mayans and the indians in developing mathematics, and that it is used now in economics, politics, and the natural sciences.
+
+As the rooms in the New York houses are generally large, people sit, stand, or walk about as they feel inclined, or group themselves round some one gifted with peculiar conversational powers.
+
+But the most common form of decoration was where the wall was covered with painted stucco.
+
+When a forest is logged for example, how many different species die or lose their habitat?
+
+Hallam has observed, the proceeding was honourably distinguished from others of the same kind.
+
+No British seaman was disposed to err on the same side with Byng.
+
+
+
+I was so disappointed! I had imagined the main character as someone who looked and spoke so differently.
+
+Cyril obeyed his mother's instructions but intentionally dragged out the time needed to complete each chore.
+
+Such at least is the custom in Egypt, where the limits of a piece of property are measured and fixed annually.
+
+Barson, the group's most gifted musician and leading songwriter, was born on this date in 1958.
+
+The real nature, the deeper instincts of the man, come out in these moments, as essential refinement and genuine breeding are revealed when the man is off guard and acts and speaks instinctively.
+
+They must be convinced their leader is in the right in order to declare war on another country
+
+Lord Murray, the Marquess's eldest son, who was married to a daughter of the Duke of Hamilton, declared for King William.
+
+So soon as some cause or other modifies these, they explode and smash everything around them after being themselves broken to pieces.
+
+At both places the tidings of what had been done by the Convention at Westminster were received with transports of joy.
+
+What you actually see are the lights that were mounted at a certain distance around the ring.
+
+Allan Woodcourt is softened towards him.
+
+sigschapterChapter Preposition
+ambushed
+
+과거 분사: easier said than done.
+
+with + 목 + p.p. 
+have 목 pp
+
+THE OBJECT OF MATHEMATICS.
+
+These men were, by the orders of the British Government, seized, imprisoned, starved almost to death.
+
+The error of this definition consists in presenting as direct an object which is almost always, on the contrary, very indirect. The direct measurement of a magnitude, by superposition or any similar process, is most frequently an operation quite impossible for us to perform; so that if we had no other means for determining magnitudes than direct comparisons, we should be obliged to renounce the knowledge of most of those which interest us.
+Difficulties. The force of this general observation will be understood if we limit ourselves to consider specially the particular case which evidently offers the most facility—that of the measurement of one straight line by another. This comparison, which is certainly the most simple which we can conceive, can nevertheless scarcely ever be effected directly. In reflecting on the whole of the conditions necessary to render a line susceptible of a direct measurement, we see that most frequently they cannot be all fulfilled at the same time. The first and the most palpable of these conditions—that of being able to pass over the line from one end of it to the other, in order to apply the unit of measurement to its whole length—evidently excludes at once by far the greater part of the distances which interest us the most; in the first place, all the distances between the celestial bodies, or from any one of them to the earth; and then, too, even the greater number of terrestrial distances, which are so frequently inaccessible. But even if this first condition[Pg 20] be found to be fulfilled, it is still farther necessary that the length be neither too great nor too small, which would render a direct measurement equally impossible. The line must also be suitably situated; for let it be one which we could measure with the greatest facility, if it were horizontal, but conceive it to be turned up vertically, and it becomes impossible to measure it.
+The difficulties which we have indicated in reference to measuring lines, exist in a very much greater degree in the measurement of surfaces, volumes, velocities, times, forces, &c. It is this fact which makes necessary the formation of mathematical science, as we are going to see; for the human mind has been compelled to renounce, in almost all cases, the direct measurement of magnitudes, and to seek to determine them indirectly, and it is thus that it has been led to the creation of mathematics.
+
+verbid 
+ 부정사 (Infinitive)
+
+ 이 장에서는 부정사를 학습하기 전에 부정사의 의미, 학습 방법 등을 설명한다. 부정사는 매우 복잡하기 때문에 학습하기 전에 어떠한 관점과 방향을 가지고 학습할지를 생각해봐야 한다. 물론 부정사는 준동사의 연장선 상에서 이해해야 한다. 그러나 그동안의 준동사들보다는 훨씬 복잡하다. 그리하여 이 장에서는 본격적인 학습 이전에, 부정사란 용어의 의미, 학습방법, 부정사의 종류, 이 책에서의 용어의 사용 등으로 나누어 설명할 것이다.
+
+
+complement
+대한민국에서 부정사 또는 'to 부정사' 란 용어를 들어보지 않은 사람은 없을 것이다. 학교를 정상적으로 다녔다면 귀에 못이 박이도록 들어봤을 것이다. 그러나 안타까운 것은 그토록 매일 귀가 아프도록 들어도 대부분의 학생들이 'to 부정사' 를 정확히 이해하지 못한다는 것이다. 이는 'to 부정사' 의 의미를 정확히 모르고 그저 수박 겉핥기식 학습을 하기 때문이다.
+ 15 부정사의 학습 방법
+
+2 용어의 의미
+
+'부정사' 란 무엇인가?
+
+대부분의 학생들은 'to 부정사' 를 공부하면서 '부정사' 의 말뜻조차 정확히 이해하지 못하고 있다. 'to 부정사' 라 하면 'to + 동사 원형' 이라 생각한다. 그러나 그것은 'to 부정사' 의 의미가 아니라 'to 부정사' 의 형태일 뿐이다. 더군다나, 많은 학생들의 무의식 속에는 '부정사' 의 의미를 혼동하여, '긍정 부정 할 때의 부정의 의미인가?' 혹은 '부정문 할 때 부정의 의미인가?' 하며 혼란스러워한다는 것이다. 부정사에서의 부정은 긍정 부정 할 때의 그러한 부정이 아니라 '정해져 있지 않다' 는 의미의 부정이다.
+
+
+
+부정사란 용어는 정해져 있지 않다는 의미이다. 그렇다면 무엇이 정해져 있지 않다는 것일까? 그것은 바로 '품사가 정해져 있지 않다' 는 의미이다. 동명사는 명사이다. 현재 분사는 형용사이다. 과거 분사도 형용사이다. 그렇다면 '부정사' 는 무엇이란 말인가? 부정사는 '품사가 정해져 있지 않다' 라는 의미인 것이다. 다시 말해서 부정사는 명사로도 쓰일 수 있고 형용사로도 쓰일 수 있으며 부사로도 쓰일 수 있다. 이렇듯 용어는 하나지만 부정사는 '여러 가지 품사' 로 쓰일 수 있다는 것이다.
+
+
+
+사실상 부정사의 영어의 원래 용어는 infinitive 이다. 이는 무한정적이라는 의미이다. 그 쓰임새가 끝이 없을 정도로 다양하다는 것이다. 
+
+
+
+2 학습 방법
+
+
+
+그러하니, 문장에서는 또한 얼마나 복잡하게 쓰일 것인가? 이러한 이유 때문에 영어를 정확히 이해하기 위해서는 동명사를 학습하고, 그 다음에 현재 분사, 과거 분사를 통달하며 그 다음에 부정사를 터득해야 하는 것이다. 비록 부정사가 문장에서 복잡하게 쓰이기는 하여도 동명사와 현재 분사, 과거 분사를 철저히 이해했다면 그다지 어렵지 않게 부정사를 이해할 수 있을 것이다.
+
+
+
+대부분의 영어 학습 교재들은 준동사를 설명할 때 부정사를 제일 먼저 앞세운다. 이는 학생들에게 많은 부담과 혼란을 주게 된다. 영어 문장에 대한 개념을 명확히 이해하기 위해서는 동명사, 현재 분사, 과거 분사, 부정사 이러한 순서대로 학습해야 한다. 그러한 학습 순서를 지킨다면 어렵지 않게 부정사는 물론이고 준동사 전체를 정확히 이해할 수 있을 것이다.
+
+
+
+2 부정사의 종류
+
+
+
+부정사는 'to 부정사' 와 원형 부정사 두 가지 경우가 있다. 일반적으로는 'to 부정사' 의 형태로 많이 쓰이지만, 문장의 특수한 상황에서는 원형 부정사로 쓰이는 경우가 종종 있다. 원형 부정사는 그저 'to 부정사' 에서 to 가 생략된 형태이다. 다시 말하면, 동사 원형 그 자체를 원형 부정사라 부르는 것이다.
+
+
+
+2 이 책에서의 용어의 사용
+
+
+
+'to 부정사' 가 문장에서 명사적으로 쓰이는 경우가 있다. 이는 'to 부정사' 의 명사적 용법이라 불리기도 하는데 이 책에서는 'to 부정사 1' 이라 명명하기로 한다.
+
+
+
+'to 부정사' 가 문장에서 형용사적으로 쓰이는 경우가 있다. 이는 'to 부정사' 의 형용사적 용법이라 불리기도 하는데 이 책에서는 'to 부정사 2' 이라 명명하기로 한다.
+
+
+
+'to 부정사' 가 문장에서 부사적으로 쓰이는 경우가 있다. 이는 'to 부정사' 의 부사적 용법이라 불리기도 하는데 이 책에서는 'to 부정사 3' 이라 명명하기로 한다.
+
+
+
+ 
+reserve To run is to walk.
+I want to meet her.
+Their plan is to rent a building in Seoul.
+They have no choice but to follow the rule.
+
+verbid 
+ To 부정사 1 (To Infinitive 1)
+
+ to 부정사의 첫 번째 용법을 살펴보자. 첫 번째 용법은 명사적 용법이다. 명사적 용법에 관한 애매하고 막연한 생각을 버리고 그 정확한 의미를 파악하도록 하자. 나아가서 문장에서는 어떤 식으로 적용되는지, 명사적 용법이 실제 문장에서 왜 그토록 복잡해지는지를 이해하도록 하자. 참고로, to 부정사의 명사적 용법은 이 책에서 'to 부정사 1' 이라 명명하기로 한다.
+
+ 15 기본 개념
+
+'to 부정사 1' 의 기초적인 개념을 살펴보자. 잘못된 생각 모호한 생각을 버리고 'to 부정사 1' 이 문장에서 어떻게 사용되는지 명확히 이해해보자.
+
+
+
+'to 부정사 1' 은 명사이다. 동사에서 출발하였지만 이미 동사가 아니라 하나의 명사이다. 'to 부정사 1' 이 동사가 아니라 명사라는 사실을 정확히 이해하기 바란다.
+
+
+
+'to 부정사 1' 의 형태는 'to 동사의 원형' 이다. 그러므로 to drink, to read, to speak, to walk, to swim 등을 'to 부정사 1' 이라 할 수 있다. 
+
+
+
+또한, 해석하는 방법은 '~ 하는 것' 이다. 예를 들어 to drink 는 '마시는 것' 이라 해석하고 to read 는 '읽는 것' 이라 해석한다. 
+
+
+
+중요한 것은 'to 부정사 1' 이 단순히 명사라는 것을 이해하는 것이 아니라 그 'to 부정사 1' 이 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 명사가 그러하듯이 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰인다. 
+
+
+
+To run is to walk.                          (주어)
+I want to meet her.                         (목적어)
+Their plan is to rent a building in Seoul.  (보어)
+They have no choice but to follow the rule. (전치사의 목적어)
+
+
+ 15 영어가 길어지는 이유
+
+To make a trip to Paris was her plan.
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 단순히 To make 가 아니라, To make a trip to Paris 이다. 
+
+
+
+그렇다면, 위의 문장에서 'to 부정사 1' 은 무엇인가? 위의 문장에서의 'to 부정사 1' 역시 To make a trip to Paris 이다. 정리하자면 To make a trip to Paris 가 'to 부정사 1'이면서 주어로 쓰이고 있고 이 문장은 주어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 To make a trip to Paris 이라는 'to 부정사 1' 은 어떤 식으로 길어진 것일까? 영어 단어들이 무질서하게 나열된 것일까? 그렇지는 않을 것이다. 지금부터 'to 부정사 1' 이 어떻게 길어지는지를 살펴보자.
+
+
+
+She makes a trip to Paris. → To make a trip to Paris
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 1' 로 고치면 하나의 'to 부정사 1' 구문이 되는 것이다. 위에서 의미하는 바는 'to 부정사 1' 은 하나의 문장과 그 어순이 같다는 것이다. 다음 문장을 통해서 'to 부정사 1' 이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+He wants to buy the house on the mountain.
+
+
+
+위의 문장에서 'to 부정사 1' 은 무엇인가? 위의 문장에서의 'to 부정사 1' 또한 단순히 to buy 가 아니라, to buy the house on the mountain 이다. 
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어 역시 to buy the house on the mountain 이다. 위의 문장은, to buy the house on the mountain 이 'to 부정사 1' 이면서 목적어로 쓰이고 있고 이 문장은 목적어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+to buy the house on the mountain 이라는 'to 부정사 1' 은 어떤 식으로 길어진 것일까? 영어의 정확한 규칙이 어떻게 작동하는지 살펴보자.
+
+
+
+He buys the house on the mountain. → to buy the house on the mountain
+
+
+
+위의 문장에서도 마찬가지로, 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 1' 로 고치면 하나의 'to 부정사 1' 구문이 되는 것이다. 그 'to 부정사 1' 구문이 목적어로 쓰이고 있는 것이다. 
+
+
+
+다음 문장을 통하여 길어지고 있는 'to 부정사 1' 의 다양한 형태를 확인할 수 있다.
+
+
+
+To go there by seven is impossible.
+
+Isn't it good to drink on a day like this?
+
+I began to cry out in fearful anticipation.
+
+His plan is to build a house in the country.
+
+Her goal is to be a good scientist in the future.
+
+
+
+tips ** to 부정사에 대한 막연하고 흐릿한 생각을 과감히 버려라. 'to 부정사 1' 은 하나의 명사이다. 형태가 길어져도 명사이다.
+ 15 Conclusion (결론)
+
+p1t to 부정사의 명사적 용법이란  to 부정사가 문장에서 하나의 명사처럼 쓰인다는 의미이다. 즉 하나의 명사이다.
+
+p2t 'to 부정사 1' 의 형태는 'to 동사원형' 이다.
+
+p3t to drink, to swim 등이 그 예이다.
+
+p4t 해석은 '~ 하는 것', 또는 '~ 하기' 이다. 
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+			
+ 15 Level 1
+
+level11 다음 문장에서 'To 부정사 1' 부분을 파악한 후 해석해보시오.
+
+p1t It's nice to have friends, isn't it?
+
+p2t They want to make their own minds up.
+
+p3t It was necessary to suppress such feelings.
+
+p4t It would be so hard for you to give up the food?
+
+p5t People do not like to be forced to agree with us.
+
+p6t I do not want to get into an argument with you about this.
+
+p7t It makes sense to stop being serious, and celebrate being alive.
+
+p8t It is just traditional in western countries to use dairy in every food.
+
+p9t Its tendency is to put the best and the worst men of past times on the same level.
+
+ 15 Level 2
+
+level21 다음 문장에서 'To 부정사 1' 부분을 파악한 후 해석해보시오.
+
+p1t So you started to believe that it was you who decided to believe in god.
+
+p2t Switch off the autopilot so you remember what it was like to fly your plane.
+
+p3t I began to understand what was happening here after spending many nights in the local pub.
+
+p4t Let’s find out what it really means to be human underneath all the labels we give to each other.
+
+p5t Unfortunately, most people only want to travel to another country for a better life than they had in their previous country.
+
+p6t In some countries, soldiers who refuse to carry out orders are summarily shot to make an example of them; and show the rest of the troops must obey.
+
+
+
+ 15 Language Learning
+
+Speech is so familiar a feature of daily life that we rarely pause to define it. It seems as natural to man as walking, and only less so than breathing. Yet it needs but a moment’s reflection to convince us that this naturalness of speech is but an illusory feeling. The process of acquiring speech is, in sober fact, an utterly different sort of thing from the process of learning to walk. In the case of the latter function, culture, in other words, the traditional body of social usage, is not seriously brought into play. The child is individually equipped, by the complex set of factors that we term biological heredity, to make all the needed muscular and nervous adjustments that result in walking. Indeed, the very conformation of these muscles and of the appropriate parts of the nervous system may be said to be primarily adapted to the movements made in walking and in similar activities. In a very real sense the normal human being is predestined to walk, not because his elders will assist him to learn the art, but because his organism is prepared from birth.
+
+Not so language. It is of course true that in a certain sense the individual is predestined to talk, but that is due entirely to the circumstance that he is born not merely in nature, but in the lap of a society that is certain, reasonably certain, to lead him to its traditions. Eliminate society and there is every reason to believe that he will learn to walk. But it is just as certain that he will never learn to talk, that is, to communicate ideas according to the traditional system of a particular society. Or, again, remove the new-born individual from the social environment into which he has come and transplant him to an utterly alien one. He will develop the art of walking in his new environment very much as he would have developed it in the old. But his speech will be completely at variance with the speech of his native environment. Speech is a human activity that varies without assignable limit as we pass from social group to social group, because it is a purely historical heritage of the group, the product of long-continued social usage. Walking is an organic, an instinctive, function (not, of course, itself an instinct); speech is a non-instinctive, acquired, “cultural” function.
+
+
+
+ 
+reserve there was nothing to do but to wait
+
+To write it was so delicious to me.
+
+To feel herself slighted by them was very painful.
+
+To be admired of men is a woman's right.
+
+To produce such a graybeard of a book at two and twenty, Mr. Sandys," said Cathro, "is amazing.
+
+To have six husbands is a much better plan;
+
+To see Fifth Avenue on a bright day, morning or afternoon, is like a procession of glowing flowers passing.
+
+To consent to the use of my name as a candidate under any circumstances, would be in my view to invite you to compromise the expressed wishes and instructions of your constituents for my personal advancement. 
+
+To sit by that fire was almost better than having the days that lit it.
+
+To go through another day without letting him see how despicable she thought him was beyond her endurance.
+
+To reach the ground was mere child's-play, as he had promised.
+
+To risk his life was something, but to disappear quietly without taking any credit for it was finer and I should say much more difficult.
+
+To talk disparagingly of other women is so common a way among men of penetrating into the favour of one that, of course, some tried it with Elspeth.
+
+To admit the possible non-existence of a God when you can so easily leave the subject alone was horrible to Tommy.
+
+It is a curious fact that it should have been reserved for the great preacher of peace to produce this conviction in the mind of the old tyrant.
+
+To shrink from them is to make them formidable.
+
+He determined to try what his personal intervention would effect.
+
+it is impossible to find someone who isn’t competing.
+
+I wanted to build bigger muscles so that people would look at me.
+
+He wants to read the newspaper in the morning.
+
+verbid 
+ To 부정사 2 (To Infinitive 2)
+
+ to 부정사의 두 번째 용법을 살펴보자. 두 번째 용법은 형용사적 용법이다. 형용사적 용법에 관한 애매하고 막연한 생각을 버리고 그 정확한 의미를 파악하도록 하자. 나아가서 문장에서는 어떤 식으로 적용되는지, 형용사적 용법이 실제 문장에서 왜 그토록 복잡해지는지를 이해하도록 하자. 참고로, to 부정사의 형용사적 용법은 이 책에서 'to 부정사 2' 라 명명하기로 한다.
+
+ 15 기본 개념
+
+'to 부정사 2' 의 기초적인 개념을 살펴보자. 잘못된 생각 모호한 생각을 버리고 'to 부정사 2' 에 대해서 명확히 이해해보자.
+
+
+
+'to 부정사 2' 는 형용사이다. 이 역시 동사에서 출발하였지만 이미 동사가 아니라 하나의 형용사이다. 'to 부정사 2' 가 동사가 아니라 형용사라는 사실을 정확히 이해하기 바란다.
+
+
+
+'to 부정사 2' 의 형태는 'to 동사의 원형' 이다. 그러므로 to drink, to read, to speak, to walk, to swim 등을 'to 부정사 2' 라 할 수 있다. 
+
+
+
+또한, 해석하는 방법은 '~ 할' 로 해석되는 경우가 대부분이며, '~ 하는' 으로 해석되는 경우도 있다. 예를 들어 water to drink 는 '마실 물' 이라 해석하고 book to read 는 '읽을 책' 이라 해석한다. 
+
+
+
+중요한 것은 'to 부정사 2' 가 단순히 형용사라는 것을 이해하는 것이 아니라 그 'to 부정사 2' 가 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 형용사가 그러하듯이 한정적 용법, 서술적 용법으로 쓰인다.
+
+
+
+He has no books to read. (한정적 용법)
+She is to go there. (서술적 용법)
+
+
+
+ 15 영어가 길어지는 이유
+
+She had no money to buy the book about the story.
+
+
+
+위의 문장에서 'to 부정사 2' 는 무엇인가? 위의 문장에서의 'to 부정사 2' 는 단순히 to buy 가 아니라, to buy the book about the story 이다. 
+
+
+
+그렇다면, 위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사 역시 to buy the book about the story 이다. 정리하자면 to buy the book about the story 가 'to 부정사 2' 이면서 형용사로 쓰이고 있고 이 문장은 형용사 부분이 길어진 문장이 되는 것이다. 
+
+ 
+
+그렇다면 'to 부정사 2' 는 어떤 식으로 길어진 것일까? 문장이 길어지는 원리는 앞 장에서 설명한 바와  크게 다르지 않다. 다만 그 쓰임새가 'to 부정사 1' 의 경우와는 다르다. 지금부터 'to 부정사 2' 가 어떻게 길어지는지를 살펴보자.
+
+
+
+He buys the book about the story. → to buy the book about the story
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 2' 로 고치면 하나의 'to 부정사 2' 구문이 되는 것이다. 이와 같이 'to 부정사 2' 는 하나의 문장과 그 어순이 같다. 다음 문장을 통해서 'to 부정사 2' 가 어떻게 길어지는지를 한 번 더 확인해보자.
+
+
+
+He is to write a letter in the room.
+
+
+
+위의 문장에서 'to 부정사 2' 는 무엇인가? 위의 문장에서의 'to 부정사 2' 또한 단순히 to write 이 아니라, to write a letter in the room 이다. 
+
+
+
+위의 문장에서 보어는 무엇인가? 위의 문장에서의 보어 역시 to write a letter in the room 이다. 위의 문장은, to write a letter in the room 이 'to 부정사 2' 이면서 보어로 쓰이고 있고 이 문장은 보어 부분이 길어진 문장이 되는 것이다.  
+
+
+
+to write a letter in the room 이라는 'to 부정사 2' 는 어떤 식으로 길어진 것일까? 
+
+
+
+He writes a letter in the room. → to write a letter in the room
+
+
+
+위의 문장에서도 마찬가지로, 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 2' 로 고치면 하나의 'to 부정사 2' 구문이 되는 것이다. 그 'to 부정사 2' 구문이 보어로 쓰이고 있는 것이다.
+
+
+
+다음 문장을 통하여 길어지고 있는 'to 부정사 2' 의 다양한 형태를 확인할 수 있다.
+
+
+
+Jane has no time to eat breakfast.
+
+In other words, he was to get rid of his wings.
+
+Would you allow me to introduce Mr. Hyde to you?
+
+How many times have I told you not to exert yourself?
+
+Doctor Lombard did not wish you to part with the picture.
+
+"I am quite the right man to consult at such a moment, am I not?"
+
+He stood with a stern face, like an orator, and seemed to enjoy our suspense.
+
+
+ 15 Conclusion (결론)
+
+p1t to 부정사의 형용사적 용법이란  to 부정사가 문장에서 형용사처럼 쓰인다는 의미이다. 즉 하나의 형용사이다.
+
+p2t 'to 부정사 2' 의 형태는 'to 동사원형' 이다.
+
+p3t to drink, to swim 등이 그 예이다.
+
+p4t 해석은 '~ 할', 또는 '~ 하는' 이다. 
+
+p5t 문장에서는 한정적 용법과 서술적 용법으로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+ 15 Level 1
+
+level11 다음 문장에서 'To 부정사 2' 부분을 파악한 후 해석해보시오.
+
+p1t They want you to change.
+
+p2t There are many places to go around.
+
+p3t The soldier learned how to defend his country.
+
+p4t None of us have the skills to make everything.
+
+p5t We will also set up a plan to protect the planet.
+
+p6t I would like you to give your utmost attention to it.
+
+p7t Now someone has to think about what to do with the bottle.
+
+p8t Ever more people today have the means to live but not the meaning to live for.
+
+p9t In each religion there is a hierarchy to be followed, just like in business or politics.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 'To 부정사 2' 부분을 파악한 후 해석해보시오.
+
+p1t They know how to solve the problem which is difficult to them.
+
+p2t It's time to meet the people who are from the country we don't know.
+
+p3t I respect your right to challenge anything I have said here, or anywhere else in this book.
+
+p4t I would like you all to just think about this for a moment and try to imagine carrying the feeling of flying with you as you travel through life. 
+
+p5t We want people to know what kind of people we are, where we stand in the world, socially and politically; we don't want to just blend into the crowd.
+
+p6t The way to achieve any goal is first to know what the goal is and then to proceed unswervingly toward it, patiently but persistently overcoming any obstacles that present themselves.
+
+
+ 15 Anarchism
+
+The history of human growth and development is at the same time the history of the terrible struggle of every new idea heralding the approach of a brighter dawn. In its tenacious hold on tradition, the Old has never hesitated to make use of the foulest and cruelest means to stay the advent of the New, in whatever form or period the latter may have asserted itself. Nor need we retrace our steps into the distant past to realize the enormity of opposition, difficulties, and hardships placed in the path of every progressive idea. The rack, the thumbscrew, and the knout are still with us; so are the convict's garb and the social wrath, all conspiring against the spirit that is serenely marching on.
+
+Anarchism could not hope to escape the fate of all other ideas of innovation. Indeed, as the most revolutionary and uncompromising innovator, Anarchism must needs meet with the combined ignorance and venom of the world it aims to reconstruct.
+
+
+
+ 
+reserve Even the "hippie" community has no idea what to do.
+
+In each religion there is a hierarchy to be followed, just like in business or politics.
+
+By the way, anything with more than four legs, no legs, or is in any way slimy, scaly, prickly, or small (think mice in the kitchen) is to be avoided at all costs, whether dangerous or not.
+
+The legs for the pedals, the arms for the steering wheel, and the brain to be aware of other cars.
+
+After some lengthy interrogation to make sure you are not a double agent, they give you a green uniform.
+
+That’s why we need the oxfams and the red crosses of this world, and the thousands of other small charities with their armies of unpaid volunteers to lend a hand.
+
+
+They clearly form part of a continuing process, to be handled with transparency, integrity and professionalism.
+
+I know that this discussion may seem a little silly to you, but I would like you to give your utmost attention to it.
+
+What would be the point of making a rousing military speech or engaging religious sermon if there were no one to listen?
+
+There were priestesses, however, as well as female recluses, who, like the Zikari , were not allowed to marry and were devoted to the service of the Sun-god.
+
+
+"As you think so are you" does not mean"as you tell people you think" or "as you would wish the world to believe you think.
+
+What detachment enables a government to send people like you and I to war, call us soldiers, and get us to kill in their name?
+
+Play can never be a skill, or it would be called a skill! And how can you master something when the intention is not to master it.
+
+I will take a guess at a lot, especially in the developed world, where money has enabled us to indulge ourselves as often as we want.
+
+Now this sort of interviewer too often prefaces the operation itself by the remark that he really doesn't know what question to ask you.
+
+So what we need to find out is whether this self-control is a natural mechanism, or one concocted by the society to stop chaos setting in.
+
+The ceremony was carried out at a council office, presided over by a council employee who had the authority to conduct marriage ceremonies.
+
+The answer was that the men who guarded these walls had nothing to do with the Governor's engagements, and were determined to resist to the last.
+
+So avoid Fear-Thought as you would the poisonous draught that you know wouldcause your blood to become black and thick, and your breathing labored anddifficult.
+
+They also support projects globally as their expertise allows and they may be allowed to bring Intellectual Property to ITAP and other Alliance Affiliate and Associate companies.
+
+Contribution to New Knowledge in HRDIn an increasingly global world, organizations are likely to use advanced communication techniques to create groups that work in virtual time and space.
+
+We have our parents to thank, and their parents before them, and our teachers and our parents teachers, and our government and our parents government and back we go, century after century.
+
+Learning to sit with yourself is something I wish my parents had taught me as a child, when I was most receptive, and it’s something I encourage all parents to teach their children to do.
+
+I should be glad to do him any service in his private affairs: but I owe a sacred duty to my country; and therefore I was never so wicked as even to think of endeavouring to bring him back.
+
+So even when I had eventually saved enough for the house at 2007 prices, I (a) would no longer have enough in 2033, and (b) I would be one year off retiring age, so I would find it hard to find work.
+
+Images and news stories are used to get us to feel a specific way and that is where the control element comes in.
+
+I hope that one small section of what I have written in this book helps you to find some inspiration.
+
+The only way to keep men from fighting over the sexual favours of women was to institute strict controls on sexual behaviour.
+
+He exhorted others to work as hard as thery could.그는 다른 사람들이 열심히 일하도록 혹사 시켰다.
+
+verbid 
+ To 부정사 3 (To Infinitive 3)
+
+ to 부정사의 세 번째 용법을 살펴보자. 세 번째 용법은 부사적 용법이다. 부사적 용법에 관한 애매하고 막연한 생각을 버리고 그 정확한 의미를 파악하도록 하자. 나아가서 문장에서는 어떤 식으로 적용되는지, 부사적 용법이 실제 문장에서 왜 그토록 복잡해지는지를 이해하도록 하자. 참고로, to 부정사의 부사적 용법은 이 책에서 'to 부정사 3' 이라 명명하기로 한다.
+
+ 15 기본 개념
+
+'to 부정사 3' 의 기초적인 개념을 살펴보자. 잘못된 생각 모호한 생각을 버리고 'to 부정사 3' 에 대해서 명확히 이해해보자.
+
+
+
+'to 부정사 3' 은 부사이다. 동사에서 출발하였지만 이미 동사가 아니라 하나의 부사이다. 'to 부정사 3' 이 동사가 아니라 부사라는 사실을 정확히 이해하기 바란다.
+
+
+
+'to 부정사 3' 의 형태는 'to 동사의 원형' 이다. 그러므로 to drink, to read, to speak, to walk, to swim 등을 'to 부정사 3' 이라 할 수 있다. 
+
+
+
+또한, 해석하는 방법은  '~ 하기 위하여', '~ 하니', '~ 한다면', '~ 했다', '~ 하기에' 등으로 해석한다. 그러므로 to drink 는 '마시기 위하여', '마시기에' 등으로 해석하며, to read 는 '읽기 위하여', '읽기에' 등으로 해석할 수 있다.
+
+
+
+중요한 것은 'to 부정사 3' 이 단순히 부사라는 것을 이해하는 것이 아니라 그 'to 부정사 3' 에 해당하는 다양한 부사의 개념은 어떤 것이 있는지, 실제 문장에서 어떻게 쓰이는지를 이해하는 것이 중요하다. 부사적 개념은 목적, 원인, 이유, 조건, 결과, 정도 등의 의미로 쓰이는데 이외에도 몇 가지 용법이 있다.
+
+
+
+She went to the market to buy a pair of pants. (목적 : ~ 하기 위하여)
+
+Glad to meet you. (원인, 이유 : ~ 하니)
+
+I should be happy to meet you. (조건 : ~ 한다면)
+
+Tom met Sandy to tell the story. (결과 : ~ 했다)
+
+He is too fast for others to keep up with. (정도 : ~ 하기에)
+
+
+ 15 영어가 길어지는 이유
+
+A friend of mine went to Pusan to see the movie.
+
+
+
+위의 문장에서 'to 부정사 3' 은 무엇인가? 위의 문장에서의 'to 부정사 3' 은 단순히 to see 가 아니라, to see the movie 이다. 
+
+
+
+그렇다면, 위의 문장에서 부사는 무엇인가? 위의 문장에서의 부사 역시 to see the movie 이다. 정리하자면 to see the movie 가 'to 부정사 3' 이면서 부사로 쓰이고 있고 이 문장은 부사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 'to 부정사 3'은 어떤 식으로 길어진 것일까? 지금까지 살펴본 바와 같이 문장이 길어지는 규칙을 정확히 확인해 보자.
+
+
+
+He sees the movie. → to see the movie
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 3' 으로 고치면 하나의 'to 부정사 3' 구문이 되는 것이다. 이와 같이 'to 부정사 3' 은 하나의 문장과 그 어순이 같다. 다음 문장을 통해서 'to 부정사 3' 이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+He studied hard to be a good doctor.
+
+
+
+위의 문장에서 'to 부정사 3' 은 무엇인가? 위의 문장에서의 'to 부정사 3' 또한 단순히 to be 가 아니라, to be a good doctor 이다. 
+
+
+
+위의 문장에서 부사는 무엇인가? 위의 문장에서의 부사 역시 to be a good doctor 이다. 위의 문장은, to be a good doctor 가 'to 부정사 3' 이면서 부사로 쓰이고 있고 이 문장은 부사 부분이 길어진 문장이 되는 것이다. 
+
+ 
+
+to be a good doctor 라는 'to 부정사 3' 은 어떤 식으로 길어진 것일까? 
+
+
+
+He is a good doctor. → to be a good doctor
+
+
+
+위의 문장에서도 마찬가지로, 하나의 문장에서 주어를 삭제한 후 동사를 'to 부정사 3' 으로 고치면 하나의 'to 부정사 3' 구문이 되는 것이다. 그 'to 부정사 3' 구문이 부사로 쓰이고 있는 것이다.
+
+
+
+다음 문장을 통하여 길어지고 있는 'to 부정사 3' 의 다양한 형태를 확인할 수 있다.
+
+
+
+I turned my head away to hide my smiles.
+
+"It's too cold to make shavings outside."
+
+"Are you prepared to make a good argument?"
+
+I came to see him on a matter of business.
+
+"You're strong enough to do the work here?"
+
+Mrs. Brown was happy to hear her daughter sing.
+
+The cheerful birds of sundry kind do sweet music to delight his mind.
+
+
+ 15 Conclusion (결론)
+
+p1t to 부정사의 부사적 용법이란  to 부정사가 문장에서 부사처럼 쓰인다는 의미이다. 즉 하나의 '부사' 이다.
+
+p2t 'to 부정사 3' 의 형태는 'to 동사원형' 이다.
+
+p3t to drink, to swim 등이 그 예이다.
+
+p4t 해석은 '~ 하기 위하여', 또는 '~ 하니', 또는 '~ 한다면',  또는 '~ 해서 ~ 했다', 또는 '~ 하기에' 등이다. 
+
+p5t 문장에서는 부사로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+ 15 Level 1
+
+level11 다음 문장에서 'To 부정사 3' 부분을 파악한 후 해석해보시오.
+
+p1t The towns are too numerous to name.
+
+p2t The testimony is difficult to set aside.
+
+p3t He was not unwilling to cooperate with them.
+
+p4t You must go to work every day to pay your bills.
+
+p5t The new technology are easily able to produce a machine.
+
+p6t Once again I sat down to discuss it with one of the monks.
+
+p7t He has to make a trip to the doctor to have an inoculation.
+
+p8t In order to declare war on another country the people must believe in their leader.
+
+p9t And they would agree to adhere to certain minimum standards to protect intellectual property rights such as patents, trademarks, and copyrights.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 'To 부정사 3' 부분을 파악한 후 해석해보시오.
+
+p1t You could be feared to fight against those who infringe it.
+
+p2t He was too old to earn anything that he needed in life for himself.
+
+p3t The basic exercises attached to yoga are categorized by participants striking stationary poses that are designed to improve muscle flexibility and strength. 
+
+p4t If there was a power within himself that was able to capture the idea, then there must be a responsive power within the idea itself that could bring itself into a practical physical manifestation.
+
+p5t In many developed Western countries, it is increasingly common for commercial farmers to feed drugs to their livestock to make sure that the creatures they are breeding for meat gain the maximum amount of weight possible and that they stay disease-free.
+
+
+ 15 The Physical Life Of Woman
+
+'Knowledge is power,' said the philosopher. The maxim is true; but here is a greater truth: 'Knowledge is safety', safety amid the physical ills that beset us, safety amid the moral pitfalls that environ us. Filled with this thought, we write this book. It is the Revelation of Science to Woman. It tells her, in language which aims at nothing but simplicity, the results which the study of her nature, as distinct from that of man, has attained. We may call it her physical biography.
+
+It is high time that such a book were written. The most absorbing question of the day is the 'Woman Question.' The social problems of chiefest interest concern her. And nowhere are those problems more zealously studied than in America, which has thrown aside the trammels of tradition, and is training its free muscles with intent to grapple the untried possibilities of social life. Who can guide us in these experiments? What master, speaking as one having authority, can advise us? There is such a guide, such a master. The laws of woman's physical life shape her destiny and reveal her future. Within these laws all things are possible; beyond them, nothing is of avail.
+
+
+
+ 
+reserve I couldn't let them see me like this, terrified, shaking, with sweating palms, ready to escape at a moments notice.
+
+ 
+
+
+The existence of a couple of those particles even might be based on free invention in order to make disposable the desired minimal number of parameters for the variation calculus.
+
+If it really were necessary, we would be required to take it by law to operate machines at work, drive our cars, do exams, do the end of year accounts, type better, or play better sport.
+
+We have used wood which the uses of are endless to build ships, make furniture such as tables and beds, construct our houses, make flooring
+
+We rely on the corporations to make sure they have their own ethics policy even if we have an ethics policy.
+
+chapter chapter 5
+ Chapter II Clause : 혜안으로 바라보다
+
+ chap Longer, and Longer
+ 
+
+ 
+ 15 기본 개념
+
+that 명사절은 하나의 명사이다. 주어 동사의 형태를 갖추고 있지만, 이것은 문장이 아니라 전체적으로 하나의 명사이다. that 명사절이 하나의 명사라는 사실을 정확히 이해하기 바란다.
+
+
+
+I know that he bought the book.
+That he came here yesterday is true.
+The fact is that she didn't go there.
+
+
+
+that 명사절의 형태는 'that 주어 동사' 이다. 위의 문장에서 that he bought the book, that he came here yesterday, that she didn't go there 등을 하나의 that 절이라 할 수 있다.
+
+ 
+
+또한, 해석하는 방법은 '~ 한다는 것' 또는 '~ 라는 것' 이다. 예를 들어 that he bought the book 은 '그가 책을 샀다는 것' 이고 That he came here yesterday 는  '그가 어제 여기에 왔다는 것' that she didn't go there 는 '그녀가 거기에 가지 않았다는 것' 이다.
+
+ 
+
+중요한 것은 that 명사절이 단순히 하나의 명사라는 것을 이해하는 것이 아니라 그 that 명사절이 문장에서 어떻게 쓰이는가를 이해하는 것이 중요하다. 문장에서는 다른 일반적인 명사가 그러하듯이 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰인다. 
+
+
+
+That he bought the book is true.                    (주어)
+I know that she is beautiful.                       (목적어)
+The fact is that he came here yesterday.            (보어)
+You are right in that you have written the book.    (전치사의 목적어)
+
+ 15 영어가 길어지는 이유
+
+That she is happy is true.
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 단순히 she 가 아니라, That she is happy 이다. 주어가 하나의 절로써 이루어져 있다. 
+
+
+
+그렇다면 위 문장에서 명사는 무엇인가? 위 문장에서 명사 역시 That she is happy 이다. 결론적으로 That she is happy 는 명사이면서 주어로 쓰이고 있고 이 문장은 주어 부분이 길어지고 있는 문장이다.
+
+
+
+그렇다면 That she is happy 와 she is happy 의 차이점은 무엇인가?
+
+
+
+She is happy. → That she is happy
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장 앞에 단순하게 that 을 붙이면 그것이 하나의 명사절이 되는 것이며 그것이 하나의 명사가 되는 것이다. She is happy 는 문장이지만, that she is happy 는 문장이 아니다. 그것은 하나의 명사적 개념이 되는 것이다.
+
+
+
+다음 문장을 통해서 that 절이 어떻게 길어지는지를 한 번 더 확인해보자.
+
+
+
+I don't know that he is a student. 
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어는 단순히 that 이 아니라, that he is a student 이다. 위 문장에서 명사는 무엇인가? 위 문장에서 명사 역시 that he is a student 이다. 위의 문장은 that he is a student 가  명사이면서 목적어로 쓰이고 있는 것이다. 위의 문장은 목적어가 길어지고 있는 것이다.
+
+
+
+다음 문장을 통하여 길어지고 있는 that 명사절의 다양한 형태를 확인할 수 있다. 
+
+
+
+You did say that the lord guides your actions.
+
+It’s an unusual offering in that it is suitable for even the smallest company.
+
+You must always bear in mind that you are dealing with a wonderful potential energy.
+
+They would argue that without this education the child would not be able to function in society.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+Did you know that it is illegal to ride your bike on the pavement?
+
+I don't say anything about money, except that if you cared for me I'd be thankful.
+
+But one thing you must remember is that the police are like the army in that they just follow orders.
+
+It is only by understanding that the reason we punish comes out of a need to control others, to force them to bend to our will.
+
+Soap bubbles are balanced in that the pressure surplus of the air inside counters the elasticity of the soap in its efforts to contain it.
+
+ 15 Conclusion (결론)
+
+p1t that 명사절은 명사이다.
+
+p2t that 명사절의 형태는 'that 주어 동사' 이다.
+
+p3t that he is a student, that she is beautiful 등이 그 예이다.
+
+p4t 해석하는 방법은 '~ 한다는 것' 또는 '~ 라는 것' 이다. 
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+ 15 Level 1
+
+level11 다음 문장에서 'that 명사절' 부분을 파악한 후 해석해보시오.
+
+p1t This does not mean that the fight against Naziism was wrong.
+
+p2t They will realize that the world is a big scary dangerous place.
+
+p3t We may find that the imagination throws up some frightening ideas.
+
+p4t The report says that the country in that area was even more desolate.
+
+p5t Scott informs me that it bears perfect flowers only during the cold season.
+
+p6t The result was that the nonconformists remained excluded from office in the State.
+
+p7t Let me explain that I have never done any academic training in the field of psychology.
+
+p8t That the variability of light is due to the differences of reflective power on different parts of the surface are currently accepted.
+
+p9t We humans are different from other animals in that we have the ability to connect with each other and the world around us through the use of our intellect and imagination.
+
+
+ 15 Level 2
+
+level21 다음 문장에서 'that 명사절' 부분을 파악한 후 해석해보시오.
+
+p1t They insist that it’s good for children to be scared sometimes.
+
+p2t But many of them thought that it was of the highest importance to have his support on the questions.
+
+p3t What is important is understanding that the event leads the individual to feel that they are a bad person.
+
+p4t But have you ever considered that it is the life you have chosen by conforming to society that is creating this "chaos" in the first place?
+
+p5t We may feel that there is within us a battle between the desire to do things which we feel are right and the desire to do things which we feel are wrong.
+
+p6t They felt that it was not because they have any specific quarrel with the men, but because they have been told that people in green uniforms are the enemy.
+
+
+ 15 Brain Capacity
+
+It is said that most of us only use 10% of our brain's capacity. This is because our thinking is impeded by our character armour. Since thinking truthfully would destroy our armoured ego structure, we have to spend a huge amount of our intellectual ability on finding ways to function without thinking truthfully. Remember when you were a young child and you felt blissfully happy running through an open field? Why? You were just running. It was just a field. What's the big deal? The big deal is that you felt free. You weren't hemmed in or frustrated. You were energy expressing the nature of energy.
+
+
+
+ 
+reserve I forget everything about it except that its subject was love.
+
+It seems to me that we have lost an important part of being human.
+
+I'd say that isn't a bad percentage.
+
+Hamilton was mistaken in thinking that his horse would continue to fight.
+
+
+Its handicap is that Einstein‘s topological concept is lacking the superposition aspect of quantum theories.
+
+clause 
+ 간접 의문문절 (Noun Clause)
+
+ 간접 의문문절은 문장에서 실로 많이 나오는 형태이다. 더욱이 원어민의 일상 회화에서는 끊임없이 나오는 구문 형태이다. 따라서 간접 의문문절의 개념을 master 하지 않으면 영어를 이해할 수 없다라고 해도 과언이 아니다.
+
+이 장에서는 간접 의문문절이 문장에서 어떻게 쓰이고 있는지를 명확히 파악하도록 하자. 나아가서 왜 영어 문장이 그토록 복잡해지는지도 이해하도록 하자. 간접 의문문절의 개념에 대한 막연함을 완전히 지우고 그 의미와 형태를 명확히 파악하도록 하자. 
+
+15 기본 개념
+
+결론적으로 말하자면, 간접 의문문절 역시 하나의 명사이다. 이는 간접 의문문절이 그 자체로 문장이 아니라는 것을 의미하기도 한다. 명사로서 문장의 구성 성분이 되는 것이다. 비록 주어 동사의 형태를 갖추고 있지만, 그것은 절의 형태일 뿐 문장이 아니라는 것을 알아야 한다. 이러한 명확한 개념이 전제되어야만 간접 의문문절이 문장에서 어떻게 쓰이는지, 어떤 의미를 지니고 있는지를 이해할 수 있다. 간접 의문문절이 하나의 명사라는 것을 이해하는 것부터 모든 문제가 풀리기 시작하는 것이다.
+
+
+
+간접 의문문절의 형태는 '의문사 주어 동사' 이다. 다음과 같은 문장에서,
+
+
+ 
+He told me what I should do.
+How she solves the problem is not important. 
+Do you know why they didn't see the movie?
+
+
+
+what I should do, How she solves the problem, why they didn't see the movie 등을 간접 의문문절이라 할 수 있다. 
+
+
+
+또한, 해석하는 방법은 상황에 따라 두 가지 방법이 있다. 예를 들어 What I should do 는 '내가 무엇을 해야 하는지', 또는 '내가 해야 하는 것' 으로 해석한다. How she solves the problem 는 '그녀가 그 문제를 어떻게 푸는지', 또는 '그녀가 그 문제를 푸는 방법' 으로 해석한다.
+
+
+
+해석 : 그는 내가 무엇을 해야 하는지를 말해주었다.
+해석 : 그녀가 그 문제를 어떻게 푸는지는 중요하지 않다.
+해석 : 당신은 그들이 왜 그 영화를 보지 않았는지 아는가?
+
+
+
+간접 의문문절은 의문사에 따라 총 7가지가 있을 수 있다. 다음에 그 모든 7가지에 대하여 해석하는 방법을 간단히 나열하였다.
+
+
+
+when they come 
+해석 : 그들이 언제 오는지, 그들이 올 때
+
+
+
+where she goes 
+해석 : 그녀가 어디로 가는지, 그녀가 가는 장소(곳)
+
+
+
+how he solves the problem 
+해석 : 그가 그 문제를 어떻게 푸는지, 그가 문제를 푸는 방법
+
+
+
+why you didin't come here 
+해석 : 너가 왜 여기에 오지 않았는지, 너가 여기에 오지 않은 이유
+
+
+
+who you believe 
+해석 : 너가 누구를 믿는지, 너가 믿는 사람
+
+
+
+what we want to do 
+해석 : 우리가 무엇을 하고 싶어 하는지, 우리가 하고 싶어 하는 것
+
+
+
+which they choose 
+해석 : 그들이 어떤 것을 선택하는지, 그들이 선택한 것
+
+
+
+위에서 보는 바와 같이 해석하는 방법은 각각의 의문사에 따라 2가지 방법이 있다는 것을 알 수 있다. 해석하는 방법을 철저히 이해하여 모든 복잡한 상황에서 완전하게 해석할 수 있어야 한다.
+
+
+
+중요한 것은 간접 의문문절이 문장에서 어떻게 쓰이는가이다. 간접 의문문절은 하나의 명사이다. 그러므로 문장에서는 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰인다.
+
+
+
+How she solves the problem is not important.             (주어)
+I don't know why they don't go there.                    (목적어)
+That is how the creative principle of the universe works.(보어)
+It depends on who you are.                               (전치사의 목적어)
+
+
+15 영어가 길어지는 이유
+
+I didin't ask when he came here.
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어는 단순히 when 이 아니라, when he came here 이다. 그렇다면 위 문장에서 명사는 무엇인가? 위 문장에서 명사 역시 when he came here 이다. 결론적으로 정리하자면, when he came here 가 명사로써 목적어로 쓰이는 것이다.
+
+
+
+그렇다면 when he came here 는 어떻게 만들어지는가? 
+
+
+
+He came here yesterday. → He came here when → when he came here
+
+
+
+위의 문장에서 보는 것처럼 하나의 문장에서 그에 해당하는 부사를 의문사로 바꾸어 문두에 놓으면 그것이 하나의 간접 의문문절이 된다. 즉, 명사절이 된다. 염두에 두어야 할 것은, He came here yesterday 는 문장이지만, when he came here 는 문장이 아니다. 명사절로써 하나의 명사인 것이다.
+
+
+
+다음 문장을 통해서 간접 의문문절이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+How he did the work isn't important. 
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 단순히 he 가 아니라, How he did the work 이다. 주어가 하나의 절로써 길어지고 있다는 것이다. 위의 문장에서 명사는 무엇인가? 위의 문장에서도 또한 How he did the work 이 하나의 명사이다. 명사로써 주어로 쓰이는 것이다.
+
+
+
+그렇다면 How he did the work 은 어떻게 만들어지는가? 
+
+
+
+He did the work in the way. → He did the work how → how he did the work
+
+
+
+마찬가지로 위에서 보는 바와 같이 역시 하나의 문장에서 그에 해당하는 부사를 의문사로 바꾸어 문두에 놓으면 그것이 하나의 간접 의문문절이 된다. 즉, 명사절이 된다. 역시나 염두에 두어야 할 것은, He did the work in the way. 는 문장이지만,  how he did the work 은 문장이 아니다. 명사절이므로 하나의 명사인 것이다.
+
+
+
+다음 문장을 통하여 길어지고 있는 간접 의문문절의 다양한 형태를 확인할 수 있다.
+
+
+
+That’s why they’re illegal.
+
+That’s when you pull out your gun and try to shoot them.
+
+Children don't know why they have to learn about the past.
+
+We humans do not like to be told why things are right or wrong.
+
+So you can see why the man preferred to put his money in the charity box.
+
+Where there is a weakness is where the magma can spew forth in an eruption.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+Do you know what is the most important thing when you are in danger?
+
+All I ask is that you look around you and tell me what is great about your country.
+
+If anyone asks you why you are leaving, you must tell them it is because you are being bullied.
+
+But it is less easy to understand why he should have been generally unpopular throughout the country.
+
+
+ 15 Conclusion (결론)
+
+p1t 간접 의문문절은 명사이다. 
+
+p2t 간접 의문문절의 형태는 '의문사 주어 동사' 이다.
+
+p3t why they don't go there, how she solves the problem, what I should do 등이 그 예이다.
+
+p4t 해석하는 방법은 상황에 따라 두 가지 방법이 있다. 
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+ 15 Level 1
+
+level11 다음 문장에서 '간접 의문문절' 부분을 파악한 후 해석해보시오.
+
+p1t I didn’t know why I was running.
+
+p2t This is when we resort to violence. 
+
+p3t They have more choice over how they act.
+
+p4t No one can tell them where the girl wants to go.
+
+p5t No website would tell you where their data feed comes from.
+
+p6t That is why the prime minister wears a dark suit to project his seriousness.
+
+p7t So you can see why so many people head to the cheap countries with their money.
+
+p8t This is when fear of sex became a significant part of our psychology and our society.
+
+p9t There are instructions on how you can remove your personal information from the website.
+
+ 15 Level 2
+
+level21 다음 문장에서 '간접 의문문절' 부분을 파악한 후 해석해보시오.
+
+p1t It is only when we start realizing we are our own teachers.
+
+p2t That is why we need to punish any behaviour that does not conform to the ideal of being human.
+
+p3t Do you remember when you were a young child and you felt blissfully happy running through an open field? 
+
+p4t Schoolchildren have to compete with others in everything from sports to who has the highest grade in an exam.
+
+p5t Have you ever thought of where our ape-like ancestors lived with plenty of food allowing the females to nurture their offspring for a long time.
+
+p6t After all, the governments have always sent in entertainers to keep the troops happy and make them forget what they’re really there for (killing people).
+
+
+ 15 Accurate Measurement
+
+Accurate measurement is the foundation of exact science, and at the very beginning of his study in astronomy the student should learn something of the astronomer's kind of measurement. He should practice measuring the stars with all possible care, and should seek to attain the most accurate results of which his instruments and apparatus are capable. The ordinary affairs of life furnish abundant illustration of some of these measurements, such as finding the length of a board in inches or the weight of a load of coal in pounds and measurements of both length and weight are of importance in astronomy, but of far greater astronomical importance than these are the measurement of angles and the measurement of time.
+
+
+
+ 
+reserve we want to make our own minds up about things.
+
+After extolling their strength and spirit, he proceeded to explain why it was that, with all their strength and spirit, they were constantly beaten.
+
+
+I just don't understand why they say the three Rs stand for reading, writing and arithmetic.
+
+I didn't know why they are there. 
+
+It's so clear to me who my mother is
+
+To answer this question you need to reflect not just on what you want to do in your working life, but who you want to become through the work you do each day.
+
+
+I didin't ask when he came.
+
+What did the woman say I bought yesterday.
+
+They didn't know how he did the work.
+
+
+Do you know if he is a doctor?
+
+I don't know which he chose.
+
+Do you know who he studies with?
+
+What do you think I am doing?
+
+How old do you think I am?
+
+There is always someone who can come up with a reason why they are superior to another.
+
+We have spoken about the importance of knowing what you want. And in the chapters that follow, we will examine the obstacles that present themselves to involuntary singles. But I want to pause now to look more closely at the two aspects of perseverance: patience and persistence, for they are both critical.
+
+clause 
+ 동격명사절 (Noun Clause)
+
+ 동격 명사절은 어느 정도 귀에 익숙한 용어일 수 있다. 그러나 동격 명사절이 무엇인가라는 질문에는 많은 학생들이 자신이 없어 보인다. 이 장에서는 동격 명사절이 무엇인지, 또한 문장에서 어떤 의미를 지니고 있는지를 명확히 이해해보자. 더 나아가서는 동격 명사절이 어떤 식으로 문장에서 복잡해지는가를 이해하도록 하자.
+
+ 15 기본 개념
+
+동격 명사절은 용어가 길어 보이지만 그 본질은 하나의 명사이다. 주어 동사의 형태를 갖추고 있으면서 하나의 명사이다. 동격 명사절이 복잡한 형태를 취하고 있지만, 문장이 아니라 하나의 명사라는 사실을 정확히 이해하기 바란다.
+
+
+
+The fact that he is a student is true.
+
+
+
+동격 명사절의 형태는 '명사 접속사 주어 동사' 이다. 즉, 명사절 앞에 하나의 명사가 추가되어 나오는 구문 형태이다. 그러므로 위의 문장에서 The fact that he is a student 같은 구문을 동격 명사절이라 할 수 있다. 
+
+
+
+해석하는 방법은 that 이하를 해석한 후 앞의 명사를 연결시킨다. 위의 문장에서 동격 명사절 The fact that she is from Armerica 자체는 '그녀가 미국에서 왔다는 사실' 이라고 해석한다. 
+
+
+
+중요한 것은 동격 명사절이 단순히 명사라는 것을 이해하는 것이 아니라 그 동격 명사절이 문장에서 어떻게 쓰이는가를 파악하는 것이다. 동격 명사절은 하나의 명사이기 때문에 문장에서는 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰인다.
+
+
+
+The fact that he is a student is true.                         (주어)
+Police say no sign that the building collapsed due to terrorism.    (목적어)
+This is the evidence that they are careless.                     (보어)
+There is no doubt on the fact that they built the building.    (전치사의 목적어)
+
+
+
+ 15 영어가 길어지는 이유
+
+The information that he ran away to Russia is already proved.
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 단순히 The information 이 아니라, The information that he ran away to Russia 이다. 주어가 하나의 절로써 길어지고 있다는 것이다.
+
+ 
+
+그렇다면 위 문장에서 명사는 무엇인가? 위 문장에서 명사 역시 The information that he ran away to Russia 이다. The information that he ran away to Russia 전체가 하나의 명사로써 주어로 쓰이고 있는 것이다.
+
+
+
+그렇다면 The information that he ran away to Russia 와 that he ran away to Russia 의 차이점은 무엇인가?
+
+
+
+that he ran away to Russia → The information that he ran away to Russia
+
+
+
+위의 문장에서 보는 것처럼 하나의 that 절 앞에 같은 의미의 명사 the information 을 붙이면 그것이 하나의 동격 명사절이 되는 것이며 그것이 하나의 명사가 되는 것이다. information 도 하나의 명사이고, that he ran away to Russia 도 하나의 명사이다. 두 개의 명사가 결합하여 하나의 동격 명사절 구문이 되는 것이다.
+
+
+
+다음 문장을 통해서 동격 명사절 구문이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+He reaffirms his belief that men and women shouldn't serve together in the army.
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어는 단순히 his belief 가 아니라, his belief that men and women shouldn't serve together in the army 이다. 목적어가 하나의 절로써 길어지고 있다는 것이다. 
+
+
+
+위의 문장에서 명사는 무엇인가? 위의 문장에서 명사 또한 his belief that men and women shouldn't serve together in the army 이다. 그러므로 이 문장은 his belief that men and women shouldn't serve together in the army 전체가 명사로써 목적어로 쓰이는 것이다.
+
+
+
+This is the evidence that he developed the software.
+
+
+
+위의 문장에서 보어는 무엇인가? 위의 문장에서의 보어 또한, 단순히 the evidence 가 아니라, the evidence that he developed the software 이다. 보어가 하나의 절로써 길어지고 있다는 것이다.
+
+ 
+
+동격 명사절 역시 그 전체를 하나의 명사로 파악하는 것이 중요하다. 그러한 간단한 인식을 통하여 영어를 쉽게 이해할 수 있는 것이다.
+
+ 
+
+다음 문장을 통하여 길어지고 있는 동격 명사절의 다양한 형태를 확인할 수 있다.
+
+
+
+There is no doubt that the globe is warming.
+
+Pain is the sign that the body is out of balance.
+
+My husband has given me notice that he is going to sue for a divorce. 
+
+He perhaps suffers from the fact that they don't know the customs in the country.
+
+The fact that exercise burns energy makes your body far more efficient at processing energy in the future.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+The fact that making money is placed on the priority list of almost everyone of working age, means there is no room for anything else.
+
+Sometimes, if we want to fix something that is annoying us, we have to face up to the fact that we will have to be confrontational from time to time.
+
+But the fact that they cannot produce enough of them to fulfill the total demand will swing the evaluation of the product to a lesser value, which soon became clear from the value of Apple stock.
+
+We give the above example merely as an illustration of the fact that Desire is the motivating force that moves the Will into action.
+
+
+
+ 15 Conclusion (결론)
+
+p1t 동격 명사절은 명사이다. 
+
+p2t 동격 명사절의 형태는 '명사 that 주어 동사' 이다.
+
+p3t the fact that he is a student, the evidence that they went there 등이 그 예이다.
+
+p4t 해석은 that 이하를 해석한 후 앞의 명사를 연결시킨다.
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+ 15 Level 1
+
+level11 다음 문장에서 동격 명사절 부분을 파악한 후 해석해보시오.
+
+p1t They are in favor of the view that such was the case.
+
+p2t We need to face the fact that we are all afraid of life.
+
+p3t We have no idea why most of these creatures are on the earth.
+
+p4t There can be little doubt that he expressed the sentiments of his master.
+
+p5t His private life is unknown, except for the fact that he has never married.
+
+p6t The problem is the fact that they have no respect for the living creatures.
+
+p7t The advocates ignore the fact that the world has faced disintegration in many grounds.
+
+p8t It takes advantage of the fact that you are not feeling positive about your own qualities.
+
+p9t In spite of the fact that he wrote the book, he seems to keep his position as the chief poet of the English language.
+
+ 15 Level 2
+
+level21 다음 문장에서 동격 명사절 부분을 파악한 후 해석해보시오.
+
+p1t The fact that the money was lent to her by her master proves that she must have been engaged in business on her own account.
+
+p2t But to me its chief value and interest lay in the fact that while watching it I felt that I was really in New York, and not in Vienna, Paris, or London.
+
+p3t Globalization is a business philosophy based on the belief that the world is becoming more homogeneous - national distinctions are fading and will eventually disappear.
+
+p4t Ultimately, all the historians have done is to illuminate the fact that in all the years we have been developing on this planet, the same basic drives have existed throughout.
+
+p5t Unfortunately, the whole issue of whether we are born to be selfish has been clouded by the fact that selfishness has been positively encouraged by modern western capitalist governments.
+
+p6t Perhaps the least subtle difference between New York and Chicago springs from the fact that the handsomest part of New York is the center of New York, whereas the center of Chicago is disappointing.
+
+ 15 On The Evolution Of Language
+
+Possible ideas and thoughts are vast in number. A distinct word for every distinct idea and thought would require a vast vocabulary. The problem in language is to express many ideas and thoughts with comparatively few words. Again, in the evolution of any language, progress is from a condition where few ideas are expressed by a few words to a higher, where many ideas are expressed by the use of many words; but the number of all possible ideas or thoughts expressed is increased greatly out of proportion with the increase of the number of words. And still again, in all of those languages which have been most thoroughly studied, and by inference in all languages, it appears that the few original words used in any language remain as the elements for the greater number finally used. In the evolution of a language the introduction of absolutely new material is a comparatively rare phenomenon. The old material is combined and modified in many ways to form the new.
+ 
+"But you don't live here now, Grizel," Tommy said, when she drew back at his proposal that they should go away; "you live at the doctor's house."
+
+The vast number of the small shrivelled grains in the above two cases explains the fact that, though equal-d plants are generally fertile in a high degree, yet some of them yield few seeds.
+
+The great circulation which the newspapers enjoy may be gathered, without giving copious statistics, from the fact that one out of the many New York journals has a circulation of 187,000 copies.
+
+Given the stresses that are put on us to achieve at all costs, the fact that people manage, either to work through their problems with a friend, counsellor or other support service, is very positive.
+
+Hope that , fact that
+
+One question that you may feel we haven’t dealt with in its entirety, is why animals are here; and before you answer, it’s not just to provide us with meat and sport.
+
+The fact that she could hold and bequeath property, and trade with it independently, implies that she was expected to know how to read and write.
+
+we also know we seem negative to others despite the fact that the molecules are electrically neutral themselves.
+
+Your picture assists you to keep your mind fixed on the fact that the inflow of this creative energy is taking place.
+
+Intensify your thought by meditating upon the fact that there is that in you which finds the way, which is theTruth and is the Life.
+
+The fact that they used their eyes more or less is only a small factor in this enormous aggregation of influences received by them and transmitted to us.
+
+The fact that he seemed unaware of his indiscretion and was attempting to entertain the villagers with his tomfoolery, caused her to seethe all the more.
+
+He’s looking for something that’s understated, but reflects the fact that he’s serious, and has made it in life – something altogether more regal.
+
+And that is quite another subject, given the fact that there are two sides to that whole, the view of the user, and the view of the creators of the system.
+
+The feeling shows itself in the fact that when inherited land is sold we find other members of the family signing their assent by their presence at the sale.
+
+I was sustained in my demeanor by the fact that it was a quarter to eight in New York.
+
+A study of men discloses the fact that the strong men never tilt the head.
+
+One question that you may feel we haven’t dealt with in its entirety, is why animals are here; and before you answer, it’s not just to provide us with meat and sport.
+
+You did say that the lord guides your actions.
+
+In spite of the fact that so much of the labor of the country was performed by slaves.
+
+How numerous the letters are may be gathered from the fact that no less than 1,575 of them (including fragments) have come from that part of the library alone which was excavated by Sir A.
+
+This lady would have remained largely anonymous but for the fact that the great Led Zeppelin decided to cover her recording of 'When The Levee Breaks', which itself dates back to June 1929.
+
+We have spoken about the importance of knowing what you want. And in the chapters that follow, we will examine the obstacles that present themselves to involuntary singles. But I want to pause now to look more closely at the two aspects of perseverance: patience and persistence, for they are both critical.
+
+
+The fact that the play on the stage with success is far more important than the fact that it performed only five times.
+
+The fact that the sun and moon, as well as the evening and morning stars, were already worshipped as divinities doubtless led the way to this system of astro-theology.
+
+There is a general belief that while bad air may be a positive evil influence, incorrect use of language is at most no more than a negative evil: that while it may be a good thing to be correct, no special harm is involved in being incorrect.
+
+ I had no doubt that she would be true to me. I had had my days of fear and depression, but always my sublime faith in her came back in good time. : 동격 명사절
+
+There could be very little doubt that the lonely Kvalholm was haunted.  : 동격 명사절
+
+he wondered whether it would help if he managed to convey the idea that he was pretty well off, that he owned more than a controlling interest in one of the richest gold mines in Colorado. : 동격 명사절
+
+Mr. Hacket expressed the opinion that it might have come from the umbrella but I am quite sure that he had spotted them to save me from the last home-made suit I ever wore, save in rough work, and keep Michael Henry's on my back. : 동격 명사절
+
+ It had beenfoolish modesty in him hitherto to conceal the fact that a branch ofthe Freelys held a manor in Yorkshire, and to shut up the portraitof his great uncle the admiral, instead of hanging it up where afamily portrait should be hung--over the mantelpiece in the parlour.: 동격 명사절
+
+With a pen in his hand and woman in his head, he had such noble thoughts that his tears of exaltation damped the s as he wrote, and the ladies must have been astounded as well as proud to see what they were turning into.: 동격 명사절
+
+To the complacent Shorty, it seemed that things were working nicely, though he was disturbingly conscious of his alcoholic lack of balance, and tortured by the fear that he might suddenly lose the iron grip of his faculties.: 동격 명사절
+
+ 15 기본 개념
+
+강조 구문을 이해하기 위해서 우선 강조 구문이 문장 속에서 무엇을 강조하는지를 알아야 한다. 강조 구문이 강조하는 것은 명사나 형용사 등과 같은 단어나 품사의 개념이 아니라, 주어, 목적어, 보어, 부사 등과 같은 문장 성분이다. 가령 예를 들어,
+
+
+
+It was at the gym that he met the girl.
+
+
+
+위의 문장에서 강조되어지는 말은 무엇인가? 위의 문장에서 강조되어지는 말은 the gym 이 아니라 at the gym 이다. 즉 단어 명사가 강조되고 있는 것이 아니라 문장 성분인 부사가 강조되고 있다는 것이다.
+
+
+
+강조 구문의 형태는  'It is ~ that 주어 동사' 이다. 그 예를 들자면 
+
+  
+
+It was a car that she bought yesterday.       (목적어 강조)
+
+It was she that bought a car yesterday.   (주어 강조)
+
+It was yesterday that she bought the car.    (부사 강조)
+
+
+
+또한 해석하는 방법은 that 이하를 해석한 후 강조하는 말을 해석해 준다. 예를 들어  위의 첫 번째 문장은 '그녀가 어제 산 것은 차였다.' 라고 해석한다. 
+
+
+
+명심해야 할 것은 강조 구문은 하나의 단어를 강조하는 것이 아니라 문장 속에서 하나의 문장 성분을 강조한다는 것이다.
+
+
+
+그렇다면 강조 구문은 어떻게 만들어질 수 있는지 살펴보자.
+
+
+
+He drove the car to the city the day before yesterday.
+
+
+
+위의 기본적인 문장에서 강조할 수 있는 말은 주어 He, 목적어 the car, 장소 부사 to the city, 시간 부사 the day before yesterday 이다.
+
+
+
+강조하는 방법은 It is ~ that 사이에 강조하는 말을 넣어주면 된다. 나머지는 that 이하로 보내주면 되는 것이다. 따라서 위의 문장은,
+
+
+
+It was to the city that he drove the car the day before yesterday.
+It was he that drove the car to the city the day before yesterday.
+It was the car that he drove to the city the day before yesterday.
+It was the day before yesterday that he drove the car to the city.
+
+
+
+와 같이 강조 구문을 만들 수 있는 것이다.
+
+
+
+ 15 강조 대상
+
+It is only when we start realizing we are our own teachers, that things will change.
+
+
+
+위의 문장에서 강조되어지는 말은 무엇인가? 위의 문장에서 강조되어지는 말은 only 가 아니라 only when we start realizing we are our own teachers 이다. 즉 단순히 단어가 아니라 부사절이 강조되고 있다는 것이다. 이는 앞서 짚어본 것처럼 강조 구문은 문장 성분이 강조된다는 것을 분명히 알아야 한다. 그러므로 강조 구문은 문장의 관점에서 이해해야 하는 것이요, 단순히 단어의 관점에서 이해해서는 안 된다는 것이다.
+
+
+
+다음 문장을 통해서 문장의 어느 부분이 강조 되어지는가를 파악할 수 있다.
+
+
+
+But it was not the furniture that made her so happy.
+
+Tommy knew that it is the busy people who can find time.
+
+It was at four in the morning that they finished the work.
+
+It is when everything gets done well that we can restart the work.
+
+It is as the tree grows that the leaves and the branches come out of it.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 강조된 부분을 파악한 후 해석해보시오.
+
+p1t It's the man who stole the money.
+
+p2t It is the eyes that see the black man in the "white area".
+
+p3t But it is with the Governor that the supreme power resides.
+
+p4t It is from this point that its immense spiritual significance becomes clear.
+
+p5t It is our thinking, not the actual act that I need to discuss with you here.
+
+p6t But it is only since the second world war that things have really started speeding up.
+
+p7t It is the invention of the microprocessor chip that is really fuelling the fast pace of the world.
+
+p8t And it is largely due to his influence that the best journals of our day are written in so clear a .
+
+p9t It is not the mathematics of astronomy, but the wonder and the mystery that seize upon the imagination.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 강조된 부분을 파악한 후 해석해보시오.
+
+p1t Do you not know that it is ideas of other people that got us in this mess in the first place?
+
+p2t And it is through the learning process that your confidence to be able to provide food and shelter for yourself develops.
+
+p3t They do feel pain, and it is exactly that cry of pain that triggers our own emotional system to feel compassion and empathy for them.
+
+p4t If you feel scared, there is always one person you can believe in, and that is yourself; because it is the only authentic belief that there is.
+
+p5t When someone talks about being afraid of flying it is not the flying that causes the increased heartbeat and sweaty palms, but a fear of crashing and ultimately dying.
+
+
+
+ 15 A History Of Mathematics
+
+The contemplation of the various steps by which mankind has come into possession of the vast stock of mathematical knowledge can hardly fail to interest the mathematician. He takes pride in the fact that his science, more than any other, is an exact science, and that hardly anything ever done in mathematics has proved to be useless. The chemist smiles at the childish efforts of alchemists, but the mathematician finds the geometry of the Greeks and the arithmetic of the Hindoos as useful and admirable as any research of to-day. He is pleased to notice that though, in course of its development, mathematics has had periods of slow growth, yet in the main it has been pre-eminently a progressive science.
+ 
+
+"Yes, sir-and I'm almost sure it was Amos that ran away with it."
+
+It was there that her mother was wont to walk with them.: 강조 구문
+it was then that Elspeth came back. : 강조 구문
+
+ And as for breakfast, it was you that talked about it just now.": 강조 구문
+
+It was there that Grizel had lived with her mamma.: 강조 구문
+
+David's words showed her too suddenly how she had changed, and it was then that she broke down before him--because she had ceased to care for housekeeping.: 강조 구문
+
+She told him she had known all the time why he came to see her, and when he reminded her that it was Thursday she invited him : 강조 구문
+
+So did the hordes of madmen behind us, and I began to understand for the first time what it was that the old man in the seat next to mine was combating. : 강조 구문
+
+it is love that has made you so: 강조 구문
+
+It was this incident which had led to the advertisement. :강조 구문
+
+It was that spirit which caused him to rise.
+
+and was it with him that she was annoyed for ordering, or with herself for obeying? : 강조 구문
+
+clause 
+ 복합관계대명사절 (Noun Clause)
+
+ '복합 관계 대명사절' 을 공부할 때 주의할 것은 '복합 관계대명사' 자체보다도 '복합 관계 대명사절' 에 관점을 가져야 한다. 물론 '복합 관계 대명사' 자체도 충분히 이해해야 하지만, '복합 관계 대명사절' 을 하나의 대상으로 보고 학습하여야 한다. 단순히 '복합 관계대명사' 란 용어 자체에만 집중을 하다 보면 혼란에 빠지는 경우가 대부분이다.
+
+ 15 기본 개념
+
+'복합 관계 대명사절' 은 결론적으로 하나의 명사이다. 주어 동사의 형태를 갖추고 있지만, 전체적으로는 하나의 명사이다. 또한, '복합 관계 대명사절' 그 자체는 문장이 아니라는 것을 명심하기 바란다. 주어 동사의 형태를 갖추고 있으므로 하나의 명사절이라 할 수 있는데 이는 곧 하나의 명사로 귀결되는 것이다.
+
+
+
+형태는 '복합관계대명사 주어 동사' 이다. 그 예를 들자면 whatever you want, whoever he loves 등이 있을 수 있다. 
+
+
+
+해석하는 방법은 '~ 하는 것은 무엇이든지', '~ 하는 사람은 누구든지' 와 같은 식이다. 그러므로 whatever you want 는 '너가 원하는 것은 무엇이든지' 라고 해석하고 whoever he loves 는 '그가 사랑하는 사람은 누구든지' 라고 해석한다.
+
+
+
+그렇다면 문장에서는 어떻게 쓰이는가? 문장에서는 명사이기 때문에 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰일 수 있다. 그러나 실질적으로는 주어나 목적어로 쓰이는 경우가 대부분이다.
+
+
+
+Whoever comes first wins the game. (주어)
+I will buy whatever I want to have. (목적어)
+I will meet whoever you want me to. (목적어)
+
+
+
+참고로, '복합 관계 대명사' 자체의 형태는 '의문대명사 ever' 이다. 그 예를 들자면, 
+whoever, whatever, whichever 등이 있을 수 있다.
+
+
+
+ 15 영어가 길어지는 이유
+
+Whoever comes first can get it.
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 Whoever 가 아니라, Whoever comes first 이다. 주어가 길어졌다는 의미이다. 
+
+
+
+그렇다면 위 문장에서 명사는 무엇인가? 위 문장에서 명사는 역시 Whoever comes first 이다.  Whoever comes first 가 명사절로써 주어로 쓰이고 있는 것이다. 
+
+
+
+잠시, Whoever comes first 와 Who comes first 의 차이점을 살펴보자.
+
+
+
+who comes first 는 '처음 오는 사람' 이라 해석이 되고, whoever comes first 는 '처음으로 오는 사람은 누구든지' 라 해석한다. 약간의 의미의 차이가 있다는 뜻이다.
+
+
+
+다음 문장을 통해서 복합 관계 대명사절이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+We will take whatever is necessary.
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서도 또한 목적어는 단순히 whatever 가 아니라, whatever is necessary 이다. 목적어가 하나의 절로써 길어지고 있다는 것이다. 
+
+
+
+위의 문장에서도 또한 whatever is necessary 가 하나의 명사이다. 명사로써 목적어로 쓰이는 것이다.
+
+
+
+다음 문장을 통하여 다양한 경우에 있어서 길어지고 있는 복합 관계 대명사절의 형태를 확인하기 바란다.
+
+
+
+People will see whatever they want to see. 
+
+Whoever controls the food controls the people.  
+
+These are laws created by whoever is in power at the time. 
+
+People can't have sex in the streets with whoever they want. 
+
+Whoever compares these two treatises will probably agree with us.
+
+I desperately wanted to go home, to run away from whatever was happening to me.
+
+Whatever we do can affect the planet and whatever the planet does can affect us.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+They will do whatever it takes to stay in business.
+
+She told me that whoever came across him absolutely couldn't help gazing into his pale and horrible face.
+
+Most websites are free and we should all contribute where we can, with whatever we know, and put it on the web.
+
+
+
+ 15 Conclusion (결론)
+
+p1t 복합 관계 대명사절은 명사이다. 
+
+p2t 복합 관계 대명사절의 형태는 '복합 관계 대명사 주어 동사' 이다.
+
+p3t whatever you want, whoever she is 등이 그 예이다.
+
+p4t 해석하는 방법은 '~ 하는 것(사람은)은 무엇이든지(누구든지)' 라고 한다.
+
+p5t 문장에서는 주어, 목적어, 보어, 전치사의 목적어로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 '복합 관계 대명사절' 부분을 파악한 후 해석해보시오.
+
+p1t I will do whatever it takes.
+
+p2t You have to do whatever you can.
+
+p3t Whoever reads the book will be moved.
+
+p4t They can call it whatever they want to.
+
+p5t You can select whichever you want to buy.
+
+p6t These are laws created by whoever is in power at the time.
+
+p7t Whatever you did would have an effect on them and vice versa. 
+
+p8t In reverse, whatever other people are doing is having an effect on you.
+
+p9t They readily agreed to whatever their able and active colleague proposed.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '복합 관계 대명사절' 부분을 파악한 후 해석해보시오.
+
+p1t Now that you are eighteen you can do whatever you like.
+
+p2t Whoever sent him his call-up papers must have told him he wouldn't need many clothes.
+
+p3t But I think whoever wrote it missed something quite profound, which are not known yet.
+
+p4t Whatever you feel is no longer sexual feelings and violence that are deeply repressed in this culture now.
+
+p5t Why do I get the feeling that whoever was responsible not only doesn’t care what other people think of them, or show the slightest respect for others, but also may use violence if challenged?
+
+p6t A series of fundamental truths is being disclosed through the simple process of living, and whoever touches the deep life of men in the great works of art comes in contact also with these fundamental truths.
+
+
+
+ 15 Properties Of Matter And Ether
+
+1. MATTER IS DISCONTINUOUS.
+
+Matter is made up of atoms having dimensions approximately determined to be in the neighbourhood of the one fifty-millionth of an inch in diameter. These atoms may have various degrees of aggregation; they may be in practical contact, as in most solid bodies such as metals and rocks; in molecular groupings as in water, and in gases such as hydrogen, oxygen, and so forth. Any or all of these molecules and atoms may be separated by any assignable distance from each other. Thus, in common air the molecules, though rapidly changing their positions, are on the average about two hundred and fifty times their own diameter apart. This is a distance relatively greater than the distance apart of the earth and the moon, for two hundred and fifty times the diameter of the earth will be 8000 × 250 = 2,000,000 miles, while the distance to the moon is but 240,000 miles. 
+
+
+2. THE ETHER IS CONTINUOUS.
+
+The idea of continuity as distinguished from discontinuity may be gained by considering what would be made visible by magnification. Water appears to the eye as if it were without pores, but if sugar or salt be put into it, either will be dissolved and quite disappear among the molecules of the water as steam does in the air, which shows that there are some unoccupied spaces between the molecules. We know that water is composed of two different kinds of atoms, hydrogen and oxygen, for they can be separated by chemical means and kept in separate bottles, and again made to combine to form water having all the qualities that belonged to it before it was decomposed. If a very much higher magnifying power were available, we should ultimately be able to see the individual water molecules, and recognize their hydrogen and oxygen constituents by their difference in size, rate of movements. What one would see would be something very different in structure from the water as it appears to our eyes. If the ether were similarly to be examined through higher and still higher magnifying powers, even up to infinity, there is no reason for thinking that the last examination would show anything different in structure or quality from that which was examined with low power or with no microscope at all. This is all expressed by saying that the ether is a continuous substance, without interstices, that it fills space completely, and, unlike gases, liquids, and solids, is incapable of absorbing or dissolving anything.
+
+
+
+ 
+reserve I want to do whatever I want to do
+
+Why do I get the feeling that whoever was responsible not only doesn’t care what other people think of them, or show the slightest respect for others, or property, but also may use violence if challenged?
+
+Whoever fights ceaselessly against his own selfishness, and strives to supplant it with all-embracing love, is a saint, whether he live in a cottage or in the midst of riches and influence; or whether he preaches or remains obscure.
+
+clause 
+ 가주어, 진주어 구문 (Noun Clause)
+
+ '가주어 진주어 구문' 은 영어가 얼마나 기계적인 언어인가 하는 것을 보여주는 구문이다. 물론 이 형태의 구문도 문장에서 자주 나오는 형태이다. 또한, 일상 대화에서나 뉴스에서도 자주 나오는 형태의 구문이다. 한마디로 원어민들이 항상 사용하는 구문 형태이다. 그리 어려운 구문은 아니지만 '강조 구문' 과 조금 혼동할 수 있다.
+
+ 15 기본 개념
+
+That she bought the car yesterday is true.
+
+
+
+위의 문장은 주어가 That she bought the car yesterday 이다. 이렇게 주어가 길어지면 이를 가짜 주어 it 로 대체하고 That she bought the car yesterday 를 문장의 뒤로 보낼 수 있다. 그리하여 It is true that she bought the car yesterday. 의 형태가 된다. 이를 가주어 진주어 구문이라 한다.
+
+
+
+그 형태는 'It is ~ that 주어 동사' 이다. 그 예를 들자면 
+
+
+
+It is true that she loves him.
+
+But it is surely strange that, considered as savages, they should not have been objects of interest and curiosity.
+
+But it is a surprising fact in this case, and in other similar ones, that the number of the offspring which thus reverted was not larger.
+
+
+
+등이 있을 수 있다.
+
+
+
+해석하는 방법은 It 은 말 그대로 가짜 주어이기 때문에 해석하지 않고 that 이하를 진짜 주어로 인식하고 해석한다.
+
+
+
+It is true that she bought the car yesterday.
+
+
+
+위의 구문은 '그녀가 어제 차를 산 것은 사실이다.' 라고 해석한다.
+
+
+
+ 15 영어가 길어지는 이유
+
+가주어 진주어 구문이 길어지는 근본적인 이유는 it ~ that 의 형태 때문이라기보다는 that 절 자체 때문이다. 앞서 배운 것처럼 that 절이 문장 안에서 주어로서 길어질 수 있다는 것이다. 그 that 절이 주어일 때는 문장의 제일 앞에 위치하는 것이 기본이나 그 주어를 it 로 대체하고 that 절은 문장의 끝으로 이동시킬 수 있다는 것을 인지해야 한다. 
+
+
+
+It is not true that they love their country.
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 단순히 It 가 아니라, that they love their country 이다. It 은 가짜 주어로써 아무런 의미가 없다. 형식상 주어의 위치를 차지하고 있을 뿐이다. 따라서 해석도 하지 않는다. 이러한 형식의 문장은 한국어에서는 찾아볼 수 없는 형태이다. 이러한 면에서 영어가 매우 기계적이고 논리적인 언어라는 것을 알 수 있다. 
+
+
+
+다음 문장을 통하여 다양한 경우에 있어서 길어지고 있는 가주어 진주어 구문의 형태를 확인하기 바란다.
+
+
+
+It's evident that you have made use of me.
+
+"Is it a pity for him that he married me?"
+
+It was clear that the prosecution was not satisfied with its case.
+
+It was perhaps conceivable that he might pull the boy out of the water.
+
+It is essential that you should run up to see your publisher, is it not? 
+
+mid_t 더더욱 길어지는 형태 :
+
+To one who has never faced an Arctic hurricane it seems incredible that strong men have died.
+
+A week went by, during which it seemed that all the railroads except the Monon had suddenly gone out of business.
+
+That's how it happened that he bought a farm instead of going to the poor house when Grimshaw put the screws on him.
+
+
+
+ 15 Conclusion (결론)
+
+p1t 가주어 진주어 구문은 that 절의 형태가 주어로 쓰일 때 사용되어지는 구문이다. 
+
+p2t 가주어, 진주어 구문의 형태는 'It ~ that 주어 동사' 이다.
+
+p3t It is true that he is a student., It is true that she is beautiful. 등이 그 예이다.
+
+p4t 해석은 가주어 it 은 해석하지 않고 that 절을 주어로 인식하고 해석한다.
+
+
+ 15 Level 1
+
+level11 다음 문장에서 '가주어, 진주어' 부분을 파악한 후 해석해보시오.
+
+p1t It is true that she loves him.
+
+p2t It is kind of weird that I am dreaming about you a lot.
+
+p3t It is no wonder that people feel depressed when unemployed.
+
+p4t It is very certain that the ladies of New York dress beautifully.
+  
+p5t It is certain that he might easily have become rich by cruelty and dishonesty.
+ 
+p6t It is certain that the solution may be found in their respective circumstances.
+
+p7t It is estimated that between 4,000,000 and 5,000,000 individuals are at this time receiving education.
+
+p8t But it was well known that many regiments were concealed from view by the undulations of the ground.
+
+p9t It is probable that the law of Scotland concerning torture would have been immediately assimilated to the law of England.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '가주어, 진주어' 부분을 파악한 후 해석해보시오.
+
+p1t Others say that it is impossible we evolved from the apes.
+
+p2t It appeared to me, from what I heard, that his fame is even greater in England than in his own country.
+
+p3t We are now in the position where we don’t need meat to survive, even if it is true that we did in the past.
+
+p4t Two or three witnesses came to say that it was known throughout the country that the people had formerly been on good terms with the lady of Cornault.
+
+p5t But the human is a highly adaptable creature, without this adaptability it is doubtful that the species could have progressed as much as it has.
+
+p6t If it is possible that we perceive things that didn't happen or weren't there, couldn't it be entirely possible that there were things in the world we weren't perceiving?
+
+
+
+ 15 Science Of Human Nature
+
+Before attempting to define psychology, it will be helpful to make some inquiry into the nature of science in general. Science is knowledge; it is what we know. But mere knowledge is not science. For a bit of knowledge to become a part of science, its relation to other bits of knowledge must be found. In botany, for example, bits of knowledge about plants do not make a science of botany. To have a science of botany, we must not only know about leaves, roots, flowers, seeds, etc., but we must know the relations of these parts and of all the parts of a plant to one another. In other words, in science, we must not only know, we must not only have knowledge, but we must know the significance of the knowledge, must know its meaning. This is only another way of saying that we must have knowledge and know its relation to other knowledge.
+
+A scientist is one who has learned to organize his knowledge. The main difference between a scientist and one who is not a scientist is that the scientist sees the significance of facts, while the non-scientific man sees facts as more or less unrelated things. As one comes to hunt for causes and inquire into the significance of things, one becomes a scientist. A thing or an event always points beyond itself to something else. This something else is what goes before it or comes after it; is its cause or its effect. This causal relationship that exists between events enables a scientist to prophesy. By carefully determining what always precedes a certain event, a certain type of happening, a scientist is able to predict the event. All that is necessary to be able to predict an event is to have a clear knowledge of its true causes. Whenever, beyond any doubt, these causes are found to be present, the scientist knows the event will follow. Of course, all that he really knows is that such results have always followed similar causes in the past. But he has come to have faith in the uniformity and regularity of nature. The chemist does not find sulphur, or oxygen, or any other element acting one way one day under a certain set of conditions, and acting another way the next day under exactly the same conditions. Nor does the physicist find the laws of mechanics holding good one day and not the next.
+
+
+
+ 
+reserve Perhaps it may be laid down as a general rule that a legislative assembly, not constituted on democratical principles, cannot be popular long after it ceases to be weak.
+
+It is taken for granted that the first wife is to remain at the head of the household, the younger and second wife acting as her servant.
+
+=========================
+Was it ever heard of in war that the person of an enemy, a combatant in arms, was to be held inviolable on account of his name and descent?
+
+Is it possible that he--a strong party man--can resist this unanimous call of the party with whose help he has won immortal fame? 
+
+Was it possible that the fear of him which the years had driven out of the girl still lived a ghost's life to haunt the woman?
+
+It has always seemed to me that he was afflicted with perfection--a camellia man!--so invariably neat and proper and conventional! 
+
+
+it was clear that a suitor would be at a disadvantage with such a family, unless travel and natural acumen had given him a countervailingpower of contrivance.
+
+how was it possible that the inward drama should not get the start of the outward?
+
+And it was quite true that, when business permitted, Mr. Freely thought a great deal of Penny. 
+
+"Oh, yes," she said graciously, and then it seemed that nothing could ever disturb him again.
+
+
+But it seemed that the patient was fated to disappoint the predictions of his friend as well as those of the surgeons at Mercy Hospital.
+
+
+For a moment it appeared that she would resist.
+
+"How did it happen that the stone jumped?" I asked.
+
+"It's quite evident that you've never done any of it!"
+
+But when the question of settlements arose it became known that Miss Lombard, who was possessed of a small property in her own right, had a short time before invested the whole amount in the purchase of the Bergamo Leonardo.
+
+It was plain that the Judges were surprised by its puerility, and that it did not help the accused in the eyes of the public.
+
+To Folsom it seemed that the distant stretch of dark water was like a prison wall, barring the outside world from him
+
+He had never seen her, yet he had heard Ed speak of her so much that it seemed that he must have known her. 
+ 
+At last, however, it seemed clear that Cupid had found a sharper arrow than usual, and that Mr. Freely's heart was pierced.
+
+clause 
+ 가목적어, 진목적어 구문 (Noun Clause)
+
+ '가목적어 진목적어 구문' 역시 영어가 얼마나 기계적인 언어인가 하는 것을 보여주는 구문이다. 이 형태의 구문 역시 문장에서 자주 나오는 형태이다. '가주어 진주어 형식의 구문' 과 더불어 명확히 이해해야 하는 문장 형태이다. 
+
+ 15 기본 개념
+
+I think it true that they went there yesterday.
+
+
+
+위의 문장은 I think that they went there yesterday true. 의 문장에서 목적어인 that they went there yesterday 가 it 로 대체되고, 그 자체는 문장의 뒤로 보내어진 구문이다. 이러한 구문을 가목적어 진목적어 구문이라 칭한다.
+
+
+
+형태는 위의 문장에서 알 수 있듯이 '주어 동사 it 목적격 보어 that 주어 동사' 이다. 
+
+
+
+해석하는 방법은 it 은 가짜 목적어이기 때문에 해석하지 않고 that 절을 진짜 목적어로 인식하고 해석한다.
+
+
+
+ 15 영어가 길어지는 이유
+
+가목적어 진목적어 구문 역시 길어지는 근본적인 이유는 it ~ that 의 형태 때문이라기보다는 that 절 자체 때문이다. 앞서 배운 것처럼 that 절이 문장 안에서 목적어로써 길어질 수 있다는 것이다. 그 길어진 that 절이 가짜 목적어 it 로 대체되고 진짜 목적어인 that 절은 문장의 끝으로 이동시킬 수 있다는 것이다. 
+
+
+
+She believes it false that he loves her.
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어는 it 와, that he loves her 이다. 그러나 it 은 형식상의 목적어이고 실질적인 목적어는 that he loves her 이다. 목적어가 하나의 절로써 길어지고 있다는 것이다. 
+
+
+
+
+
+She thought it quite funny that I should find him thrilling.
+
+Einstein's formula E=mc^2 made it clear that Energy is condensed into matter.
+
+They made it impossible that the two nations could ever be united under one government.
+
+He thought it desirable that the representatives of the people should show their opinions.
+
+mid_t 더더욱 길어지는 형태 :
+
+The conduct of her last Parliament made it clear that one of those great revolutions which policy may guide but cannot stop was in progress.
+
+The American people are making it clear they are tired of disastrous free trade deals like the TPP that are designed to protect large multinational corporations at the expense of the rest of us.
+
+It was too much the habit of English politicians to take it for granted that there was in India a known and definite constitution by which questions of this kind were to be decided.
+
+
+
+ 15 Conclusion (결론)
+
+p1t 가목적어 진목적어 구문은 that 절의 형태가 목적어로 쓰일 때 사용되어지는 구문이다.
+
+p2t 가목적어, 진목적어 구문의 형태는 '주어 동사 it ~ that 주어 동사' 이다.
+
+p3t 예를 들자면, She believes it false that he loves her. 등이 있다.
+
+p4t 해석은 '가목적어 it 은 해석하지 않고 that 절을 목적어로 인식하고 해석' 한다.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 '가목적어, 진목적어' 부분을 파악한 후 해석해보시오.
+
+p1t I think it true that he went there yesterday.
+
+p2t I found it sad that someone had to hide under cosmetics.
+
+p3t I find it amazing that we human beings function on this planet.
+
+p4t Don't you find it strange that something is missing in the room?
+
+p5t He thought it desirable that they should withdraw from the country.
+
+p6t He thought it far better that they should finish the work before five o'clock.
+
+p7t His physicians pronounced it impossible that he could live to the end of the year.
+
+p8t The King's correspondents pronounced it to be impossible that the city should hold out.
+
+p9t A wider survey of experience would make it clear that art has many manners, and that no manner is supreme and none final.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '가목적어, 진목적어' 부분을 파악한 후 해석해보시오.
+
+p1t Do you find it strange that so many people just blindly believe what they have been told?
+
+p2t I think it highly unlikely that “peace” can exist, because when we apply it to the animal world, it means nothing.
+
+p3t He thought it most unfortunate that one opportunity of concluding such a treaty should have been lost at the time of the Restoration.
+
+p4t The Lords therefore, were bound to take it for granted that the King considered arms which were unlawfully directed against his people as directed against his own throne.
+
+p5t We have always thought it strange that, while the history of the Spanish empire in America is familiarly known to all the nations of Europe, the great actions of our countrymen in the East should, even among ourselves, excite little interest.
+
+
+ 15 Project TRINITY
+
+In the years devoted to the development and construction of a nuclear weapon, scientists and technicians expanded their knowledge of nuclear fission and developed both the gun-type and the implosion mechanisms to release the energy of a nuclear chain reaction. Their knowledge, however, was only theoretical. They could be certain neither of the extent and effects of such a nuclear chain reaction, nor of the hazards of the resulting blast and radiation. Protective measures could be based only on estimates and calculations. Furthermore, scientists were reasonably confident that the gun-type uranium-fueled device could be successfully detonated, but they did not know if the more complex firing technology required in an implosion device would work. Successful detonation of the TRINITY device showed that implosion would work, that a nuclear chain reaction would result in a powerful detonation, and that effective means exist to guard against the blast and radiation produced.
+
+
+
+ 
+reserve , which makes Energy the base material of this reality.
+
+As for Francis, he returned the author's greeting curtly, making it plain that he was in no agreeable temper.
+
+The eldest son, who had the charge of Jacob on his hands, often thought it a little hard that David might perhaps be dead.
+
+clause 
+ That ~ should 절 (Noun Clause)
+
+ that ~ should 절은 앞서 배운 that 절과 비슷하지만, should 가 추가된 형태이다. 의미에서도 that 절 과는 약간의 차이가 있다. 영어에서 항상 나오는 형태이니 이 또한 정확한 이해가 필요하다.
+
+ 15 기본 개념
+
+that ~ should 절은 결론적으로 하나의 명사이다. 주어 동사의 형태를 갖추고 있지만, 문장이 아니라 하나의 명사이다. 이러한 간단하면서 명확한 개념을 정확히 이해하기 바란다.
+
+
+
+형태는 'that 주어 should 동사' 이다. 그 예를 들자면,
+
+
+
+They insist that the plan should be carried out.
+
+
+
+위와 같은 문장에서 that 이하 부분을 that ~ should 절로써 파악할 수 있다.
+
+
+
+해석하는 방법은 should 의 의미를 가미해서 '~ 해야 하는 것' 으로 해석한다. 위의 문장에서 that 이하만을 본다면 '그 계획이 수행되어야 한다는 것' 으로 해석할 수 있다. 그리하여 전체 문장을 해석한다면 '그들은 그 계획이 수행되어야 한다고 주장한다' 라고 해석이 된다.
+
+
+
+그렇다면 문장에서는 어떻게 쓰이는가? 문장에서는 주어, 목적어, 보어, 그리고 전치사의 목적어로 쓰일 수 있다. 실제적으로는 주어나 목적어로 주로 쓰인다. 
+
+
+
+It is necessary that she should pass the examination. (주어)
+They insist that the plan should be carried out. (목적어)
+We proposed that the desks should be changed. (목적어)
+
+
+
+앞서 배운 that 절과 that ~ should 절은 분명한 차이가 있다. that 절은 하나의 객관적인 사실이다. 그러나 That ~ should 절은 미래의 희망 사항이 담겨져 있는 구문으로서 현재의 사실과는 무관하다. 의미상으로는 요구나 희망 사항을 내포하고 있는 문장이다. 그리하여 '~ 해야 한다' 로 해석한다.
+
+
+ 15 영어가 길어지는 이유
+
+It was natural that they should want to have something to do. 
+
+
+
+위의 문장에서 주어는 무엇인가? 위의 문장에서의 주어는 It 나 they 가 아니라, that they should want to have something to do 이다. 주어가 하나의 절로써 길어지고 있다는 것이다. 또한, 가주어 진주어 형태의 구문이기도 하다.
+
+
+
+그렇다면 위 문장에서 명사는 무엇인가? 위 문장에서 명사 역시, that they should want to have something to do 이다. that they should want to have something to do 가 명사절로써 주어로 쓰이고 있는 것이다.
+
+
+
+다음 문장을 통해서 that 절이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+They recommended that the boss should employ her.
+
+
+
+위의 문장에서 목적어는 무엇인가? 위의 문장에서의 목적어는 단순히 that 이 아니라, that the boss should employ her 이다. 목적어가 하나의 절로써 길어지고 있다는 것이다. 위의 문장에서도 또한 that the boss should employ her 가 하나의 명사이다. 명사로써 목적어로 쓰이는 것이다.
+
+
+
+다음 문장을 통하여 다양한 경우에 있어서 길어지고 있는 that ~ should 절의 형태를 확인하기 바란다.
+
+
+
+It is necessary that the reader should understand me.
+
+They insisted that the doctor should leave the hospital.
+
+Sybilla thinks it best that we should not go there this year.
+
+My theory of business is that a man should either be fired or promoted.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+"I came to suggest that you should give me the honor of allowing me to present you to Miss Walton, Mr. Herrick."
+
+"Dr. McQueen and I," he retorted, "used to hold private meetings after you had gone to bed, at which we agreed that you should no longer be allowed to make fun of us."
+
+He sent a last pressing message to the head-quarters, recommending that the dispersed forces should be concentrated.
+
+At this point one of the Judges, who appears to have had a certain sympathy for the accused, suggested that she should be allowed to explain herself in her own way.
+
+ 15 Conclusion (결론)
+
+p1t that ~ should 절은 명사이다. 
+
+p2t that ~ should 절의 형태는 'that 주어 should 동사' 이다.
+
+p3t that you should go there, that they should be here 등이 그 예이다.
+
+p4t 해석하는 방법은 '~ 해야 하는 것' 이다. 
+
+p5t 문장에서는 주어, 목적어 등으로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+p7t that ~ 절과의 차이점 : that ~ 절은 하나의 사실이고, that ~ should ~ 절은 '사실이 아니라 미래의 희망 사항' 이다.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 'that ~ should 절' 부분을 파악한 후 해석해보시오.
+
+p1t It was determined that they should be left unarmed.
+
+p2t It was necessary that he should abstain from violence. 
+
+p3t It was absolutely necessary that he should quit London.
+
+p4t It is probable that people should refuse to be sent there.
+
+p5t It was most desirable that a purer system should be introduced.
+
+p6t I advised that they should leave the place as soon as possible.
+
+p7t They insisted that the hostages should be sent on board of the fleet.
+
+p8t I am not suggesting that anybody should go to the bank and ask for a loan.
+
+p9t It is desirable that such people should make their wishes known through constitutional organs.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 'that ~ should 절' 부분을 파악한 후 해석해보시오.
+
+p1t He had demanded that an article touching his claims should be inserted in the treaty.
+
+p2t These men insist that at least a week should be suffered before they finish reading the book. 
+
+p3t It was therefore most desirable that the question should be settled while the throne was still vacant.
+
+p4t It was even more necessary to England at that time that her king should be a usurper than that he should be a hero. 
+
+p5t He sent a last pressing message to the head-quarters, recommending that the dispersed forces should be concentrated.
+
+p6t It was unanimously agreed that no person should be admitted to any office, civil, military, or academical, without taking the oaths to William and Mary.
+
+
+
+ 15 Appearance And Reality
+
+Is there any knowledge in the world which is so certain that no reasonable man could doubt it? This question, which at first sight might not seem difficult, is really one of the most difficult that can be asked. When we have realized the obstacles in the way of a straightforward and confident answer, we shall be well launched on the study of philosophy; for philosophy is merely the attempt to answer such ultimate questions.
+
+In daily life, we assume as certain many things which, on a closer scrutiny, are found to be so full of apparent contradictions that only a great amount of thought enables us to know what it is that we really may believe. In the search for certainty, it is natural to begin with our present experiences, and in some sense, no doubt, knowledge is to be derived from them. But any statement as to what it is that our immediate experiences make us know is very likely to be wrong. It seems to me that I am now sitting in a chair, at a table of a certain shape, on which I see sheets of paper with writing or print. By turning my head I see out of the window buildings and clouds and the sun. I believe that the sun is about ninety-three million miles from the earth; that it is a hot globe many times bigger than the earth; that, owing to the earth's rotation, it rises every morning, and will continue to do so for an indefinite time in the future. I believe that, if any other normal person comes into my room, he will see the same chairs and tables and books and papers as I see, and that the table which I see is the same as the table which I feel pressing against my arm. All this seems to be so evident as to be hardly worth stating. Yet all this may be reasonably doubted, and all of it requires much careful discussion before we can be sure that we have stated it in a form that is wholly true.
+
+
+
+ 
+reserve Miss Mullett eluded him anxiously and insisted that the Doctor should examine his pulse.
+
+"I could not help making them," she answered, "they were so longing to be made. I did not mean to give them to her. I think I meant to put them back in the press, but when they were made it was natural that they should want to have something to do. So I gave them to Elspeth."
+
+ What he meant was that she never looked quite so impudent as in her hood, and his vanity insisted that she should be armed to the teeth before they resumed hostilities.
+
+Grizel had never asked that Tommy should love her; she had asked only that he should be a fine man.
+
+ When he proposed to Elspeth that they should ask Gemmell to go fishing with them on the morrow ("He has been overworked of late and it would do him good") he wanted to add, in a careless voice, "We might invite Grizel also," but could not; his lips suddenly went dry.
+
+그렇다면 that the boss should employ her 와 that the boss employs her 의 차이점은 무엇인가?
+
+that the boss should employ her 의 의미는 그 사장이 그녀를 고용해야한다 이고   that the boss employs her 의 의미는 그 사장은 그녀를 고용한다 이다. 즉 앞의 문장은 약간의 의무적이며 현재의 사실은 아니고 뒤의 문장은 현재의 사실이다.
+
+It is required that he should go there.
+
+To do so, we recommend that you should go to each search engine.
+
+clause 
+ 관계대명사절 (Relative Clause)
+
+ '관계 대명사절' 은 영어에서 가장 중요한 부분이라 할 수 있다. 물론 다른 부분도 중요하지만 '관계 대명사절' 은 사람의 몸으로 비유하자면 척추에 해당하는 부분이라 할 수 있다. 
+
+기억해야 할 것은 관계대명사 자체보다 '관계 대명사절' 을 이해하는 것이 중요하다. 물론 관계대명사 자체도 정확히 습득해야 하지만 그 자체는 그리 어렵지 않기 때문에 고민할 필요가 없다. 많은 학생들이 공부를 해도 어려워하는 이유가 '관계 대명사절' 을 인식하면서 공부하는 것이 아니라 관계대명사 자체에 매달려서 보다 넓은 시야에서 이해하지 못하기 때문이다.
+
+ 15 기본 개념
+
+우선 관계 대명사가 아니라 '관계 대명사절' 이 무엇인가를 분명히 알아야 한다. '관계 대명사절' 은 간단히 말해서 하나의 형용사이다. 관계대명사라는 말에 대명사인 것처럼 착각하는 경우가 많은데 관계 대명사 자체는 대명사이지만 '관계 대명사절' 은 형용사라는 사실을 잊지 말아야 한다. 즉, 명사를 위해서 존재하며 명사를 수식하는 역할을 하는 것이다. 접속사 주어 동사의 형태를 갖추고 있으면서 전체적으로는 하나의 형용사인 것이다. 더불어 '관계 대명사절' 은 문장이 아니라는 사실도 알아두기 바란다. 문장이 아니라 하나의 형용사인 것이다.
+
+
+
+'관계 대명사절' 을 학습하기 이전에 관계대명사는 어떤 것이 있는지 다음 표를 보고 확인하도록 하자.
+
+table_header 관계 대명사
+table
+
+위의 표에서 보는 바와 같이 관계대명사는 주격, 소유격, 목적격으로 나뉘어지며 그 대상이 사람인지와 사물인지에 따라서 구별된다. 
+
+
+
+관계 대명사절의 형태는 '관계대명사 주어 동사' 이다. 그 예를 들자면 
+
+
+
+which she bought last month, 
+which lives in the river, 
+who she introduced to me 등을 들 수 있다.
+
+
+
+이들 '관계 대명사절' 이 문장 속으로 들어가면 다음과 같은 문장들이 나올 수 있다.
+
+
+
+The lady found the bag which she bought last month.
+This is the fish which lives in the river. 
+This is the doctor who she introduced to me.
+
+
+
+'관계 대명사절' 자체만을 해석하는 방법을 알아야 한다. 그래야만 '관계 대명사절'이 포함되어 있는 어떠한 문장도 자유자재로 해석할 수 있다. '관계 대명사절' 만을 해석하는 방법은 관계 대명사 이후를 모두 해석한 후 '~ 는' 또는 '~ 은' 을 덧붙인다. 예를 들어 which she bought last month 는 '그녀가 지난달에 산' 이라 해석하고, which lives in the river 는 '강에서 사는' 이라 해석하며, who she introduced to me 는 '그녀가 나에게 소개해준' 이라 해석한다. 주의할 것은 관계대명사 자체는 해석하지 않는다. 그리하여 위의 세 문장을 각각 해석한다면, '그 숙녀는 그녀가 지난 달에 산 가방을 찾았다.', '이것은 강에서 사는 물고기이다.', '이 사람은 그녀가 나에게 소개시켜준 의사이다.' 라고 한다.
+
+
+
+문장 속에서의 '관계 대명사절' 은 두 가지 용법으로 쓰인다. 하나는 한정적 용법이고, 다른 하나는 서술적 용법(계속적 용법)이라 일컫는다. 이는 다른 형용사의 용법과 크게 다르지 않다. 다만 서술적 용법을 '관계 대명사절' 에서는 계속적 용법이라 말한다. 보어의 개념과 관련해서 '관계 대명사절' 을 어떻게 보는가 하는 인식의 문제이기 때문이다.
+
+
+
+This is the camera which I bought yesterday. (한정적 용법)
+The house which he lives in is very large. (한정적 용법)
+He laughed a short laugh, which surprised her. (계속적 용법)
+
+
+
+위에서 보는 바와 같이 일반적인 '관계 대명사절'은 한정적 용법이라 하고, 관계대명사 앞에 ,(comma)가 있으면 '계속적 용법'이라 한다. 계속적 용법은 해석하는 방법에 있어서 약간의 차이가 있다. ,(comma) 이전을 해석한 후 자연스럽게 관계대명사 이후를 해석한다. 또한 관계대명사 자체도 해석한다. 위의 마지막 문장을 해석하자면, '그는 짧은 웃음을 웃었는데, 그것이 그녀를 놀라게 했다.' 라고 해석할 수 있다. 위의 두 문장은, 각각 '이것은 내가 어제 산 카메라이다.', '그가 사는 그 집은 매우 크다.' 라고 해석이 된다.
+
+
+
+'관계 대명사절' 은 간단히 말해서 하나의 형용사이다. 용어 자체에 대명사라는 어휘가 있지만 '관계 대명사절' 이 형용사라는 사실을 정확히 숙지해야한다. 관계 대명사 자체는 대명사이지만, '관계 대명사절' 은 명사를 꾸며주는 형용사인 것이다.
+
+
+ 15 영어가 길어지는 이유
+
+This is the ship which they bought last year. 
+
+
+
+위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사는, which they bought last year 이다.
+
+ 
+
+그렇다면, 위의 문장에서 '관계 대명사절' 은 무엇인가? 위의 문장에서의 '관계 대명사절'  역시 which they bought last year 이다. 정리하자면 which they bought last year 가 형용사로 쓰이고 있고 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 '관계 대명사절' 이 포함된 문장은 어떻게 만들어지는가? 지금부터 '관계 대명사절' 이 어떻게 만들어지는지를 살펴보자.
+
+
+
+This is the ship.
+They bought the ship last year.
+
+
+
+위의 두 문장에서 ship 이라는 단어가 공통적으로 들어가 있다. 이렇게 같은 단어가 공통적으로 들어가 있을 때 두 문장은 연결할 수 있다. 그 과정을 단계별로 살펴보자.
+
+
+
+This is the ship. They bought the ship last year.
+
+ → This is the ship. The ship they bought last year.
+
+ → This is the ship. which they bought last year.
+
+ → This is the ship which they bought last year.
+
+
+
+위에서 볼 수 있는 것처럼 첫 번째 단계에서 공통적인 단어를 문장의 중간으로 보낼 수 있다. 두 번째 단계에서는 그 같은 단어를 관계 대명사 which 로 바꾸어 준다. 물론 사물이기 때문에 which 로 바꿀 수 있는 것이다. 이는 that 으로 바꾸어도 무방하다. 마지막으로는 .(마침표)를 없애고 그대로 연결하면 된다. 그리하여
+
+
+
+This is the ship which they bought last year. 라는 문장이 나오는 것이다.
+
+
+
+다음 문장을 통해서 '관계 대명사절' 이 포함된 문장을 다시 한 번 분석해 보자.
+
+
+
+The man whom we invited to the party did not come. 
+
+
+
+위의 문장에서 '관계 대명사절' 은 무엇인가? 위의 문장에서의 '관계 대명사절' 또한 단순히 whom 이 아니라, whom we invited to the party 이다. 
+
+
+
+위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사 역시 whom we invited to the party 이다. 위의 문장은, whom we invited to the party 가 형용사이면서 The man 을 수식하고 있다. 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 위의 문장은 어떤 식으로 만들어진 것일까? 위의 문장이 만들어지는 과정을 살펴보자.
+
+
+
+The man did not come. 
+We invited the man to the party.
+
+
+
+위의 두 문장에서 the man 이라는 단어가 공통적으로 들어가 있다. 이렇게 같은 단어가 공통적으로 들어가 있을 때 두 문장은 연결할 수 있다.
+
+
+
+The man did not come. We invited the man to the party.
+
+ → The man did not come. the man we invited to the party.
+
+ → The man did not come. whom we invited to the party.
+
+ → The man whom we invited to the party. did not come.
+ 
+ → The man whom we invited to the party did not come.
+
+
+
+위에서 볼 수 있는 것처럼 첫 번째 단계에서 공통적인 단어를 문장의 중간으로 보낼 수 있다. 두 번째 단계에서는 그 같은 단어를 관계 대명사 whom 으로 바꾸어 준다. 물론 사람이기 때문에 whom 으로 바꿀 수 있는 것이다. 이는 that 으로 바꾸어도 무방하다. 그런데 whom we invited to the party 에 해당하는 단어가 the man 이다. 그리하여 whom we invited to the party 전체를 the man 뒤로 이동시킬 수 있다. 세 번째 단계에서 그 형태를 보여주고 있다. 마지막으로는 .(마침표)를 없애고 그대로 연결하면 된다. 그리하여
+
+
+
+The man whom we invited to the party did not come. 이라는 문장이 되는 것이다.
+
+
+
+다음 문장을 통하여 다양한 경우에 있어서 길어지고 있는 '관계 대명사절' 의 형태를 확인하기 바란다.
+
+
+
+That is the lady whom I met yesterday.
+
+I know the girl whose mother is our teacher.
+
+Love is something that exists throughout the universe.
+
+The only people who can afford to build grand buildings are wealthy companies.
+
+Again the voice of the tiger which had been ringing in the distant hills was coming nearer.
+
+She began surveying herself with a little hand mirror which she had carried in the pocket of her coat.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+Don't just accept what you hear about countries and the people who live there; go and see for yourself.
+
+The same laws that were required to protect a man's property during his lifetime were even more urgently required when he was dead.
+
+This is about two partners who are sharing their life together giving each other a ten minute massage when they come in from work.
+
+It is due to our wonderful human brain that manages to take in input, process it, think one thing, and at the same time say something else.
+
+
+ 15 Conclusion (결론)
+
+p1t 관계 대명사절은 형용사이다. 
+
+p2t 관계 대명사절의 형태는 '관계 대명사 주어 동사' 이다.
+
+p3t the man who is standing there, the book that you want 등이 그 예이다.
+
+p4t 해석하는 방법은, 관계대명사 자체는 해석하지 않고 그 이후를 해석한 후 관계대명사에는 '는' 이나 '은' 을 붙여 앞의 단어와 연결시킨다.
+
+p5t 문장에서는 한정적 용법, 서술적 용법으로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+ 15 Level 1
+
+level11 다음 문장에서 '관계 대명사절' 부분을 파악한 후 해석해보시오.
+
+p1t People who drink heavily may kill themselves.
+
+p2t We may also grieve for a partner who leaves us.
+
+p3t I met the gentleman who controlled all the situations.
+
+p4t We use this to someone whom we share a special relationship with.
+
+p5t And that "one moment more" often is the moment in which the tide turns.
+
+p6t Every day the police get thousands of calls from people who have been robbed.
+
+p7t The lead was taken by a few men whose abilities had been improved by the study of the law.
+
+p8t The only person who seemed to constantly be picking up the bill here was the poor taxpayer.
+
+p9t It appeals to our natural self whose purpose here on earth is to spread its genes far and wide.
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '관계 대명사절' 부분을 파악한 후 해석해보시오.
+
+p1t The healthy individual is one who does only what they wish to do.
+
+p2t Those who love well are blessed because there is much joy in love.
+
+p3t These were the people of whom she talked when the neighbors came in.
+
+p4t We may choose a course of action which involves pain if we reason that it confers an advantage for us in the long run.
+
+p5t For example a little boy who wanted to see whether it felt good to put on his sister's dress and panties might meet with the censure of his parents.
+
+p6t If we have within us an original nature characterized by unconditional love which can be liberated when we feel secure enough to drop our armouring, then what about humanity as a whole?
+
+
+
+ 15 Modern Marriage
+
+Marriage indeed seems to be in the air more than ever in this year of grace; everywhere it is discussed, and very few people seem to have a good word to say for it. The most superficial observer must have noticed that there is being gradually built up in the community a growing dread of the conjugal bond, especially among men; and a condition of discontent and unrest among married people, particularly women. What is the matter with this generation that wedlock has come to assume so distasteful an aspect in their eyes? On every side one hears it vilified and its very necessity called in question. From the pulpit, the clergy endeavour to uphold the sanctity of the institution, and unceasingly exhort their congregations to respect it and abide by its laws. But every family solicitor will tell you his personal experience goes to prove that happy unions are considerably on the decrease, and some of the greatest thinkers of our day join in a chorus of condemnation against latter-day marriage.
+
+
+
+ 
+reserve The man was forced to acknowledge that he had sent his wife to implore the intercession of the man whom he was now persecuting.
+
+The clay having been well applied she began surveying herself with a little hand mirror which she had carried in the pocket of her riding coat.
+
+Next morning they showed her, at his lodgings, two lines in a newspaper, which said that he was ill with bronchitis at the Hotel Krone, Bad-Platten, in Switzerland.
+
+clause 
+ 관계부사절 (Relative Clause)
+
+ '관계 부사절' 은 '관계대명사절' 과 더불어 영어에 있어서 아주 중요한 부분이다. 단지 영어 문장에서 나오는 빈도수가 '관계대명사절' 보다는 덜하지만 '관계 부사절' 역시 영어를 이해하는데 있어서 아주 중요한 부분이다. 
+
+또한 '관계대명사절' 과 마찬가지로 무엇을 어떤 관점에서 이해하는가가 중요하다. '관계 부사절' 역시 관계 부사 자체보다 '관계 부사절' 을 이해하는 것이 중요하다. 물론 관계 부사 자체도 정확히 습득해야 하지만 관계 부사 역시 그 자체는 그리 어렵지 않기 때문에 문제가 되지 않는다. 많은 학생들이 공부를 해도 어려워하는 이유가 '관계 부사절' 을 염두에 두는 것이 아니라 관계 부사 자체에 매달려서 '관계 부사절' 전체를 이해하지 못하기 때문이다.
+
+ 15 기본 개념
+
+우선 관계 부사가 아니라 '관계 부사절' 이 무엇인가를 분명히 알아야 한다. '관계 부사절' 은 간단히 말해서 하나의 형용사이다. 관계 부사라는 말에 부사인 것처럼 착각하는 경우가 많은데 관계 부사 자체는 부사 이지만 '관계 부사절' 은 형용사라는 사실을 잊지 말아야 한다. 접속사 주어 동사의 형태를 갖추고 있으면서 하나의 형용사이다. 더불어 '관계 부사절' 도 '관계대명사절'과 마찬가지로 문장이 아니라는 사실을 알아두기 바란다. 문장이 아니라 하나의 형용사인 것이다.
+
+
+
+'관계 부사절' 을 학습하기 이전에 관계부사는 어떤 것이 있는지 다음 표를 보고 확인하도록 하자.
+
+table_header 관계 부사
+table2 관계부사
+
+위의 표에서 보는 바와 같이 관계부사는 시간, 장소 등에 따라 4가지가 존재한다.
+
+
+
+'관계 부사절' 의 형태는 '관계 부사 주어 동사' 이다. 그 예를 들자면 
+
+
+
+when she comes back,
+where they meet together,
+why they said so 등을 들 수 있다.
+
+
+
+이들 '관계 부사절' 이 문장 속으로 들어가면 다음과 같은 문장들이 나올 수 있다.
+
+
+
+I don't know the time when she comes back.
+They don't like the place where they meet together.
+Do you know the reason why they said so.
+
+
+
+'관계 부사절' 자체만을 해석하는 방법을 알아야 한다. 그래야만 '관계 부사절' 이 포함되어 있는 어떠한 문장도 자유자재로 해석할 수 있다. '관계 부사절' 만을 해석하는 방법은 '관계대명사절'을 해석하는 요령과 유사하다. 즉, 관계 부사 이후를 모두 해석한 후 '~ 는' 또는 '~ 은' 을 덧붙인다. 예를 들어 when she comes back 은 '그녀가 돌아 오는' 이라 해석하고, where they meet together 는 '그들이 서로 만나는' 이라 해석하며, why they said so 는 '그들이 그렇게 말한' 이라 해석한다. 주의할 것은 관계 부사 자체는 해석하지 않는다. 그리하여 위의 세 문장을 각각 해석하자면, '나는 그들이 오는 시간을 모른다.', '그들은 그들이 함께 만나는 그 장소를 좋아하지 않는다.', '당신은 그들이 그렇게 말한 이유를 아느냐?' 라고 풀이될 수 있다.
+
+
+
+문장 속에서의 '관계 부사절' 은 두 가지 용법으로 쓰인다. '관계대명사절' 과 마찬가지로 하나는 한정적 용법이고, 다른 하나는 서술적 용법(계속적 용법)이라 일컫는다. 이는 다른 형용사의 용법과 크게 다르지 않다. 다만 서술적 용법을 '관계대명사절' 과 마찬가지로 계속적 용법이라 말한다. 이 역시 보어의 개념과 관련해서 '관계 부사절' 을 어떻게 보는가 하는 인식의 문제이기 때문이다.
+
+
+
+I don't know the time when they have party.(한정적 용법)
+Can you explain the way how he accomplished it.(한정적 용법)
+He led the way into our best room, where a fire was burning.(계속적 용법)
+She told the truth on the third day, when she was brought into court.(계속적 용법)
+
+
+
+위에서 보는 바와 같이 일반적인 '관계 부사절' 은 한정적 용법이라 하고, 관계부사 앞에 ,(comma)가 있으면 계속적 용법이라 한다. 계속적 용법을 해석하는 방법은 '관계대명사절' 과 유사하다. ,(comma) 이전을 해석한 후 자연스럽게 관계부사 이후를 해석한다. 또한 관계부사 자체도 해석한다. 위의 네 문장은 각각, '나는 그들이 파티를 하는 시간을 모른다.', '당신은 그가 그것을 성취한 방법을 설명할 수 있느냐?', '그는 최고 좋은 방으로 우리를 안내했는데, 그곳에는 불이 피워져 있었다.', '그녀는 세 번째 날에 진실을 말하였는데, 그 때 그녀는 법정에 불려갔었다.' 라고 해석이 된다.
+
+
+
+'관계 부사절' 역시 하나의 형용사이다. 용어 자체가 부사라는 어휘가 있지만 '관계 부사절' 은 형용사라는 사실을 정확히 숙지해야 한다. 관계 부사 자체는 부사이지만 '관계 부사절' 은 명사를 꾸며주는 형용사라는 사실을 잊지 말아야 한다.
+
+
+
+ 15 영어가 길어지는 이유
+
+Can you guess the place where they study?
+
+
+
+위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사는 where they study 이다. 그렇다면, 위의 문장에서 '관계 부사절' 은 무엇인가? 위의 문장에서의 '관계 부사절' 역시 where they study 이다. 정리하자면 where they study 가 '관계 부사절' 이면서 형용사로 쓰이고 있고 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+그렇다면 이러한 '관계 부사절' 이 포함된 문장은 어떤 식으로 만들어지는 것일까? 지금부터 '관계 부사절' 이 어떻게 만들어지는지를 명확히 살펴보자.
+
+
+
+Can you guess the place?
+
+They study at the place.
+
+
+
+위의 두 문장에서 the place 이라는 단어가 공통적으로 들어가 있다. 이렇게 같은 단어가 공통적으로 들어가 있을 때 두 문장은 연결할 수 있다. 그 과정을 단계별로 살펴보자.
+
+
+
+Can you guess the place? They study at the place.
+
+ → Can you guess the place? at the place they study.
+
+ → Can you guess the place? at which they study.
+
+ → Can you guess the place? where they study.
+
+ → Can you guess the place where they study?
+
+
+
+위에서 볼 수 있는 것처럼 첫 번째 단계에서 공통적인 단어 the place를 at 과 함께 문장의 중간으로 보낼 수 있다. 두 번째 단계에서는 그 같은 단어를 관계 대명사 which 로 바꾸어 준다. 물론 사물이기 때문에 which 로 바꿀 수 있는 것이다. 그리하여 두 번째 단계에서 보는 것처럼 at which 의 형태가 나온다. 이는 장소를 의미하며 장소를 의미하는 관계부사 where 로 바꿀 수 있다. 마지막으로는 ?(물음표)를 뒤로 보내고 한 문장으로 연결한다. 그리하여,
+
+
+
+Can you guess the place where they study? 라는 문장이 나오는 것이다.
+
+
+
+다음 문장을 통해서 '관계 부사절' 이 어떻게 길어지는지를 좀 더 확인해보자.
+
+
+
+I don't want to tell you the reason why I am late. 
+
+
+
+위의 문장에서 형용사는 무엇인가? 위의 문장에서의 형용사 또한 why I am late 이다. 위의 문장에서 '관계 부사절'은 무엇인가? 위의 문장에서의 '관계 부사절' 역시 why I am late 이다. 위의 문장은, why I am late 이 '관계 부사절' 이면서 형용사로 쓰이고 있고 이 문장은 형용사 부분이 길어진 문장이 되는 것이다.  
+
+
+
+why I am late 이라는 '관계 부사절' 이 포함된 문장은 어떤 식으로 만들어지는 것일까? 
+
+
+
+I don't want to tell you the reason. 
+I am late for the reason.
+
+
+
+위의 두 문장에서는 the reason 이라는 단어가 공통적으로 들어가 있다. 이렇게 같은 단어가 공통적으로 들어가 있을 때 두 문장은 연결할 수 있다. 그 과정을 단계별로 살펴보자.
+
+
+
+I don't want to tell you the reason. I am late for the reason.
+
+ → I don't want to tell you the reason. for the reason I am late.
+
+ → I don't want to tell you the reason. for which I am late.
+
+ → I don't want to tell you the reason. why I am late.
+
+ → I don't want to tell you the reason why I am late.
+
+
+
+위에서 볼 수 있는 것처럼 첫 번째 단계에서 공통적인 단어 the reason 을 for 와 함께 문장의 중간으로 보낼 수 있다. 두 번째 단계에서는 그 같은 단어를 관계 대명사 which 로 바꾸어 준다. 물론 사물이기 때문에 which 로 바꿀 수 있는 것이다. 그리하여 두 번째 단계에서 보는 것처럼 for which 의 형태가 나온다. 이는 '이유' 를 의미하며 이유를 의미하는 관계부사 why 로 바꿀 수 있다. 마지막으로는 .(마침표)를 제거하고 한 문장으로 연결한다. 그리하여
+
+
+
+I don't want to tell you the reason why I am late. 라는 문장이 나오는 것이다.
+
+
+
+다음 문장을 통하여 다양한 경우에 있어서 길어지고 있는 '관계 부사절' 의 형태를 확인하기 바란다. 
+
+
+
+The morning was the time when she feels happy.
+
+She thought it must be the place where the diligence started from.
+
+I looked forward to the time when I should know him and his home.
+
+Her eyes were still searching for the reason why Tommy could be angry with her.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+I had looked forward to the time when I could be trusted to sit alone with the Indian book. 
+
+I have believed in God ever since the time when I was such a lonely child that I did not know His name.
+
+That's the reason why we partnered with the British firm to create a video that introduces you to Book Planner.
+
+This is the time when we pursue policies that transform America into a nation that affirms the value of its people of color.
+
+He wanted Grizel to come away from the place where she always found so much to do for him, so that there might be the more for him to do for her.
+
+
+ 15 Conclusion (결론)
+
+p1t 관계 부사절은 형용사이다. 
+
+p2t 관계 부사절의 형태는 '관계 부사 주어 동사' 이다.
+
+p3t the place where you have been, the time when they meet 등이 그 예이다.
+
+p4t 해석하는 방법은, 관계부사는 해석하지 않고 관계 부사절 전체를 해석한 후 '~ 는' 을 붙여 앞 단어와 연결시킨다. 
+
+p5t 문장에서는 한정적 용법, 서술적 용법으로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+
+
+ 15 Level 1
+
+level11 다음 문장에서 '관계 부사절' 부분을 파악한 후 해석해보시오.
+
+p1t That is the reason why I’m here.
+
+p2t Another reason why it takes so long is not known.
+
+p3t That is the time when we are learning the lessons.
+
+p4t There are so many reasons why technology is a hindrance.
+
+p5t They live in an area where drugs are being dealt all the time.
+
+p6t This is the country where the art of medicine was already far advanced.
+
+p7t Do you remember the time when you were struggling with unexpected challenges?
+
+p8t This is the moment when our parents have to start teaching us right from wrong.
+
+p9t He was born in Sydney, Australia, where he currently works as an IT professional.
+
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '관계 부사절' 부분을 파악한 후 해석해보시오.
+
+p1t It is the time when we are learning the lessons we will try to apply as an adult.
+
+p2t You are so smart that you understand that your best thinking brings you to the place where you want to go.
+
+p3t It was by his wish that they went together to the spot where she had heard him say that he loved Elspeth only.
+
+p4t We live in an era when we don't know what we want to do or who we want to become through the work we do each day.
+
+p5t Men don't want women anywhere near their power structure so they invent all sorts of idiotic reasons why men are better equipped for high powered work than women.
+
+p6t It is strange to think that the drive for success, or more appropriately, the fear of loss, could be a reason why we believe it is in our best interests to kill ourselves.
+
+
+ 15 About History
+
+The importance of written history for the people can easily be compared with the importance of a diary for the individual. It furnishes data for recollections, points of comparison between the Past and Present. But as most diaries and auto-biographies show a lack of straight-forward, big, simple, sincere self-analyses, so does history seldom prove a representation of facts, of the truth, of reality.
+
+The way history is written will depend altogether on whatever purpose the writers have in view, and what they hope to achieve thereby. It will altogether depend upon the sincerity or lack thereof, upon the broad or narrow horizon of the historian. That which passes as history in our schools, or governmentally fabricated books on history, is a forgery, a misrepresentation of events. Like the old drama centering upon the impossible figure of the hero, with a gesticulating crowd in the background. Quacks of history speak only of "great men" like Bonapartes, Bismarcks, or Deweys as leaders of the people, while the latter serve as a setting, a chorus, howling the praise of the heroes, and also furnishing their blood money for the whims and extravagances of their masters. Such history only tends to produce conceit, national impudence, superciliousness and patriotic stupidity, all of which is in full bloom in our great Republic.
+
+
+
+ 
+reserve qw
+
+clause 
+ 부사절 (Adverbial Clause)
+
+ '부사절' 은 그리 어렵지는 않다. 그러나 그 의미와 종류에 따라서 다양한 경우가 존재한다. '부사절' 을 제대로 학습하기 위해서는 3가지 관점을 유지해야 한다. 그 첫째는 '부사절' 은 문장 속에서 하나의 부사라는 것과 둘째는 '부사절' 은 그 의미의 차이에 따라 여러 가지가 존재하며, 마지막으로 문장 속에서는 그 위치가 자유롭다는 것이다. 즉 문두에 올 수도 있고 마지막에 올 수도 있으며 경우에 따라서는 문장의 중간에 올 수도 있다.
+
+길고 복잡한 문장에서 어떤 것이 '부사절' 인지를 파악할 수 있어야 한다.
+
+ 15 기본 개념
+
+결론적으로 '부사절' 은 하나의 부사이다. 다만 그 의미에 따라 종류가 매우 다양하다. 시간을 의미하는 부사, 장소를 의미하는 부사, 원인이나 이유를 의미하는 부사 등 다양하며, 여러 가지 접속사로 연결될 수 있다. 
+
+
+
+우선 부사절을 이끄는 접속사는 다음과 같은 것이 있다.
+
+
+
+when, where, as, because, before, after, till (until), that, since, if, unless, than, though, although, as soon as, even if 
+
+
+
+부사절의 형태는 "접속사 주어 동사"이다. 그 예를 들자면 
+
+
+
+when she came back
+as soon as she heard the news 
+where the student was studying
+because he met his mother again 등이 있다.
+
+
+
+이들 부사절이 문장 속으로 들어가면 다음과 같은 문장들이 나올 수 있다.
+
+
+
+I was reading a book when she came back.
+She cried as soon as she heard the news.
+They had a party where the student was studying.
+The child was very happy because he met his mother again. 
+
+
+
+해석하는 방법은 접속사 이후를 모두 해석한 후 접속사의 의미를 연결하여 주면 된다. 위의 '두 번째 문장은 그녀는 그 소식을 듣자마자 울었다.' 라고 해석되며, 네 번째 문장은 '그 아이는 엄마를 다시 만나서 매우 기뻤다.' 라고 해석할 수 있다.
+
+
+
+부사절은 그 전체를 하나의 부사로 보면 문장을 간단히 이해할 수 있다. 다만 그 종류가 다양하고, 그 위치가 문장의 어느 위치에도 올 수 있다는 것이 문장을 이해하는 데 약간의 혼동을 줄 수도 있다. 다음은 영어에서 자주 나오는 부사절을 종류별로 정리해 놓았다.
+
+
+ 
+indent_1 as long as(~ 하는한), so long as(~ 하는한), as if(마치 ~ 인 것처럼),
+indent_1 as though(마치~ 인 것처럼)
+indent_1 1) As long as you stay here, you should keep the rule of this country.
+indent_1 2) So long as you love her, you should do your best for her.
+indent_1 3) He says as if he were a genius.
+
+
+ 15 영어가 길어지는 이유
+
+She's a sensible girl even if all New York has done its best to spoil her.
+
+
+
+위의 문장에서 부사는 무엇인가? 위의 문장에서 부사는 even if all New York has done its best to spoil her 이다. 결론이 되는 주절은 She's a sensible girl 로써 아주 간단하다. 반면에 부사절은 매우 길다. 이러한 부사절을 하나의 부사로 인식할 수 있어야 한다. 물론 위의 부사절은 문두에 올 수도 있다. 그리하여 다음과 같이 쓰일 수 있다.
+
+
+
+Even if all New York has done its best to spoil her, she's a sensible girl.
+
+
+
+Whenever he had been away from her a whole week, she grew quite unmanageable, and laughed and shrieked when she saw him coming again.
+
+
+
+위의 문장에서 부사는 무엇인가? 위의 문장에서 부사는 whenever he had been away from her a whole week 와 when she saw him coming again 이다. 부사절은 문장의 어느 위치에나 올 수도 있지만 위와 같이 여러 개가 올 수도 있다. 문장 속에 위치해 있는 부사절을 정확히 파악할 수 있어야 하는 것이다.
+
+
+
+또한, 부사절은 '접속사 주어 동사' 의 형태를 갖추고 있지만 그 자체로 문장이 아니라는 인식도 중요하다.
+
+
+
+mid_t 더더욱 길어지는 형태 :
+
+You said you wanted nothing else so long as you had his love.
+
+I'm afraid he would never see the paper unless we lent him our copy.
+
+And if you don't think you are addicted, try turning your TV off for one week.
+
+How many of them donate their money so that powerful men can coat their temples in gold leaf.
+
+It was true that her husband, whenever he went away and left her, brought her a handsome present on his return.
+
+I was glad to be taken for an American, as it gave me a better opportunity of seeing things as they really are.
+
+
+ 15 Conclusion (결론)
+
+p1t 부사절은 하나의 부사이다. 
+
+p2t 부사절의 형태는 '접속사 주어 동사' 이다.
+
+p3t where they go, because you are late 등이 그 예이다.
+
+p4t 해석은 접속사 이후를 해석한 후 접속사를 연결하여 해석하다.
+
+p5t 문장에서는 부사로 쓰인다.
+
+p6t 문장이 길어지는 이유 중의 하나이다.
+
+p7t 부사절의 종류는 '시간', '장소', '원인', '이유', '목적' 등 다양하다.
+
+ 15 Level 1
+
+level11 다음 문장에서 '부사절' 부분을 파악한 후 해석해보시오.
+
+p1t We should allow them to go where they want to go.
+
+p2t When submitting your purchase information, you should be careful.
+
+p3t As soon as you push that button, the news and the drama comes on.
+
+p4t We need to go off somewhere peaceful for a holiday whenever we can.
+
+p5t Whatever we think of them, they probably don't think about themselves.
+
+p6t Every move on your computer is being recorded whether you realize it or not.
+
+p7t Common people are at risk when our private information is easily accessible from Internet.
+
+p8t We are so out of touch with the natural world that it is time to rebuild the connection with the earth.
+
+p9t Even after the information was removed from the website, the information was still available at Google search.
+
+
+ 15 Level 2
+
+level21 다음 문장에서 '부사절' 부분을 파악한 후 해석해보시오.
+
+p1t We expect that food will be there for us whenever we want it.
+
+p2t Live your life today because you don’t know what is going to happen tomorrow.
+
+p3t That's why we just leave the TV on, even if there's no interesting programs we want to watch.
+
+p4t Why would you compare yourself to someone who had a diamond necklace and expensive clothes if you never had a desire to possess them?
+
+p5t But it’s no surprise our dreams are so weird, or sometimes so intense that we wake up believing that what happened in the dream was real.
+
+p6t Try to remember what it was you wanted to say, then, approaching the situation with tenderness, speak softly and kindly, even if it is something that has made you mad.
+
+
+ 5 What Is Bus In Computer?
+
+Data travels from one part of the computer to another through a kind of path known as a bus. Similar to a school bus for school children, a computer data bus picks up a load of data from one of the components on the main computer board and then transfers the data to another component on the main computer board. The main circuit board of a microcomputer is also known as the motherboard. The motherboard is the principal board that has connectors for attaching devices to the bus. Typically, it contains the CPU, memory and basic controllers for the system. The data bus is really a series of electrical circuits that connect the various electrical elements on the main board.
+
+
+
+ 
+reserve The director is wearing nicer clothes because he does not get his hands dirty. 
+
+Our brains need stimulation, whether it is talking about something we are interested in, playing a game we enjoy, reading, or working in an exciting job.
+
+Ya can miss school if ya want to come to the train station with me
+
+Whichever way you look at it and however you try to control it with morals and family values, it is a natural process that neither you nor I will ever stop, nor would I want to.
+
+Any Englishman, whatever his age might be, might hope to be one of the lucky emigrants.
+
+She is an independent human being whatever your legal piece of paper says.
+
+You will get your freedom whatever it takes.
+
+Whatever we do we do for money.
+
+Had she remained in Russia, she would have probably sooner or later shared the fate of thousands buried in the snows of Siberia.
+
+Whatever it costs, you will get it.
+
+Whatever may have been his motives, he retired.
+
+Whatever the people wanted, they certainly got nothing.
+
+Now that you're here to help catch 'em, I calc'late to acquire a lot of skill with these instruments. : 부사절
+
+chapter chapter 3
+ Chapter III Difference : 생각의 전환
+
+ 
+reserve sympathy
+
+life hack.
+
+Thinking in English for their brain and for their way of thinking and difference between their thingking and Korean thinking.
+
+
+Perfect understanding their thinking.
+
+elements of  sentence :
+
+ 
+
+desperate 의 뜻은 절망적인 의 뜻을 지니고 있다. 그러나 첫 번째 문장을 절망적인이라고 해석하면 어떨까? 이는 문장의 해석이 전혀 다른 상태로 나타난다. 여기에서 desperate 의 뜻은 필사적인 의 뜻으로 해석을 해야한다. 그래야만 문장의 뜻이 자연스럽다. 두 번째 문장에서의    desperate 의 뜻은 절망적인 이라고 해석하는 것이 적당할 것이다. 두 번째 문장에서의   desperate  의 뜻을 필사적인 이라고 해석하면 이 또한 부자연 스러운 해석이 되는 것이다. 위의 문장에서 보듯이 한국어로는 절망적인 의 의미와 필사적인 의미의 차이가 확연히 드러난다. 그러나 영어는 두 가지 모두의 상반된 의미를 지니고 있을 수 있다는 기억해야 한다. 물론 상황에 따라 그 이상의 의미를 지니고 있을 수도 있다. 
+
+The car broke down.
+
+other method is there to break through the hard shell of the minds
+
+Take a break because you deserve it, you’ve earned it.
+
+My lucky break came one saturday evening during a party at the local bar,
+
+to break through this wall is still not succeeded.
+
+break  의 기본적인 뜻은 깨다, 또는 부수다 이다. 이는 매우 파괴적이고 부정적인 의미를 지니고 있다라고 볼 수 있다. 그리하여 첫 번째 문장에서 처럼 고장나다의 뜻으로 쓰일 수 있다. 그러나 
+
+break  break  break  break  break  break  break  break  break  break
+
+humble
+
+think_in_english 
+ Thinking in Noun
+
+ pic
+
+미국인과 한국인의 사고방식의 가장 큰 차이점은 무엇인가? 알 듯 말 듯한 다음의 표현들은 어떠한가?
+
+
+
+Weather the storm.
+
+You cannot airplane me.
+
+Police piece together evidence in sniper shooting.
+
+Your majesty, Your holiness, Your highness
+
+Shame on you.
+
+Where the hell are we?
+
+His teacher still treasures his memory.
+ 
+
+
+
+We had fun.
+It was fun.
+
+
+
+위의 간단한 두 문장은 한국어로 자연스럽게 해석하자면 '우리는 즐겁게 지냈다.', 또는 '재미있었다' 이다. 그러나 영어 그 자체로 직역을 하자면 '우리는 재미를 가졌었다.' 또는 '그것은 재미였다.' 이다. 영어 그대로 직역을 하면 한국어로는 조금은 부자연스러운 문장이 되는 것이다. 이는 그만큼 한국인의 사고방식과 미국인의 사고방식이 다르다는 것을 의미하는 것이다. 미국인은 기본적으로 사물이나 현상을 '명사적으로 이해한다' 는 것을 알아야 한다. 이러한 간단한 문장에서부터 사고방식의 차이가 나타나기 때문에 그 사고의 차이점을 정확히 이해하여야 여러 가지 다양하고 복잡한 문장에서 영어를 이해할 수 있는 것이다. 간단한 문장을 하나 더 살펴보자.
+
+
+
+What do you think of the car?
+
+
+
+위의 문장은 한국어로 해석하자면 '그 차에 대해서 어떻게 생각하십니까?' 이다. 그러나 영어 그대로 해석하자면 '당신은 그 차에 대해서 무엇을 생각하십니까?' 이다. 위의 문장에서도 미국인의 명사적 사고방식을 잘 엿볼 수 있다. 이렇듯 한국인의 사고방식과 미국인의 사고방식이 다르다는 것을 분명히 알아야 한다.
+
+
+ 15 인식차의 이해
+
+What is it?
+
+
+
+위의 문장은 간단한 영화의 한 대사로써 상대 배우가 울 때 혹은 화를 낼 때 할 수 있는 말이다. 한국말로는 '왜 우는가?' 또는 '왜 화를 내는가?' 라고 해석할 수 있다. 그러나 이 또한 영어 그대로 해석하자면 '그것은 무엇인가?' 이다. 굳이 좀 더 의미를 찾아가자면 '당신이 우는 이유는 무엇인가?' 또는 '이 상황은 무엇인가?' 이다. 이렇듯 근본적인 사고방식이 한국어와는 다르다는 것을 인식해야 한다. 
+
+
+
+What a story!, What a book!, What a mess!, What a party!
+
+
+
+한국어는 감탄적인 표현을 할 때 반드시 형용사가 들어간다. 그리하여 '얼마나 아름다운 이야기인가!' 또는 '얼마나 슬픈 이야기인가!' 처럼 표현을 한다. 그러나 영어는 그렇지가 않다. 위의 문장에서 보는 것처럼 그저 하나의 명사만을 제시하고 있다. 그리하여 What a story! 가 하나의 감탄문이 되는 것이다. 이는 '얼마나 감동적인 이야기인가!' 또는 '얼마나 재미있는 이야기인가!' 라고 해석될 수 있다. 그러나 '얼마나 슬픈 이야기인가!' 또는 '얼마나 기가 막힌 이야기인가!' 라고 해석될 수도 있다. 그 이야기의 내용이 기쁜 상황인지 슬픈 상황인지는 알 수 없다. 단지 하나의 명사만으로 감정의 동요 상태를 표현하고 있는 것이다. 
+
+
+
+Weather the storm.
+You cannot airplane me.
+Police piece together evidence in sniper shooting.
+How do the family breakfast? 
+
+
+
+더 나아가서 영어에서는 명사가 그대로 동사가 될 수 있다. 그리하여 문장이 된다. 반면에 한국어는 형용사가 서술어가 되어 하나의 문장이 될 수 있다. 위의 첫 번째 문장에서 weather 는 잘 아는 것처럼 날씨이다. 날씨라는 명사가 위의 문장에서는 동사로 쓰이고 있다. 그리하여 한국말로는 어색하지만 '날씨를 겪다' 또는 '날씨를 경험하다' 라고 말할 수 있다. 그리하여 위의 문장을 해석하자면 '폭풍우를 겪어라.' 라는 뜻이 되는 것이다. 좀 더 meta 적인 의미로는 '무언가를 극복하고 이겨내라.' 라는 의미가 있을 수 있다. 나머지 문장들은 아래에 간단히 해석을 덧붙여 놓았다. 다음의 해석을 보면서 위의 문장들을 충분히 이해할 수 있을 것이다.
+
+
+
+Weather the storm.
+해석 : 폭풍우를 겪어라.
+
+
+
+You cannot airplane me.
+해석 : 너는 나를 비행기 태울 수 없다.
+
+
+
+Police piece together evidence in sniper shooting.
+해석 : 경찰은 저격 사건에 대한 증거를 모으고 있다.
+
+
+
+How do the family breakfast? 
+해석 : 그 가족은 어떻게 아침을 먹는가?
+
+
+
+They ship the product to France.
+해석 : 그들은 그 상품을 프랑스로 보낸다(선적한다).
+
+Email me. 
+해석 : 나에게 이메일을 보내라.
+
+
+
+What? You ungrateful girl. I brought you into this world. I look
+after you, I feed you, I clothe you, I house you.
+
+
+
+위의 글을 통하여 영어의 명사가 얼마나 자유롭게 동사로 쓰이는지를 확인할 수 있다. 위의 문장 I house you. 에서 house 는 동사로 쓰였다. 그 뜻은 '집을 제공해주다' 의 의미이다.
+
+
+
+Where the hell are we?
+
+What the heck is this?
+
+What the hell do you have to lose?
+
+
+
+위의 문장은 '도대체', '젠장' 등의 뜻을 표현하는 영어식 표현이다. 사람의 감정적인 느낌을 명사 the hell 또는 the heck 을 문장의 중간에 삽입하여 표현하고 있는 것이다. 
+
+
+
+Shame on you
+
+Your highness
+
+Your holiness
+
+
+
+위의 첫 번째 문장은 국민들이 부패한 정치인들에 대해서 시위를 할 때 나오는 표현이다. 한국말로는 '부끄러운 줄 아시오.' 정도로 해석이 된다. 이를 영어 그대로 해석하자면 '당신에게는 수치심이 붙어 있다.' 이다. shame 이라는 명사로 그들의 뜻을 표현하고 있는 것이다. 두 번째 문장은 왕이나 귀족에 대해서 표현하는 문장이다. 한국말로는 '상감마마', '대감', '각하' 정도의 표현이라 할 수 있다. 이 또한 영어식으로 그대로 이해하자면, '그대의 위대함' 정도이다. highness 란 명사 하나로 간단히 자신의 존경심을 표현하는 것이다. 세 번째 문장은 목사님이나 신부님 같은 성직자에게 표현하는 문장이다. 영어 그대로 해석하자면, '당신의 신성함' 이다. 이 또한 간단한 명사 하나로 자신의 존경심을 표현하고 있는 것이다. 
+
+
+
+Conclusion : 영어의 표현 방식은 문장에서뿐만 아니라 간단한 어휘에서도 한국어와는 다르다. 그 의식의 밑바탕에는 한국어와는 근본적으로 다르게 '명사적으로 생각' 하고 있다는 것을 알아야 한다.
+
+
+ p1 All Bark And No Bite
+
+p2 When someone is threatening and/or aggressive but not willing to engage in a fight;
+
+explain 짓기만 함(물지 않음) → 소리만 요란할 뿐 실속이 없다 
+
+p3 "All bark, sir," he said to Geoffrey, "all bark and no bite; I'm not afraid of these people. Why, if they won't bid for the stuff, I will buy it in myself." "All right," said Geoffrey, "but I advise you to look out." Then Geoffrey went back to his dinner.
+
+
+ p1 Every Man For Himself
+
+p2 everyone should (or does) look after their own interests rather than considering those of others;
+
+explain 스스로를 향한(위한) 모든 사람들 → 모든 사람들은 자기 자신만을 생각한다 
+
+p3 A shivering whisper went round the crowd, "He is killed," and instantly the silenced mob quietly scattered. It was every man for himself.
+
+p3 "Well, I sat in that nest all day, though the sun cooked me like beef on a stick; and when night came I got down and ran, for I knew it was no good to stop to look for you, and 'every man for himself when a black devil is behind you,' as your father says."
+
+p3 The boys saw Bradley rise from a sheltering rock and start after them, but he fell in a moment. Handcuffed as he was, he could not keep pace with them. The fugitives paid no attention to his calls for assistance. It was every man for himself at that moment. Bradley sat hopelessly down to await the arrival of the boys.
+
+
+ p1 Once In A Blue Moon
+
+p2 very rarely;
+
+explain 푸른 달에 한 번 → 아주 가끔 
+
+p3 "One sees a woman once in a blue moon out there," he pleaded.
+
+p3 Once in a blue moon I get a letter, and today Hutter brought me one from a soldier pard of mine who was with me in the Argonne.
+
+p3 Uncle Walter was always too busy, attending to sick children all over the town. It was only once in a blue moon Mrs. Loring asked him to go out with her. But she always ended up with ice cream or a movie.
+
+p3 She had always admired Cutty from afar, shyly. Once in a blue moon he had in the old days appeared for tea; and he and Mrs. Conover would spend the balance of the afternoon discussing the lovable qualities of Tommy Conover.
+
+
+ p1 A Load Off Mind
+
+p2 a big problem you do not have to worry about any more;
+
+explain 마음에서 떨어진 짐 → 부담을 떨쳐냄
+
+p3 "It has certainly lifted a load off my mind to put this deal through."
+
+p3 "It's a load off my mind. I ought to have done it before. In fact, I never ought to have made the map at all."
+
+p3 "That is right, lad, and you have taken a load off my mind. You have not acted quite fairly by us in one respect, Master Cyril!"
+
+p3 "The question took a load off my mind. I had been speculating on what plan of action he would adopt. Now I knew. And his plan would suit me to a nicety."
+
+ 
+
+
+위의 문장은 매우 간단한 문장이지만 충분히 사용될 수 있는 문장이다. 가령 탐이라는 사람이 자전거로 묘기를 부리는 등의 능력이 있어 유명하다면 다른 사람이 그러한 비슷한 묘기를 부릴 때 사용할 수 있는 표현인 것이다. 한국어로는 '탐처럼 자전거를 잘 탄다' 로 해석할 수 있다.
+==============================================
+
+덧붙여서 다음 글은 미국의 대통령 선거 기간 동안 Trump의 상대 후보자가 Trump를 비난하는 내용이다. 추가적인 설명은 필요 없을 것이다.
+
+
+  
+If the writer who ventures to say something more about books and their uses is wise, he will not begin with an apology.
+ 
+The policeman plucked at his beard nervously. "It is every man for himself, as your excellency knows. Had I spoken to the colonel, he would have had me broken."
+
+31:53 (For the men of war had taken spoil, every man for himself.)31:54 And Moses and Eleazar the priest took the gold of the captainsof thousands and of hundreds, and brought it into the tabernacle ofthe congregation, for a memorial for the children of Israel before theLORD.
+
+
+
+A stoker, as he raced past, seized it and made for the rail. In my turn I took it from him, and he fought for it, shouting:"It's every man for himself now!""All right," I said, for I was excited and angry, "look out for YOURSELF then!" I hit him on the chin, and he let go of the life-belt and dropped.
+
+
+ 
+
+And now with a mighty dust, and an infinite sound of horns and tambours, which came filling the valley, the first army of the infidels made its appearance, horses neighing, and a thousand pennons flying in the air. King Falseron led them on, saying to his officers: "Let nobody dare to lay a finger on Orlando. He belongs to myself. The revenge of my son's death is mine. I will cut the man down that comes between us." "Now, friends," said Orlando, "every man for himself, and St. Michael for us all! There is not one here that is not a perfect knight." And he might well say it, for the flower of all France was there, except Rinaldo and Ricciardetto--every man a picked man, all friends and constant companions of Orlando.
+
+그들은 어찌할바를 모른다. 그들은 어떻게 해야 할지를 모른다.
+
+Wine and Dine======
+
+"That's true," said the prince, "but impractical as well; we'll begin to board on credit. And you know what accurate payers we are. A practical man, a knave, is needed for such an undertaking; and if a woman, then one with a pike's teeth; and even then a man must absolutely stick right at her back. Really, it's not for Lichonin to stand at the counter and to watch that somebody shouldn't suddenly wine and dine and slip away."
+
+For when Dame Nature takes it into her head to do her very best, and bestow her minutest attention on a mere detail, as happens now and then--once in a blue moon, perhaps--she makes it uphill work for poor human art to keep pace with her.
+
+'And a wonder it is, my sweet angel,' said that lady, indignantly, rising and glancing at the pretty girl, now so pale and sad-looking, 'it's once in a blue moon as he comes 'ome, a--leaving you to mope at home like a broken-hearted kitten in a coal box. Ah, if he only had a liver, that would teach him manners.'
+
+"I only had one swig of whiskey, honest Injun!" he answered. "I s'pose I might have waited till to-morrow, but I was dead-beat. I got a bear over by the Tenmile Reach, and I was tired. I ain't so young as I used to be, and, anyhow, what's the good! What's ahead of me? You're going to git married to-morrow after all these years we bin together, and you're going down to Selby from the mountains, where I won't see you, not once in a blue moon. Only that old trollop, Mother Massy, to look after me."
+
+There was an artist who dined at intervals at Bredin's Parisian Cafe,and, as the artistic temperament was too impatient to be suited byJeanne's leisurely methods, it had fallen to Paul to wait upon him. Itwas to this expert that Paul, emboldened by the geniality of theartist's manner, went for information. How did monsieur sell hispictures? Monsieur said he didn't, except once in a blue moon. But whenhe did? Oh, he took the thing to the dealers. Paul thanked him. Afriend of him, he explained, had painted a picture and wished to sellit.
+
+To Forsyte imagination that house was now a sort of Chinese pill-box, a series of layers in the last of which was Timothy. One did not reach him, or so it was reported by members of the family who, out of old-time habit or absentmindedness, would drive up once in a blue moon and ask after their surviving uncle. Such were Francie, now quite emancipated from God (she frankly avowed atheism), Euphemia, emancipated from old Nicholas, and Winifred Dartie from her "man of the world." But, after all, everybody was emancipated now, or said they were--perhaps not quite the same thing!
+
+"Young gentlemen, much as I have enjoyed this summer's outing, it's a wonder I haven't had nervous prostration long before this. It'll be a load off my mind if I get you all back in Chillicothe without anything serious happening to you."
+
+Yet in a queer way I liked the speech. You could see the nicenessof the chap shining out behind the muck with which he had beenspoon-fed. Also it took a load off my mind. I mightn't be much ofan orator, but I was a thousand per cent better than Sir Harry.
+
+Mrs. Sankey felt mollified. She had indeed all along dreaded Ned's hearing the news, and had felt certain it would produce a desperate outbreak on his part. Now that it was over she was relieved. The storm had been no worse than she expected, and now that Ned had so speedily come round, and was submissive, she felt a load off her mind,
+
+"It's a load off my mind," said Josiah Bean, with a sigh. "Ye see, the money is comin' to my wife. She writ to 'em that I was comin' to collect an' they writ back it would be all right, only I would have to be identified. Jest as if everybody in Haydown Center don't know I'm Josiah Bean an' a piller in the Union Church down there, an' a cousin to Jedge Bean o' Lassindale."
+
+"It isn't so easy to convince other people. All the same, I don't want to get left. If you'll take my advice, you'll go and call on your friend at once, and see exactly how matters stand. If everything's O.K. and you can induce him to part a few hours before it is absolutely necessary, I must confess that it would take a load off my mind. I don't like these affairs that have to be concluded at the last possible moment."
+
+"Humph!--Fourteen and a half knots an hour," he murmured--"A verynice speed. It should take us about five days to get back nearBrazil. Well, that's that-- Quite a load off my mind. I declareI feel warmer already. Let's go and get something to eat."V. War!On our way back to the village the Doctor began discussingnatural history with Long Arrow. But their most interestingtalk, mainly about plants, had hardly begun when an Indian runnercame dashing up to us with a message.
+
+"I thank you greatly, old friend," Sir Thomas said. "It has taken a load off my mind. I shall leave him here with his mother when we march forward, and bid her, if ill befalls me, cross again to France, and then to keep Gervaise with her until she can bring herself to part with him. She has her jewels and a considerable sum of money which I accepted from the man who has been enjoying my estates for the last five years, in lieu of the monies that he had received during that time. Therefore, she will not lack means for some years to come. Besides, Queen Margaret has a real affection for her, and will, doubtless, be glad to have her with her again in exile."
+
+"I think, too, that he has been dreading having to tell her the terrible news about her father and brothers; and now he knows that she is aware of that it will be a load off his mind. Besides, I know that for his sake she will be cheerful and bright, and with her and the girls with him, he will feel as if at home. The doctor told me that the mind has a great influence over the body, and that a man with cheerful surroundings had five chances to one as against one amongst strangers, and with no one to brighten him up. I have no doubt that as soon as he gets a little stronger he will arrange what is to be done with the brig, but I am sure it will be a long time before he can take the command again 
+
+=============
+Well, to make a long story short, you know there are rival companies that would like to see the work fail and the franchise revert to the city, or at least get tied up in the courts. I took it with the understanding that it was every man for himself and the devil take the hindmost."himself."
+
+When Walter Morel and Jerry arrived at Bestwood they felt a load off their minds; a railway journey no longer impended, so they could put the finishing touches to a glorious day.
+
+"This is a load off my mind, I do assure you, miss and gentlemen," said he, saluting us with great heartiness and drawing a long breath. "And now I don't so much care how it ends."He scarcely seemed to be the prisoner. What with his coolness and his soldierly bearing, he looked far more like the prison guard.
+
+think_in_english 
+ Human and Things
+
+ pic
+
+한국어는 사물과 사람의 차이가 분명하다. 즉 사람에 해당하는 표현과 사물에 해당하는 표현이 분명하게 나뉘어진다. 영어는 그러나 사람과 사물의 차이가 매우 미미하다. 사물에 표현하는 용어나 사람에 표현하는 용어가 거의 동일하다는 의미이다. 
+
+
+
+Are you available?
+
+Among the men and women prominent in the public life of America there are but few whose names are mentioned as often as that of Emma Goldman.
+ 
+ 15 인식의 차
+ 
+This is a desk.
+This is my friend.
+
+
+
+위의 간단한 문장에서  this 가 사람이나 사물에 관계없이 쓰인다는 것을 알 수 있다. 간단한 예를 하나 더 살펴보자.
+
+
+
+She became a factory worker; at first employed as a corset maker.
+
+The bag was cheap and bore no maker's name or mark.
+
+
+
+위의 첫 번째 문장에서 maker 는 사람을 표현하고 있다. 그러나 두 번째 문장에서는 만드는 제조회사를 의미한다. 이렇듯 영어는 사람과 사물의 차이가 그다지 분명하지 않다는 것을 알 수가 있다.
+
+
+ 15 인식차의 이해
+ 
+Are you available this Saturday?
+
+
+
+available 은 '사용할 수 있는' 의 의미이다. 그러므로 위의 문장을 영어 그대로 해석하자면 '당신은 이번 주 토요일에 이용할 수 있습니까?' 이다. 이는 한국말로 보면 매우 기분 나쁜 표현일 수 있다. 그러나 영어는 그러한 감정의 느낌이 없기 때문에 그렇게 생각할 필요는 없다. 위의 문장을 자연스럽게 해석하자면 '이번 주 토요일에 시간 좀 있습니까?' 이다. 
+
+
+
+We human beings are programmed. 
+
+
+
+위의 문장은 마치 사람인 우리 인간이 컴퓨터 소프트 웨어처럼 프로그램 되었다는 표현이다. 사람을 하나의 사물처럼 생각하고 표현하는 문장이다. 생각해보면 사람의 동작이 매우 반복적이며 유사하다는 것을 알 수 있다. 사람은 신의 손에 의해서 프로그램되었다는 의미이다. 
+
+
+  
+There are many books that go into these matters at length and in detail.
+
+
+
+위의 문장을 영어 자체로 해석하자면, '이 문제에 관하여 자세하게 들어가는 많은 책들이 있다.' 이다. 이는 어딘가 모르게 한국어로는 부자연스럽다. 이는 '책이 들어간다' 는 표현 때문이다. 그러나 영어 자체로 보면 지극히 자연스러운 문장이다. 사람이든 사물이든 들어간다고 표현할 수 있는 것이다.
+
+
+ 
+*** one, few, little, many, most 등이 문장에서 나올 때...
+
+문장 속에서 one, few, little, many, most 등이 나오면 당황해하는 경우가 많은데 이러한 문장을 해석하는 요령은 이를 사람이나 사물 둘 중의 하나로 인식하고 상황에 맞추어 해석하면 된다는 것이다.
+
+
+
+Many are interested in the game.
+
+Many are interesting.
+
+
+
+위의 두 문장에서 Many 가 주어로 쓰였지만 첫 번째 문장에서의 Many 는 사람을 의미하고 두 번째 문장에서의 Many 는 사물을 의미한다. 그리하여 해석하자면 첫 번째 문장은 '많은 사람들이 그 게임에 관심이 있다.' 로 해석이 되며 두 번째 문장은 '많은 것들이 흥미롭다.' 로 해석이 된다.
+
+
+
+When most feel difficulties, I feel challenge.
+ 
+Among the men and women prominent in the public life of America there are but few whose names are mentioned as often as that of Emma Goldman.
+
+
+
+위의 첫 번째 문장과 두 번째 문장에서는 most 와 few 가 모두 사람의 의미이므로 사람인 것으로 생각하고 해석을 하면 된다. 그리하여 첫 번째 문장은 '대부분의 사람들이 어려움을 느낄 때 나는 도전 정신을 느낀다.' 로 해석이 되고 두 번째 문장은 '미국에서 공적 생활을 했던 남성과 여성 중에서 이름이 Emma Goldman만큼 자주 언급되는 사람은 거의 없다.' 로 해석될 수 있다.
+
+
+
+What makes you come here?
+
+
+
+위의 문장은 한국어로 자연스럽게 해석하자면 '당신은 왜 여기에 왔는가?' 이다. 그러나 영어 그대로 해석하자면 '무엇이 당신을 여기에 오도록 만들었는가?' 이다. 이는 마치 사람이 아닌 사물이 사람인 것처럼 당신을 움직이게 하는 것 같은 느낌이다. 이러한 단순한 문장을 통하여 원어민들의 사고방식이 한국인과는 다르다는 것을 인지해야 한다.
+
+
+
+The only effect of this decision was to make the public indignation stronger and deeper.
+
+
+
+위의 문장은 주어가 사람이 아닌 사물이며 더욱이 구체적인 물건이 아니라 추상적인 개념이다. 그리하여 해석하자면 '이 결정의 유일한 결과는 대중의 분노를 더 강하고 깊게 만들어 놓았다는 것이었다.' 이다.
+
+
+
+한국어는 사람과 사물의 구별이 명확하다. 그리하여 각각에 쓰이는 어휘와 표현들이 비교적 명확히 구별되어 있다. 그러나 지금까지 살펴본 바와 같이 영어는 그렇게 명확하게 구별되어 있지 않다. 사람도 하나의 사물에 불과한 것이다. 그리하여 this, one, few, little, many, most 등이 사람인지 사물인지는 문장 상황에서 인식해야 한다. 또한 사물에 쓰일법한 표현들이 사람에게 아주 자연스럽게 쓰여지며 사물이 문장의 주어가 되는 경우는 매우 흔한 경우이다. 심지어 배나 비행기등을 She 로 표현하기도 한다.
+
+
+
+The thought of jumping out of an aeroplane makes me scared.
+
+Massey's detailed account of the battle made our hair stand on end.
+
+
+
+  p1 Curiosity Killed The Cat
+
+p2 being inquisitive about other people's affairs may get you into trouble;
+
+explain 호기심이 고양이를 죽였다 → 지나친 관심은 화를 초래한다 
+
+p3 And overboard they went, to be picked up five minutes later by Terence and Cappy in the motor lifeboat. "You were right, Mr. Ricks," cried Murphy as he scrambled into the boat. "Curiosity killed the cat!"
+
+
+ p1 Clothes Make The Man
+
+p2 You can judge a man's character based on his clothing and appearance;
+
+explain 옷이 사람을 만들다 → 사람을 옷으로 판단하다 
+
+p3 "She doesn't care for him: she wants his money. He dresses badly, don't you see; and, after all, the clothes make the man!"
+
+ p1 Practice Makes Perfect
+
+p2 regular exercise of an activity or skill is the way to become proficient in it; 
+
+explain 연습은 완벽을 만든다 → 꾸준한 연습을 통하여 완벽함을 이룰 수 있다 
+
+p3 "Practice makes perfect," replied the secretary.
+
+p3 "Practice makes perfect, is it not said?" he remarked.
+
+p3 As in every thing else, practice makes perfect, so in this occupation, practice gave to Mrs. Martindale great skill in discerning character--at least, of such character as she could operate on.
+
+p3 Of course everything depends on your really wanting to get up at five; if you don't really want to, it's all of no use. But if you do - well, try it and see. Of course in this, practice makes perfect.  
+
+p3 Indeed, the Tasmanians of modern days carved their simple tools so roughly, that any one ignorant of their history might easily mistake the greater number for common pieces of stone. On the other hand, as we move on from the earlier to the later types of river-drift implements, we note how by degrees practice makes perfect.
+
+
+ p1 Make Available To
+
+p2 to supply someone with someone or something;
+
+explain 사용할 수 있게 하다 → 제공해주다, 편의를 제공해주다, 빌려주다
+
+p3 He made his car available to Tom. 
+
+p3 They made their servant available to us.
+
+
+
+metaphor METAPHOR • IDIOMS
+ 
+reserve elements of  sentence :
+
+I was glad to be taken for an American, as it gave me a better opportunity of seeing things as they really are.(부사절에 있는 문장)
+
+ X marks the spot: 
+
+a good beginning makes a good ending
+
+Drastic Times Call For Drastic Measures:
+ 
+Emma Goldman is one of the few who, while thoroughly preserving their individuality, have become an important factor in the social and intellectual atmosphere of America.
+One need not wonder at the youthful age. 
+
+===============
+Haste Makes Waste:====
+Incredulous yet aghast the young man gave instant chase to the navvy, overhauling him with no great difficulty. For your horny-handed British working-man is apparently born with two golden aphorisms in his mouth: "Look before you leap," and "Haste makes waste." He looks continually, seldom, if ever, leaps, and never is prodigal of his leisure.
+
+
+=======================================================
+The debt American intellectual growth owes to the revolutionary exiles has never been fully appreciated. 
+=======================================================
+
+A popular outcry sometimes unnerves them, and sometimes makes them desperate; it drives them to unworthy compliances, or to measures of vengeance as cruel as those which they have reason to expect.
+
+=======================================================
+사물주어:
+The powers of darkness and injustice exert all their might lest a ray of sunshine enter his cheerless life. 
+Envy, sometimes growing to hatred, vanity and jealousy, obstruct his way and fill his heart with sadness.
+ 
+The study of the Russian language soon brought young Emma Goldman in touch with revolutionary students and new ideas.
+superstition makes them the slaves of the priest.
+
+having a word with your doctor seems to make a good deal of sense.
+
+In combination with cleaning your body out at the same time, even the gentlest exercise makes it far easier for energy to be channeled in the most beneficial directions,
+=======================================================
+
+one, few, little, most
+
+==========================================================================
+
+=================
+Variety Is The Spice Of Life
+Variety is the spice of life, and we are various enough to enjoy oneanother's society; so let us be content."There is some truth in that speech," remarked Toto reflectively.
+====================
+Spiritedness is manifested in different degrees among different men - and even
+
+among the animals. It is an elementary, fundamental, primitive quality and
+
+expression of Life, and does not depend upon culture, refinement or education -
+
+its development seems to depend upon such instinctive or intuitional recognition
+
+of the Something Within - the Power of the Individual which is derived from that
+
+Universal Power of which we are all expressions. And even some of the animals
+
+seem to possess it.
+==========================================================================
+I don't know why that makes me laugh.
+
+사물주어
+
+one, a few, etc
+
+==================
+"Well," he said, "I thought I was pretty quick, and our John quicker still, but you do beat all I ever saw for being quick and thorough at the same time.""Practice makes perfect," said the crooked little hostler,"and 't would be a pity if it didn't.
+
+Mr. Francis Beverley had been THINKING. So now, finding all the patients boxed up, and their attendants romping in the drawing-room, he lighted seven fires, skilfully on the whole, for practice makes perfect; but, singular oversight, he omitted one essential ingredient in the fire, and that was the grate.
+
+=== 어린아이를 보면 귀여워 하는 감정을 갖는 것
+
+think_in_english 
+ Logical and Mechanical
+
+ pic
+
+영어가 얼마나 기계적이고 논리적인지는 다음의 에피소드를 통해서 그들의 사고방식을 살펴봄으로써 이해할 수 있다. 
+
+미국의 주택가에서 화재가 발생한 사건이 있었다. 즉시, 소방관들이 출동하였고 큰 문제 없이 그 화재를 소화시킬 수 있었다. 그러나 한 집만은 완전히 전소될 때까지 그대로 방치하였다. 그 이유인즉, 그 집이 세금을 내지 않았다는 것이다. 정부의 돈으로 세금을 내지 않은 사람의 집의 불을 꺼줄 수 없다는 것이다. 한국인의 사고방식으로는 도저히 이해가 되지 않는 상황인 것이다. 더욱이 놀라운 것은 그 집 주인조차 그에 대해서 저항하거나, 흥분하지 않고 마치 당연한 듯이 이를 받아들였다는 것이다.
+
+
+
+It is one of the ironies of modern life that at a time when medical advances allow us to overcome so many of the problems that were once thought of as incurable and the technology is available to make all our lives so much easier, life in reality has never been more difficult!
+ 
+
+ 15 인식의 차
+
+논리라는 것은 무언가를 참과 거짓, 또는 긍정과 부정 등으로 나누는 것으로부터 출발한다. 영어는 이러한 논리적인 문장을 자주 사용한다. 다음의 간단한 문장을 살펴보자.
+
+
+
+It couldn't be better.
+
+
+
+위의 문장은 매우 좋은 상태를 표현하는 구문이다. 문자 그대로 해석하자면 '더 좋을 수 없다.' 라는 뜻이다. 이는 반대로 생각하면 '지금이 최상의 좋은 상태' 라는 것이다. 이렇듯 반대적인 표현으로 상황을 표현하는 방식이 영어에서는 종종 나타난다.
+
+
+
+You can not read too much.
+
+
+
+위의 문장은 영어 그대로 해석하자면 '당신은 너무 많이 읽을 수 없다.' 이다. 이는 '심각한 상태가 될 때까지 읽을 수 없다' 즉, '많이 읽어도 지나치지 않다' 라는 의미이다.
+
+
+ 15 인식차의 이해
+
+Is it true that no man has ever reached the top?
+
+
+
+위와 같은 가주어 진주어 구문은 영어의 기계적이고 논리적인 면을 단적으로 보여주는 구문이다. 이 문장에서의 실질적인 주어는 that no man has ever reached the top 이다. 길어진 주어를 가짜 주어 it 로 대체하고 실질적인 주어는 문장의 뒤로 이동시킨 것이다. 원래의 문장이라면 Is that no man has ever reached the top true? 의 형태가 되는 것이다. 이토록 문장의 주어를 길다는 이유로 뒤로 빼는 형태야말로 영어가 얼마나 기계적인 언어인지를 말해주는 것이다.
+
+
+ 
+He returned the author's greeting curtly, making it plain that he was in no agreeable temper. 
+
+
+
+위와 같은 가목적어 진목적어 구문 역시 영어의 기계적이고 논리적인 면을 단적으로 보여주고 있다. 이 문장에서는 making it plain that he was in no agreeable temper 의 형태를 살펴보아야 한다. 이 형태에서 it 는 가짜 목적어로써 위치만 차지하고 있는 것이다. 실제적인 목적어는 that he was in no agreeable temper 이다. 그리하여 위 문장을 해석하자면 '그는 그가 동의할 기분이 아니라는 것을 명백히 하면서 단칼에 그 작가의 인사를 되돌려 주었다.' 라고 할 수 있다.
+
+
+ 
+It is not until A that~ 
+
+It wasn’t until he was hit on the belly and seated sharply on the ground that the fighting ceased.
+
+
+
+위의 문장은 'it is not until A that ~ ' 구문으로써 위의 문장을 영어 그대로 직역하자면 '그 싸움이 멈춰진 것은 그가 배를 얻어맞고 땅에 주저앉을 때까지는 아니었다.' 라고 해석을 할 수 있다. 이는 한국어로 자연스럽게 해석하자면 '그가 배를 얻어맞고 땅에 주저앉은 이후에야 비로소 그 싸움이 끝났다.' 이다. 이는 한국어와는 표현 방식이 다르다는 것을 알 수 있다. 
+
+
+
+It's not long before ~ 
+
+But it was not long before the man began to find that to be a fact.
+
+
+
+위의 문장 역시 비슷한 구문으로써 영어 그대로 해석하자면 '그 남자가 그것이 사실이라는 것을 발견하기 시작하기 전은 길지 않았다.' 이다. 이 역시 한국어로 자연스럽게 해석하자면 '머지않아 그 남자는 그것이 사실이라는 것을 발견하였다.' 라고 할 수 있다. 이렇듯 반대적인 상황으로 표현하여 논리적인 문장을 구성하고 있는 것이다. 영어의 이러한 논리적인 특성을 이해하는 것이 더욱 길고 복잡한 문장을 이해하는 데 도움이 되는 것이다.
+
+
+
+any 와 ever 에 대해서 간단한 논리적인 접근 방법을 통하여 완전히 이해해 보도록 하자. 왜냐하면 대부분의 학생들이 any 와 ever 에 대해서 조금은 막연하고 어려워하기 때문이다. 그 뜻을 정확히 이해를 못 하고 있다. 특히 ever의 경우는 다른 단어와 어울려 쓰일 때는 전혀 이해를 못 하는 경우가 대부분이다.
+
+
+
+우선 본론에 들어가기 전에 any 와 ever 에 대해서 간단한 설명을 하고자 한다. any 는 절대적인 것은 아니지만 주로 형용사로 쓰이고, ever 역시 절대적인 것은 아니지만 주로 부사로 쓰인다. 즉 any 는 명사를 꾸며주는 역할을 주로 하고 ever 는 동사나 형용사 다른 부사를 꾸며주는 역할을 주로 한다. 두 단어가 각각 형용사와 부사로써 성격이 다르지만 논리적으로는 같은 관점에서 설명이 가능하다. 
+
+
+
+any 와 ever 는 긍정문과 부정문에서는 100% 를 의미한다. 즉 any car, any book 이라고 하면 '어떤 차든지' 혹은 '어떤 책이든지' 의 의미이고, ever green 이라 하면 '완전한 녹색' 의 또는 '상록수' 라는 의미가 된다. 반면에 의문문의 상태에서 논리적으로 생각해 본다면, 말 그대로 의문문이기 때문에 100% 사실인가 그렇지 않으면 100% 거짓인가를 묻는 것이다. 그리하여 한국어로는 '혹시' 나 또는 '혹여' 나 정도로 해석이 되는 것이다.
+
+
+
+"I wish I could help you in any way, Aaron," he said, with a sigh.
+
+"What room?" the girl asked, quickly. "We don't have any vacant rooms."
+
+"Did he give you any trouble?"
+
+
+
+위의 첫 번째 문장에서 in any way 는 '어떠한 방법으로든' 의 의미이다. 이는 '모든 방법을 동원해서' 라는 의미인 것이다. 두 번째 문장에서 any vacant rooms 는 '어떠한 빈방이든지' 라는 뜻으로 '모든 빈방' 을 의미하며 전체 문장은 부정문으로 쓰였다. 이는 '어떠한 빈방도 갖고 있지 않다' 는 의미이다. 마지막 문장에서 any trouble 은 '어떠한 문제라도' 의 의미이다. 그 어휘가 의문문에서 쓰였으니, '확실하게 문제를 주었는가?' '그렇지 않은가?' 를 묻는 것이다. 그리하여 한국어로는 '혹시라도 문제를 주었는가?' 또는 '혹여나 문제를 주었는가?' 로 해석이 되는 것이다.
+
+
+
+The young people seemed much more familiar with each other than we should ever allow them to be.
+
+Nobody ever seemed to do any favors for Annie Black.
+
+"Did you ever hear your own heart beat, Alice?"
+
+
+
+위의 첫 번째 문장에서 ever allow 자체만을 해석하면 '확실하게 허락(용인)한다' 는 의미이다. 그리하여 전체 문장을 해석하자면, '그 젊은이들은 우리가 용인(허락)할 수 있는 것보다 서로에게 훨씬 더 친숙하게 보였다.' 이다. 두 번째 문장에서 ever seemed 는 '완전히 확실하게 보였다' 는 의미이다. 그 어휘가 부정문 안에서 쓰였다. 이는 '완전히 그렇게 보이지 않았다' 는 의미인 것이다. 마지막 문장에서 ever hear 자체는 역시 '100% 확실하게 듣다' 의 의미이다. 그 어휘가 의문문에서 쓰였으니 확실히 들었는가, 그렇지 않은가를 묻는 것이다. 이 또한 '혹시' 또는 '지금까지' 로 해석이 되는 것이다. 그리하여 '너는 지금까지 너의 심장박동 소리를 들어본 적 있는가?' 로 해석이 되는 것이다.
+
+
+ p1 Make A Monkey Of
+
+p2 make a fool (out) of someone; to make someone look foolish;
+
+explain 원숭이를 만들다 → 조롱하다, 바보로 만들다
+
+p3 I admit I let then herders make a monkey of me.
+
+p3 "I'm sorry I made a monkey of you," said Teddy.
+
+p3 "They look sort of funny to me," he complained, "I don't want to be made a monkey of--" "You've made a monkey of me!" retorted Mr. Button fiercely. "Never you mind how funny you look."
+
+p3 "I'm sorry I made a monkey of you," repeated the Circus Boy in a slightly louder tone. "Maybe I wouldn't have done so if I had had time to think about it." "You make apology to me--to me?" questioned Diaz, tapping his own chest significantly.
+
+
+ p1 Can't Make Heads Or Tails Of
+
+p2 unable to understand someone or something;
+
+explain 머리와 꼬리를 만들 수 없다 → 이해할 수 없다 
+
+p3 "Now, Walter, old fellow, I don't want you to be offended with me, but really I can work better if you don't constantly remind me of such things as eating and sleeping. Say, do you want to help me--really?" He asked. "Certainly. I am as interested in the case as you are, but I can't make heads or tails of it." I replied.
+
+ p1 Take Control Of
+
+p2 to get the power and right to direct someone or something;
+
+explain 통제를 취하다 → 통제권을 쥐다 
+
+p3 He took control of the situation.
+
+p3 Glafira Petrovna again took control of everything in the house. 
+
+p3 "Those canoes ought to be ours," he said. "it is a great pity that we've let the French take control of Champlain."
+
+p3 Beside it in the mirror he saw his own marred face, and it added to his anger. In the end he took control of the situation; went into his bedroom, changed into a coat, and came out again, ready for the street.
+
+
+ p1 Between A Rock And A Hard Place
+
+p2 in a situation where one is faced with two equally difficult alternatives;
+
+explain 바위와 딱딱한 장소 사이에 → 곤란한 위치에 있는
+
+p3 I couldn't make up my mind. I was caught between a rock and a hard place. 
+
+p3 I was between a rock and a hard place, for if I didn't take out another loan, and go deeper into debt, I could not pay off the debts I already owed.
+
+
+
+metaphor METAPHOR • IDIOMS
+ 
+reserve ===========참 거짓, 반대 상황, 일부분 추출, 기계적 문장, 가주어, 진주어, 가목, 직목, to 부정사
+
+elements of  sentence :
+
+make a pig's ear of
+
+I couldn't be more supportive
+
+a slip of the tongue
+
+강조 구문
+
+반대로 생각하라.
+
+Although the term "public domain" did not come into use until the mid-18th century, the concept "can be traced back to the ancient Roman Law, as a preset system included in the property right system."
+
+
+It is right and fitting that he should admit it with Christian humility.
+
+Young Mitchell realized bitterly that the cost of living had increased and that it was up to him to raise his salary or lose his lady.
+
+It was a pity that I hadn't somebody of my own age for company.
+
+But we can’t talk about staying in the race until we talk about whether to race at all.
+
+===================
+You must talk to him--he is a very curious and subtle thinker. We are just thoughts in the Mind of the Race, he says, passing thoughts. We are--what does he call it? --Manon his Planet, taking control of life.""Man and woman," she had amended.
+
+But just as man on his planet taking control of life had failed altogether to remember why the ditch at Avebury was onthe inside instead of the outside of the vallum, so now MissGrammont and Sir Richmond found very great difficulty inrecalling why they had built Salisbury Cathedral.
+
+In 1803, the Federal Government purchased the Louisiana country. Ourformer territorial acquisitions came from certain of our own States; butthis Louisiana country was acquired from a foreign nation. In 1804,Congress gave a territorial organization to that part of it which nowconstitutes the State of Lousiana. New Orleans, lying within that part,was an old and comparatively large city. There were other considerabletowns and settlements, and slavery was extensively and thoroughlyintermingled with the people. Congress did not, in the Territorial Act,prohibit slavery; but they did interfere with it take control of it--in amore marked and extensive way than they did in the case of Mississippi.
+
+No great while after the adoption of the original Constitution, NorthCarolina ceded to the Federal Government the country now constituting theState of Tennessee; and, a few years later, Georgia ceded that which nowconstitutes the States of Mississippi and Alabama. In both deeds ofcession it was made a condition by the ceding States that the FederalGovernment should not prohibit slavery in the ceded country. Besidesthis, slavery was then actually in the ceded country. Under thesecircumstances, Congress, on taking charge of these countries, did notabsolutely prohibit slavery within them. But they did interfere withit--take control of it--even there, to a certain extent. In 1798,Congress organized the Territory of Mississippi: In the act oforganization they prohibited the bringing of slaves into the Territoryfrom any place without the United States, by fine and giving freedom toslaves so brought. This act passed both branches of Congress without yeasand nays. In that Congress were three of the "thirty-nine" who framed theoriginal Constitution. They were John Langdon, George Read, and AbrahamBaldwin. They all, probably, voted for it. Certainly they would haveplaced their opposition to it upon record, if, in their understanding,any line dividing local from Federal authority, or anything in theConstitution, properly forbade the Federal Government to control as toslavery in Federal territory.
+
+
+"It is an order appointing me advisor to the jong, with full power to act in his place in all emergencies. It also ratifies all laws promulgated by the Zani Party since it took control of Korva."
+
+"Have you ever seriously wondered why I don't marry?" he asked quickly.
+
+"When was I ever afraid of you?" she demanded. She was looking at him suspiciously now.
+
+that was the biggest surprise Tommy ever got in his life.
+
+================
+He was in forty places at the same time, and before I had half a chance to awaken to my danger he was like to have made a monkey of me,and a dead monkey at that.
+
+"Yes you do. Don't try to make a monkey of me. You'll be willing to answer right smart after I've fanned you with a forty-four. Who is it you and your bunch are after?"
+
+Then there was another Ross Wilbur--Ross Wilbur, the alert, who was perfectly clear-headed, and who stood off to one side and watched his twin brother making a monkey of himself, without power and without even the desire of helping him.
+
+think_in_english 
+ Abstract
+
+ pic
+
+추상성이란 무엇인가? 흔히들 추상성 하면, 눈에 보이지 않는 것이라 생각하기 쉽다. 그러나 추상성의 진정한 의미는 눈에 보이지 않는 것이 아니다. 공통점을 추출해 놓은 것이란 의미이다. 예를 들어 사과, 배, 포도의 공통점은 무엇인가? 이들은 모두 과일이라는 공통점이 있다. 이러한 공통점을 생각하는 것이 바로 추상성인 것이다. 이러한 추상성이 영어는 강해서 하나의 단어가 수십 가지는 기본이요 수백 가지의 뜻을 가지고 있는 것이다. 그러므로 이러한 추상성을 이해하지 못하면 계속해서 혼동을 일으킬 수밖에 없다. 비단 이러한 추상성이 하나의 단어에서만 나타나는 것이 아니라, 숙어나 구문 형태, 또는 문장에서 나타나는 것이다. 더군다나 여러 상황에서 뒤섞여서 나타나기 때문에 이러한 영어의 추상성을 인식하지 못하면 영어를 극복할 수 없는 것이다.
+
+ 15 인식의 차
+ 
+She wears a bag.
+
+He wears a ring.
+
+The boy wears only a cloth.
+
+He always wears smile.
+
+
+
+wear 의 뜻은 단순히 '입다' 로 생각하는 경우가 많다. 그러나 위의 문장과 같이 여러 상황에서 wear 의 뜻이 사용될 수 있다. 즉, '가방을 걸치다' '반지를 끼다' 등은 물론이요, '화장하다' 심지어는 '웃음을 띠다' 의 표현도, wear 라는 단어로 표현된다. 더 나아가서 wear 는 '닳다' 의 뜻까지 가지고 있다.
+
+
+ 15 인식차의 이해
+
+이전 페이지의 wear 를 포함해서 chapter I 과 chapter II 의 모든 어휘들은 사실상 영어의 추상성에 기반한다는 것을 인지할 필요가 있다. 이토록 영어는 한국어에 비하여 매우 추상적이라는 사실을 알아야 한다. 영어의 추상성은 비단 단순한 어휘에서뿐만 아니라 구문이나 문장에서도 그대로 나타난다.
+
+
+
+He is supposed to go there.
+
+
+
+위의 문장은 어떻게 해석해야 하는가?
+가장 기본적인 해석은 '그는 거기에 갈 예정이다.' 라고 할 수 있다. 그러나 상황에 따라서는 '그는 거기에 가야 한다.' 라고 해석할 수도 있다. 또는 '그는 거기에 갈 수 있다.' 라고 할 수도 있다.
+
+
+
+이렇듯 영어는 하나의 문장이나 어휘가 상황에 따라 여러 가지로 해석이 된다. 이는 그 추상성을 파악함으로써 상황에 따라 해석을 할 수 있는 것이다. 위의 세 가지 방법의 해석의 공통점은 무엇일까? 그것은 '미래적 의미' 라는 것이다. 그러므로 미래에 일어날 수 있는 의미의 해석은 모두 가능하다. 심지어는 '그는 거기에 갈 운명으로 정해져 있다.' 라고 해석할 수도 있는 것이다.
+
+
+
+He was looking at the pictures.
+
+
+
+위의 문장은 그리 어렵지 않다. '그는 그림을 보고 있었다.' 라고 해석할 수 있다. 다음 문장을 보자.
+
+
+
+He stood there looking at the pictures.
+
+
+
+위의 문장은 was 를 stood there 로 바꾸어 놓았다. 이도 그리 어렵지 않은 문장이다. '그는 그림을 보면서 거기에 서 있었다.' 로 해석이 된다.
+
+
+
+He didn't know the name of the author looking at the pictures.
+
+
+
+위의 문장은 어떻게 해석해야 하는가? '그는 그 그림을 보면서 작가의 이름을 알지 못한다.' 로 해석하면 조금은 부자연스러운 해석이 될 것이다. '그는 그 그림을 보고 있지만 작가의 이름을 알지 못한다.' 로 해석하는 것이 자연스러울 것이다. 같은 looking at the pictures 라 할지라도 문맥의 전후 상황에 따라서 해석이 달라지는 것이다.
+
+
+
+Looking at the pictures, you will understand what the author tries to tell.
+
+
+
+위의 문장은 어떻게 해석해야 할까? '그 그림을 보고 있지만 당신은 작가가 무슨 말을 하려 하는지 이해할 것이다.' 라고 해석을 하면 어색한 의미가 될 것이다. '그 그림들을 보게 된다면 당신은 작가가 무슨 말을 하려 하는지 이해할 것이다.' 로 해석하는 것이 자연스러운 것이다. 
+
+
+
+이렇듯 똑같은 looking at the pictures 를 상황에 따라 조금씩 다르게 해석을 해야 한다. 이는 바로, 영어가 그만큼 추상성이 강하다는 것을 의미한다. 이러한 추상성을 이해하여야만 영어를 master 할 수 있는 것이다.
+
+
+ p1 Absence Makes The Heart Grow Fonder
+
+p2 you feel more affection for those you love when parted from them;
+
+explain 부재는 마음의 애정을 높여준다 → 안 보면 보고 싶어진다, 떨어져 있으면 보고 싶어진다 
+
+p3 There is an old saying about `absence making the heart grow fonder.' Maybe separation is the thing to work the trick. I've tried about everything else I know.
+
+p3 "I want to try out a theory," Cappy replied. "I have a great curiosity, Skinner, to ascertain if there is any truth in the old saying that absence makes the heart grow fonder."
+
+p3 "Go and see her. Absence does not make the heart grow fonder. If it did, we should never forget the dead. Those who touch us move us. Go and see Elizabeth again. Women worth loving want wooing."
+
+
+ p1 Be Down With
+
+p2 To be in agreement with; in support of; have interest in or thoroughly enjoy some subject, activity, or thing; To be on friendly terms with or enjoy the company of somebody;
+
+explain 가라 앉아 있다 → 정착하다, 적응하다, 잘 어울리다  
+
+p3 Yeah, I'm down with seeing a movie later this evening.
+
+p3 I am so down with math, it's my favorite subject in school! 
+
+p3 I'm down with Cathy, we just had a small disagreement is all.
+
+p3 I'm just not down with John, I think he's kind of a jerk sometimes.
+
+
+
+  p1 Take Up
+
+p2 Raise; lift; Reduce in size; shorten; tighten; Station oneself; settle in; Accept an option; bet or challenge; Develop an interest in; begin an activity; Use up or occupy entirely; Begin again; resume; Deal with; Absorb; Support; adopt;
+
+explain 완전히 취하다 → 흡수하다, 빨아들이다, 시간이 걸리다, 배우다
+
+p3 I take up her hand and touch the ring.
+
+p3 Your experiment will take up a little too much time.
+
+p3 He took up his stand before her, looking her straight in the eye.
+
+p3 He had to leave rather unexpectedly to take up some business in Germany.
+
+p3 As they came out of Mrs. Hiller's garden they took up their talk again where they had left it.
+
+p3 She was a little troubled, however, as she went back into the sitting-room and took up her work.
+
+p3 "Thank you," returned Craig, with a significant glance. "I may have to take up that offer."
+
+p3 Her eyes fell to the printed  and her clear, sweet voice took up the ancient tale of vengeance.
+
+p3 "I should be glad to take up the matter," replied the man, quickly, adding, "if Mr. Barnes will let me."
+
+
+
+ 
+
+=======분사구문 때, 원인, 이유, 조건, 양보, 부대상황(동시동작)
+George put by his work and swore, pacing the rough pole floor.
+Even then he stood dazed and disbelieving until she continued:
+I don't want to stay here," I said, seizing my friend's hand.
+While we were eating I told them about the letter of old Kate.
+Through all the Russian was silent, gazing strangely at George.
+When we had finished eating he set aside the dishes and I asked:
+"But I have come back," Tommy said, looking hopefully at her arms.
+Kate rose and came to my side and leaning toward my ear whispered:
+=======
+
+
+It is time we restored order.
+
+Carefully examining it, you will soon find your thought and desires come and proceed in more orderly procession.
+
+
+We have been beating our competition.: book2 abstract
+
+분사구문, to 부정사===========
+
+==============================================
+order 는 명령이나 주문 정도로 생각하는 경우가 많다. 그러나 이는 order의 근본적인 뜻을 잘못 이해하고 있는 것이다. 다음 문장들을 살펴보자.
+
+I want to restore order to the world and remove chaos.
+
+The exercise of the visualizing faculty keeps your mind in order.
+
+The machine is out of order.
+
+Your object in visualizing is to bring things into regular order both mentally and physically.
+
+위의 문장들에서 order 의 공통점은 무엇인가? 바로 질서의 의미이다. 질서의 의미에서 출발하여 여러가지 뜻으로 나타나는 것이다.
+
+==============================================
+
+영어는 논리적이기 때문에 추상적이고 추상적이기때문에 논리적이다.
+
+bear , deal
+
+fall : 넘어지다, 쓰러지다. 떨어지다.
+move : 비켜 , 꺼져, 도망가. 
+convention,
+approach
+sleeve,
+
+map : abstract
+this, it,: abstract.
+move, go head, There you go.
+take a hard line
+
+There you go, there you are : abstract
+
+Conduct superconduct, secretary general, work : abstract
+
+Event, big deal : abstract
+
+A movie star says Donald Trump will have your back.
+
+deal, Yes, it's a great deal, but it all goes away at midnight tonight.
+
+Lifeguard season draws to a close : book2 abstract
+Come to an end
+Development : abstract
+Developing story : develop
+
+as
+
+arm and a leg
+=======================================================
+또 한가지 미래의 의미를 나타내는 형태의 구문이 be to 형태이다. 다음 문장을 보자.
+
+You are to go there.
+
+위의 문장 역시 해석은 너는 거기에 갈 것이다. 또는 너는 거기에 가야한다. 등, 미래에 관련된 의미로 해석하면 되는 것이다. 이렇게 영어의 추상성이 나타나는 구문을 살펴보았다. 
+
+but a new chapter of life was to begin for her.
+
+=======================================================
+work
+=======================================================
+
+They should go there.
+should ~ 일것이다. 또는 ~ 해야한다의 뜻으로 쓰인다. 이 역시 그 근본적인 의미는 미래의 상황을 뜻하는 것이다.
+
+review
+
+Inventor of the flying machine learned how to apply Nature's laws and, by making orderly use of them, 
+
+====================================
+It was opened, and seemed written with sunbeams. No quarrels on paper! Absence made the heart grow fonder.
+
+Perhaps that is the result of spring, as the poet says; but, anyhow, it presents new aspects to me each hour. Now, I have made this important discovery: that the girl I am with last seems to me the most desirable. That is contrary to the observation of philosophers of bygone days. Absence makes the heart grow fonder, they say. I don't find it so. Presence is what plays the very deuce with me. Now, how do you account for it, Stilly?"
+
+===================
+As "absence makes the heart grow fonder," so it may suddenly draw asidethe veil behind which the truth is hidden. At Bonn young Marx felt asif a blaze of light had flashed before him; and from that moment his studies, his companions, and the ambitions that he had hithertocherished all seemed flat and stale. At night and in the daytime therewas just one thing which filled his mind and heart--the beautifulvision of Jenny von Westphalen.
+
+Next day her father came, condoled with her politely, assured her there was nothing to cry about; husbands were a sort of functionaries that generally went to sea at some part of their career, and no harm ever came of it. On the contrary, "Absence makes the heart grow fonder," said this judicious parent.
+
+What's the rest?""You can call that mild," Jerry stated severely. "Bud,you're playing to lose the shirt off your back. You've got ahundred dollar forfeit up on next Sunday's running match, soyou'll run if you have to race Boise afoot. That's all rightif you want the risk--but did it ever occur to you that ifall the coin in the neighborhood is collected in one man'spocket, there'll be about as many fellows as there arelosers, that will lay awake till sun-up figuring how to heelhim and ride off with the roll? I ain't over-stocked withcourage, myself. I'd rather be broke in Burroback Valley thanowner of wealth. It's healthier,"He thrust his fork into another settled heap, lifted it clearof the ground with one heave of his muscular shoulders, andheard within a strident buzzing. He held the hay poised untila mottled gray snake writhed into view, its ugly jaws openand its fangs showing malevolently.
+

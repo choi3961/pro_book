@@ -1,0 +1,152 @@
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xml:lang="en">
+<fo:layout-master-set>
+<fo:simple-page-master page-height="297mm" page-width="210mm" margin-top="10mm" margin-left="20mm" margin-right="20mm" margin-bottom="10mm" master-name="PageMaster">
+<fo:region-body column-count="3" margin-top="20mm" margin-left="10mm" margin-right="10mm" margin-bottom="20mm"/>
+<fo:region-before extent="16mm"/>
+<fo:region-after extent="16mm"/>
+<fo:region-start extent="8mm"/>
+<fo:region-end extent="8mm"/>
+
+</fo:simple-page-master>
+</fo:layout-master-set>
+<fo:page-sequence initial-page-number="1" master-reference="PageMaster">
+<fo:static-content flow-name="xsl-region-before">
+<fo:block font-size="8pt">
+<fo:external-graphic src="url('img/antenna-en.png')" content-height="11mm"/>
+XSL FO Sample Copyright © 2004-2005 Antenna House, Inc. All rights reserved.
+</fo:block>
+</fo:static-content>
+<fo:static-content flow-name="xsl-before-float-separator">
+<fo:block background-color="#FEAAFE" font-size="10pt">Separation area of body and before-float</fo:block>
+</fo:static-content>
+<fo:static-content flow-name="xsl-footnote-separator">
+<fo:block background-color="#FEAAFE" font-size="10pt">Separation area of body and footnote</fo:block>
+</fo:static-content>
+<fo:flow flow-name="xsl-region-body">
+<fo:block span="all" font-family="Arial" font-size="24pt" background-color="#EEEEEE" line-height="2em">Specify span="all" in region-body</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+1. Unicode not only defines coded character set, but also provides other specifications.
+<fo:footnote>
+<fo:inline baseline-shift="super" font-size="75%">(1)</fo:inline>
+<fo:footnote-body>
+<fo:block space-after="1em" font-size="0.9em" background-color="#00EEEE" text-indent="0em" start-indent="0pt">
+<fo:inline baseline-shift="super" font-size="75%">(1)</fo:inline>
+footnote : For example, The Bidirectional Algorithm
+</fo:block>
+</fo:footnote-body>
+</fo:footnote>
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="before">
+<fo:block space-after="0.75em" background-color="#00EEAA" font-family="Arial" font-style="italic">
+A. This is a content of the before-float. This is a content of the before-float. This is a content of the before-float.
+</fo:block>
+</fo:float>
+2. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="start">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block background-color="#EEEE00" font-family="Arial" font-style="italic" end-indent="0.5em">This is a content of the start float.</fo:block>
+</fo:block-container>
+</fo:float>
+3. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="end">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block start-indent="0.5em" background-color="#AAAAEE" font-family="Arial" font-style="italic">This is a content of the end float.</fo:block>
+</fo:block-container>
+</fo:float>
+4. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+5. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+6. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+7. Unicode not only defines coded character set, but also provides other specifications.
+<fo:footnote>
+<fo:inline baseline-shift="super" font-size="75%">(2)</fo:inline>
+<fo:footnote-body>
+<fo:block space-after="1em" font-size="0.9em" background-color="#00EEEE" text-indent="0em" start-indent="0pt">
+<fo:inline baseline-shift="super" font-size="75%">(2)</fo:inline>
+footnote : For example, The Bidirectional Algorithm
+</fo:block>
+</fo:footnote-body>
+</fo:footnote>
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="before">
+<fo:block space-after="0.75em" background-color="#00EEAA" font-family="Arial" font-style="italic">
+B. This is a content of the before-float. This is a content of the before-float. This is a content of the before-float.
+</fo:block>
+</fo:float>
+8. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="start">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block background-color="#EEEE00" font-family="Arial" font-style="italic" end-indent="0.5em">This is a content of the start float.</fo:block>
+</fo:block-container>
+</fo:float>
+9. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="end">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block start-indent="0.5em" background-color="#AAAAEE" font-family="Arial" font-style="italic">This is a content of the end float.</fo:block>
+</fo:block-container>
+</fo:float>
+10. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+11. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+12. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+13. Unicode not only defines coded character set, but also provides other specifications.
+<fo:footnote>
+<fo:inline baseline-shift="super" font-size="75%">(3)</fo:inline>
+<fo:footnote-body>
+<fo:block space-after="1em" font-size="0.9em" background-color="#00EEEE" text-indent="0em" start-indent="0pt">
+<fo:inline baseline-shift="super" font-size="75%">(3)</fo:inline>
+For example, The Bidirectional Algorithm
+</fo:block>
+</fo:footnote-body>
+</fo:footnote>
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="before">
+<fo:block space-after="0.75em" background-color="#00EEAA" font-family="Arial" font-style="italic">
+C. This is a content of the before-float. This is a content of the before-float. This is a content of the before-float.
+</fo:block>
+</fo:float>
+14. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="start">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block background-color="#EEEE00" font-family="Arial" font-style="italic" end-indent="0.5em">This is a content of the start float.</fo:block>
+</fo:block-container>
+</fo:float>
+15. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+<fo:float float="end">
+<fo:block-container inline-progression-dimension="5em">
+<fo:block start-indent="0.5em" background-color="#AAAAEE" font-family="Arial" font-style="italic">This is a content of the end float.</fo:block>
+</fo:block-container>
+</fo:float>
+16. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+<fo:block text-align="justify" space-before="1em" space-before.conditionality="retain" font-family="Times New Roman" font-size="9.5pt">
+17. Unicode not only defines coded character set, but also provides other specifications.
+</fo:block>
+</fo:flow>
+</fo:page-sequence>
+</fo:root>

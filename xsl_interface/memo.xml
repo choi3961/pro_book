@@ -1,0 +1,31 @@
+<allwebs>
+  <body>
+    <regular_web>
+      <web>
+        <title>work_process</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/process</link>
+          <parent>process</parent>
+        </contents>
+      </web>        
+      <web>
+        <title>book2_map</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/book2_map</link>
+          <parent>process</parent>
+        </contents>
+      </web>   
+      <web>
+        <title>Signal System</title>
+        <contents>
+          <state added="true"/>
+          <link>/allwebs/signals</link>
+          <parent>process</parent>
+        </contents>
+      </web>                            
+    </regular_web>
+  </body>
+ 
+</allwebs>
